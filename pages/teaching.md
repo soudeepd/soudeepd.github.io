@@ -19,7 +19,7 @@ I have taught the following courses at the University of Chicago:
 
 * Summer 2017: Introductory Statistics Course, [Chicago Academic Achievement Program](https://caap.uchicago.edu/)
 * Summer 2015: Introductory Statistics Course, [Chicago Academic Achievement Program](https://caap.uchicago.edu/)
-* Winter 2015: Statistical Models and Methods I, Department of Statistics.
+* Winter 2015: [Statistical Models and Methods I](http://galton.uchicago.edu/courseinfo/courses/2015/win/ann/w23400-3.shtml), Department of Statistics.
 
 ### <a name="assistant"></a>Teaching assistant
 
