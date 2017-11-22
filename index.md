@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Kushal K Dey
-description: Kushal K Dey is a graduate student at University of Chicago, Statistics department currently involved in research in statistical genetics in Matthew Stephens Lab. Also involved in side projects on medical statistics, statistical nanosciences and MCMC. 
-keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCMC, nanosciences, 
+title: Soudeep Deb
+description: Soudeep is a Ph.D. candidate at the Department of Statistics, University of Chicago. 
+keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analytics.
 ---
 
 <div class="navbar">
@@ -19,18 +19,17 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="assets/bigpublpics/dp1.jpg" width="300" height="300" alt="" />
+    <img id="frontphoto" src="soudeep.png" width="300" height="300" alt="" />
 </td>
 <td class="left">
-<br><b> Kushal K Dey </b>
-<br> PhD,
-<br> Dept of Statistics
+<br><b> Soudeep Deb </b>
+<br> Ph.D. Candidate
+<br> Department of Statistics
 <br> University of Chicago
-<br><i> Matthew Stephens Lab </i>
 <br>
-<br> <b> Research Interest </b>: Statistical Genomics, Clustering,
-                           <br> Markov Chains, Meta Analysis, Shrinkage
-			   <br> Metagenomics, Phylogenetics
+<br> <b> Research Interest </b>: Time series data, Spatio-temporal modeling, 
+<br> Spatial statistics, Inference for random processes, 
+<br> Application of statistics in sports.
 </td>
 </tr>
 </table>
