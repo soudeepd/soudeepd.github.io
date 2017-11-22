@@ -19,7 +19,7 @@ Spatio-temporal Models with Space-time Interaction and Their Applications to Air
 
 ### <a name="previous"></a>Previous talks
 
-**August 2017**, VAR model based clustering method for multivariate time series data. XXXIV. International Seminar on Stability Problems for Stochastic Models, Debrecen, Hungary. 
+**August 2017**, VAR model based clustering method for multivariate time series data. XXXIV. International Seminar on Stability Problems for Stochastic Models, Debrecen, Hungary. [[abstract]](https://arato.inf.unideb.hu/isspsm2017/docs/abstbookb5_2017.pdf#page=40)
 
 **September 2016**, Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; NBER/NSF Time Series Conference, New York, NY, United States of America. 
 
