@@ -8,7 +8,7 @@ description: Soudeep Deb's teaching
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#instructor">Instructor</a></li>
-            <li><a href="#assistant">Teaching_Assistant</a></li>
+            <li><a href="#assistant">Teaching Assistant</a></li>
         </ul>
     </div>
 </div>

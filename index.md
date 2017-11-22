@@ -35,7 +35,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 
 <tr>
 <td class="left">
-<br> <b> Contact: <b>
+<br> <b> Contact: </b>
 <br> Department of Statistics 
 <br> University of Chicago
 <br> George Herbert Jones Laboratory 
