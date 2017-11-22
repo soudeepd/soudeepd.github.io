@@ -43,7 +43,7 @@ George Herbert Jones Laboratory
 5747 S. Ellis Avenue
 Chicago, IL, 60637. United States of America. 
 Mobile: +1(312)709-0673
-Email: [[sdeb@uchicago.edu]](mailto:sdeb@uchicago.edu), [[soudeep.deb@gmail.com]](mailto:soudeep.deb@gmail.com)
+Email: [[sdeb@uchicago.edu]](mailto:sdeb@uchicago.edu), [soudeep.deb@gmail.com](mailto:soudeep.deb@gmail.com)
 </td>
 </tr>
 
