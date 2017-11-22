@@ -9,8 +9,8 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
   <div class="navbar-inner">
     <div class="nav">
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
-          <li><a href="https://github.com/kkdey">github</a></li>
-	  <li><a href="https://scholar.google.com/citations?user=enYTvroAAAAJ&hl=en&oi=ao">google_scholar</a></li>
+       <!--   <li><a href="https://github.com/kkdey">github</a></li>
+	  <li><a href="https://scholar.google.com/citations?user=enYTvroAAAAJ&hl=en&oi=ao">google_scholar</a></li> -->
         </div>
   </div>
 </div>
