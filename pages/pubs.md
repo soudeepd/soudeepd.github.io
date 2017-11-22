@@ -7,8 +7,8 @@ description: Soudeep Deb's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#articles">Statistical_Theory_and_Methods</a></li>
-            <li><a href="#others">Interdisciplinary_Research</a></li>
+            <li><a href="#articles">Statistical Theory and Methods</a></li>
+            <li><a href="#others">Interdisciplinary Research</a></li>
         </ul>
     </div>
 </div>
