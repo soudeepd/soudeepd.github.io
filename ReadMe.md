@@ -1,6 +1,6 @@
-## Karl Broman&rsquo;s website
+## Kushal K Dey website
 
-See [kbroman.org](http://kbroman.org).
+See [kkdey.github.io](http://kkdey.github.io).
 
 ---
 
