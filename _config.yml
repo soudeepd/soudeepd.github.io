@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Karl Broman
+title : Soudeep Deb
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Soudeep Deb
+  email : kshldey@gmail.com
+  github : soudeepd
+  twitter : kanishkadey
   feedburner : nil
 
 production_url : http://kbroman.github.io
