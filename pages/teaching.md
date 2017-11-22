@@ -4,13 +4,26 @@ title: Teaching
 description: Soudeep Deb's teaching
 ---
 
-Primary instructor for the following courses at the University of Chicago:
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#instructor">Instructor</a></li>
+            <li><a href="#thesis">Teaching_Assistant</a></li>
+        </ul>
+    </div>
+</div>
+
+### <a name="instructor"></a>Primary instructor
+
+I have taught the following courses at the University of Chicago:
 
 * Summer 2017: Introductory Statistics Course, [Chicago Academic Achievement Program](https://caap.uchicago.edu/)
 * Summer 2015: Introductory Statistics Course, [Chicago Academic Achievement Program](https://caap.uchicago.edu/)
 * Winter 2015: Statistical Models and Methods I, Department of Statistics.
 
-Worked as a teaching assistant for the following courses at the University of Chicago:
+### <a name="articles"></a>Teaching assistant
+
+I have worked as a teaching assistant for the following courses at the University of Chicago:
 
 * Autumn 2017: Statistical Theory and Methods 1, Instructor: [Rina Foygel Barber](http://galton.uchicago.edu/faculty/barber.shtml)
 * Spring 2017: Bayesian Analysis and Principles of Statistics, Instructor: [Matthew Stevens](http://galton.uchicago.edu/faculty/stephens.shtml)
