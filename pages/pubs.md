@@ -20,7 +20,7 @@ description: Soudeep Deb's publications
 
 **Deb, S.**, Wu, W. B.; Clustering of Time Series Data using Spectral Density Estimates; In preparation.
 
-**Deb, S.**, Pourahmadi, M., Wu, W. B. (2017); An Asymptotic Theory for Spectral Analysis of Random Fields;  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [[pdf](icons16/pdf-icon.png)](https://projecteuclid.org/euclid.ejs/1510563632)
+**Deb, S.**, Pourahmadi, M., Wu, W. B. (2017); An Asymptotic Theory for Spectral Analysis of Random Fields;  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [[pdf](pdf)](https://projecteuclid.org/euclid.ejs/1510563632)
 
 **Deb, S.**, Dey, D. (2017); Spatial Modeling of Shot Conversion in Soccer to Single out Goalscoring Ability; Under review. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/1702.05662)
 
