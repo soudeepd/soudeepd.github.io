@@ -11,7 +11,6 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
           <li><a href="https://github.com/kkdey">github</a></li>
 	  <li><a href="https://scholar.google.com/citations?user=enYTvroAAAAJ&hl=en&oi=ao">google_scholar</a></li>
-          <li><a href="https://twitter.com/kanishkadey">@kanishkadey</a></li>
         </div>
   </div>
 </div>
@@ -21,6 +20,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <td class="left">
     <img id="frontphoto" src="soudeep.png" width="300" height="300" alt="" />
 </td>
+&nbsp; &nbsp; 
 <td class="left">
 <br><b> Soudeep Deb </b>
 <br> Ph.D. Candidate
