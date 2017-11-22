@@ -9,7 +9,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
   <div class="navbar-inner">
     <div class="nav">
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
-        <li><a href="https://scholar.google.com/citations?user=HjWwFs8AAAAJ&hl=en&oi=ao">Google_scholar</a></li>
+        <li><a href="https://scholar.google.com/citations?user=HjWwFs8AAAAJ&hl=en&oi=ao">Google scholar</a></li>
         </div>
   </div>
 </div>
@@ -19,7 +19,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <td class="left">
     <img id="frontphoto" src="soudeep.png" width="300" height="300" alt="" />
 </td>
-&nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
 <br><b> Soudeep Deb </b>
 <br> Ph.D. Candidate
@@ -32,6 +32,19 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 </td>
 </tr>
 </table>
+
+<tr>
+<td class="left">
+<br> <b> Contact: <b>
+<br> Department of Statistics 
+<br> University of Chicago
+<br> George Herbert Jones Laboratory 
+<br> 5747 S. Ellis Avenue
+<br> Chicago, IL, 60637. United States of America. 
+<br> Mobile: +1(312)709-0673
+<br> Email: [sdeb@uchicago.edu](mailto:sdeb@uchicago.edu), [soudeep.deb@gmail.com](mailto:soudeep.deb@gmail.com)
+</td>
+</tr>
 
 
 <!--
