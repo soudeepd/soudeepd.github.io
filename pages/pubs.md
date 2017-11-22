@@ -7,26 +7,26 @@ description: Soudeep Deb's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#articles">Statistical theory</a></li>
-            <li><a href="#interdisciplinary">Application</a></li>
+            <li><a href="#articles">Statistical_Theory_and_Methods</a></li>
+            <li><a href="#others">Interdisciplinary_Research</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="articles"></a>Journal articles
+### <a name="articles"></a>Statistical theorey and methods
 
 **Deb, S.**, Tsay, R. S.; Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; In preparation. 
 
 **Deb, S.**, Wu, W. B.; Clustering of Time Series Data using Spectral Density Estimates; In preparation.
 
-**Deb, S.**, Pourahmadi, M., Wu, W. B. (2017); An Asymptotic Theory for Spectral Analysis of Random Fields;  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [![pdf](Publication)](https://projecteuclid.org/euclid.ejs/1510563632)
+**Deb, S.**, Pourahmadi, M., Wu, W. B. (2017); An Asymptotic Theory for Spectral Analysis of Random Fields;  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [![pdf](icons16/pdf-icon.png)](https://projecteuclid.org/euclid.ejs/1510563632)
 
 **Deb, S.**, Dey, D. (2017); Spatial Modeling of Shot Conversion in Soccer to Single out Goalscoring Ability; Under review. [![pdf](icons16/pdf-icon.png)](https://arxiv.org/abs/1702.05662)
 
 **Deb, S.** (2017); VAR model based clustering method for multivariate time series data; In XXXIV. International Seminar on Stability Problems for Stochastic Models (p. 28). [![pdf](icons16/pdf-icon.png)](https://arato.inf.unideb.hu/isspsm2017/docs/abstbookb5_2017.pdf#page=40)
 
-### <a name="interdisciplinary"></a>Interdisciplinary research
+### <a name="others"></a>Interdisciplinary research
 
 Chazin, H., **Deb, S.**, Falk, J., Srinivasan, A. (2017); New Statistical Approaches to Intra-individual Isotopic Analysis and Modeling Birth Seasonality in Studies of Herd Animals; Under revision, Archaeometry.
 

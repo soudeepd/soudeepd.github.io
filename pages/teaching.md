@@ -8,7 +8,7 @@ description: Soudeep Deb's teaching
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#instructor">Instructor</a></li>
-            <li><a href="#thesis">Teaching_Assistant</a></li>
+            <li><a href="#assistant">Teaching_Assistant</a></li>
         </ul>
     </div>
 </div>
@@ -21,7 +21,7 @@ I have taught the following courses at the University of Chicago:
 * Summer 2015: Introductory Statistics Course, [Chicago Academic Achievement Program](https://caap.uchicago.edu/)
 * Winter 2015: Statistical Models and Methods I, Department of Statistics.
 
-### <a name="articles"></a>Teaching assistant
+### <a name="assistant"></a>Teaching assistant
 
 I have worked as a teaching assistant for the following courses at the University of Chicago:
 
