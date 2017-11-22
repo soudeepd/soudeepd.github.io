@@ -9,8 +9,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
   <div class="navbar-inner">
     <div class="nav">
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
-       <!--   <li><a href="https://github.com/kkdey">github</a></li>
-	  <li><a href="https://scholar.google.com/citations?user=enYTvroAAAAJ&hl=en&oi=ao">google_scholar</a></li> -->
+        <li><a href="https://scholar.google.com/citations?user=HjWwFs8AAAAJ&hl=en&oi=ao">Google_scholar</a></li>
         </div>
   </div>
 </div>
@@ -27,8 +26,8 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <br> Department of Statistics
 <br> University of Chicago
 <br>
-<br> <b> Research Interest </b>: Time series data, Spatio-temporal modeling, 
-<br> Spatial statistics, Inference for random processes, 
+<br> <b> Research Interest </b>: Time series data, Spatial statistics,  
+<br> Spatio-temporal modeling, Inference for random processes, 
 <br> Application of statistics in sports.
 </td>
 </tr>
