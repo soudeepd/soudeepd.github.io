@@ -36,12 +36,19 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <tr>
 <td class="left">
 <br> <b> Contact: </b>
-<br> Department of Statistics 
-<br> University of Chicago
-<br> George Herbert Jones Laboratory 
-<br> 5747 S. Ellis Avenue
-<br> Chicago, IL, 60637. United States of America. 
-<br> Mobile: +1(312)709-0673
+
+Department of Statistics 
+
+University of Chicago
+
+George Herbert Jones Laboratory 
+
+5747 S. Ellis Avenue
+
+Chicago, IL, 60637. United States of America. 
+
+Mobile: +1(312)709-0673
+
 Email: [sdeb@uchicago.edu](mailto:sdeb@uchicago.edu), [soudeep.deb@gmail.com](mailto:soudeep.deb@gmail.com)
 </td>
 </tr>
