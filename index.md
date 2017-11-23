@@ -23,11 +23,12 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
 <br><b> Soudeep Deb </b>
-<br> Ph.D. Candidate
-<br> Department of Statistics
-<br> University of Chicago
-<br>
-<br> <b> Research Interest </b>: Time series data, Spatial statistics, Spatio-temporal modeling, Inference for random processes, Application of statistics in sports.
+
+I am currently a Ph.D. candidate at the Department of Statistics, University of Chicago, and am working towards my Ph.D. thesis under the direction of [Professor Wei Biao Wu](https://www.stat.uchicago.edu/~wbwu/). My primary research interests are time series data, spatio-temporal modeling, spatial statistics and inference for random processes. I am also interested in the application of statistics in sports, especially soccer.
+
+Previously, in 2011, I completed my Bachelor's degree in Statistics at the Indian Statistical Institute. In 2013, I completed my Master's degree in Statistics from the same university, with a specialization in Mathematical Statistics and Probability. For my Master's thesis, I worked on Association Analyses for Identifying Rare Genetic Variants with [Dr. Saurabh Ghosh](http://www.isical.ac.in/~saurabh/).
+
+Here is a link to my [curriculum vitae](/assets/CV_DebSoudeep.pdf).
 </td>
 </tr>
 </table>
@@ -47,7 +48,11 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 
 
 <!--
-
+<br> Ph.D. Candidate
+<br> Department of Statistics
+<br> University of Chicago
+<br>
+<br> <b> Research Interest </b>: Time series data, Spatial statistics, Spatio-temporal modeling, Inference for random processes, Application of statistics in sports.
 <table class="wide">
 <tr>
   <td class="left">
