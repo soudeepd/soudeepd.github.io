@@ -35,9 +35,9 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <br> Previously, I was a student at the Indian 
 <br> Statistical Institute, where I completed my 
 <br> Bachelor's degree (in 2011), and Master's 
-<br> degree (in 2013) in Statistics. For my 
-<br> Master's thesis, I worked on Association Analyses 
-<br> for Identifying Rare Genetic Variants with <a href="http://www.isical.ac.in/~saurabh/">Dr. Saurabh Ghosh</a>.
+<br> degree (in 2013) in Statistics. For my Master's 
+<br> thesis, I worked on Association Analyses for 
+<br> Identifying Rare Genetic Variants with <a href="http://www.isical.ac.in/~saurabh/">Dr. Saurabh Ghosh</a>.
 </td>
 </tr>
 </table>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-description: Soudeep Deb's publications
+title: Research
+description: Soudeep Deb's research
 ---
 
 <div class="navbar">
@@ -13,6 +13,9 @@ description: Soudeep Deb's publications
     </div>
 </div>
 
+## Research Interest: 
+
+Time series data, Spatial statistics, Spatio-temporal modeling, Inference for random processes, Application of statistics in sports, especially soccer.
 
 ### <a name="articles"></a>Statistical theorey and methods
 
