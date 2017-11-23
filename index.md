@@ -18,7 +18,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="soudeep.png" width="300" height="300" alt="" />
+    <img id="frontphoto" src="soudeep.png" width="320" height="320" alt="" />
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
@@ -33,8 +33,8 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <br> in sports, especially soccer.
 <br>
 <br> Previously, I studied at the Indian Statistical 
-<br> Institute, where I completed my Bachelor's degree (in 2011), 
-<br> and Master's degree (in 2013) in Statistics. 
+<br> Institute, where I completed my Bachelor's degree 
+<br> (in 2011), and Master's degree (in 2013) in Statistics. 
 <br> For my Master's thesis, I worked on Association Analyses for 
 <br> Identifying Rare Genetic Variants with <a href="http://www.isical.ac.in/~saurabh/">Dr. Saurabh Ghosh</a>.
 </td>
