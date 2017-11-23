@@ -13,9 +13,13 @@ description: Soudeep Deb's research
     </div>
 </div>
 
-## Research Interest: 
+# Interest: 
 
-Time series data, Spatial statistics, Spatio-temporal modeling, Inference for random processes, Application of statistics in sports, especially soccer.
+- Time series data 
+- Spatial statistics 
+- Spatio-temporal modeling 
+- Inference for random processes
+- Application of statistics in sports, especially soccer.
 
 ### <a name="articles"></a>Statistical theorey and methods
 
