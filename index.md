@@ -26,7 +26,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <br> at the Department of Statistics, 
 <br> University of Chicago, and am working 
 <br> towards my Ph.D. thesis under the 
-<br> direction of [Professor Wei Biao Wu](https://www.stat.uchicago.edu/~wbwu/). 
+<br> direction of <a href="https://www.stat.uchicago.edu/~wbwu/">Professor Wei Biao Wu</a>. 
 <br> My primary research interests are 
 <br> time series data, spatial statistics 
 <br> spatio-temporal modeling and inference 
