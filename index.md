@@ -22,17 +22,22 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
-<br> I am currently a Ph.D. candidate  
-<br> at the Department of Statistics, 
-<br> University of Chicago, and am working 
-<br> towards my Ph.D. thesis under the 
-<br> direction of <a href="https://www.stat.uchicago.edu/~wbwu/">Professor Wei Biao Wu</a>. 
-<br> My primary research interests are 
-<br> time series data, spatial statistics 
-<br> spatio-temporal modeling and inference 
-<br> for random processes. I am also 
+<br> I am currently a Ph.D. candidate at the 
+<br> Department of Statistics, University of Chicago,
+<br> and am working towards my Ph.D. thesis
+<br> under the  direction of <a href="https://www.stat.uchicago.edu/~wbwu/">Professor Wei Biao Wu</a>.
+<br> My primary research interests are time series
+<br> data, spatio-temporal modeling, spatial data 
+<br> and inference for random processes. I am also 
 <br> interested in the application of statistics
 <br> in sports, especially soccer.
+<br>
+<br> Previously, I was a student at the Indian 
+<br> Statistical Institute, where I completed my 
+<br> Bachelor's degree (in 2011), and Master's 
+<br> degree (in 2013) in Statistics. For my 
+<br> Master's thesis, I worked on Association Analyses 
+<br> for Identifying Rare Genetic Variants with <a href="http://www.isical.ac.in/~saurabh/">Dr. Saurabh Ghosh</a>.
 </td>
 </tr>
 </table>
