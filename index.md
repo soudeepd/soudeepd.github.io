@@ -27,9 +27,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <br> Department of Statistics
 <br> University of Chicago
 <br>
-<br> <b> Research Interest </b>: Time series data, Spatial statistics,  
-<br> Spatio-temporal modeling, Inference for random processes, 
-<br> Application of statistics in sports.
+<br> <b> Research Interest </b>: Time series data, Spatial statistics, Spatio-temporal modeling, Inference for random processes, Application of statistics in sports.
 </td>
 </tr>
 </table>
