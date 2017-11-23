@@ -14,7 +14,7 @@ description: Soudeep Deb's research
     </div>
 </div>
 
-# <a name="interest"></a>Area of interest: 
+### <a name="interest"></a>Area of interest: 
 
 - Time series data 
 - Spatial statistics 
@@ -46,7 +46,7 @@ I also like to use the concepts of time series and spatial data in other discipl
 
 - **Deb, S.**, Smith, J., Alencar, A., Coe, M. (2016); IIC Brazil Summer Policy Lab Hydropower Construction and Deforestation: Linking Forest Cover to Changes in Water Balance. [[policy brief]](http://whrc.org/wp-content/uploads/2016/09/PB_Hydropower_Construction_and_Deforestation.pdf)
 
-- Zechner, C., **Deb, S.**, Koeppl, H. (2013); Marginal Dynamics of Stochastic Biochemical Networks in Random Environments; In Control Conference (ECC), 2013 European (pp. 4269-4274). IEEE. [[publication]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6669606)[[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:pXP2EYLUcnsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhXlUAYPCx-Yum1cnD1QPYpWHG0IZ_D7&scisf=4&ct=citation&cd=-1&hl=en)
+- Zechner, C., **Deb, S.**, Koeppl, H. (2013); Marginal Dynamics of Stochastic Biochemical Networks in Random Environments; In Control Conference (ECC), 2013 European (pp. 4269-4274). IEEE. [[publication]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6669606) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:pXP2EYLUcnsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhXlUAYPCx-Yum1cnD1QPYpWHG0IZ_D7&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Ghosh, S., **Deb, S.** (2013), A Clustering Approach for Mapping Rare Variants Based in Mutual Association. Human Heredity, Vol. 76, No. 2, pp. 98-98. 
 
