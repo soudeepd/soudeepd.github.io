@@ -50,7 +50,7 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <br> 5747 S. Ellis Avenue
 <br> Chicago, IL, 60637. United States of America. 
 <br> Mobile: +1(312)709-0673
-<br> Email: sdeb@uchicago.edu
+<br> Email: <a href="mailto:sdeb@uchicago.edu">sdeb@uchicago.edu</a>
 </td>
 </tr>
 
