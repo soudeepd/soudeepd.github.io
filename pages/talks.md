@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Talks
-description: Soudeep Deb's talks
+title: Talk
+description: Soudeep's talks
 ---
 
 <div class="navbar">

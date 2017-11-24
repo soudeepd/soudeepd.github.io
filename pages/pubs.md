@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Soudeep Deb's research
+description: Soudeep's research
 ---
 
 <div class="navbar">
@@ -16,15 +16,15 @@ description: Soudeep Deb's research
 
 ### <a name="interest"></a>Area of interest: 
 
-- Time series data 
+- Time series 
 - Spatial statistics 
 - Spatio-temporal modeling 
 - Inference for random processes
-- Application of statistics in sports, especially soccer.
+- Application of statistics in sports, especially soccer
 
 ### <a name="articles"></a>Statistical theorey and methods
 
-Following is a list of publications, submitted manuscripts and ongoing projects.
+Following is a list of my publications, submitted manuscripts and ongoing projects.
 
 - **Deb, S.**, Tsay, R. S.; Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; In preparation. 
 
