@@ -30,7 +30,7 @@ Following is a list of my publications, submitted manuscripts and ongoing projec
 
 - **Deb, S.**, Wu, W. B.; Clustering of Time Series Data using Spectral Density Estimates; In preparation.
 
-- **Deb, S.**, Pourahmadi, M., Wu, W. B. (2017); An Asymptotic Theory for Spectral Analysis of Random Fields;  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [[publication]](https://projecteuclid.org/euclid.ejs/1510563632) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:JX5Fn-M7U2sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhXkzu49eKsh3bm7_-tywu4mo7oiPCD4&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.**, Pourahmadi, M., Wu, W. B. (2017); An Asymptotic Theory for Spectral Analysis of Random Fields;  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [[publication]](https://projecteuclid.org/euclid.ejs/1510563632) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:JX5Fn-M7U2sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhuoD1PJiiT5t-FFYrxU8gC-b5MOhiVs&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Dey, D. (2017); Spatial Modeling of Shot Conversion in Soccer to Single out Goalscoring Ability; Under review. [[arxiv]](https://arxiv.org/abs/1702.05662) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:wrMoFuFT4hEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhXlGv0fi-aiYw52RwwA0dFbp1Nf-dDj&scisf=4&ct=citation&cd=-1&hl=en)
 
