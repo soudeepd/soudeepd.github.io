@@ -22,7 +22,7 @@ description: Soudeep's research
 - Inference for random processes
 - Application of statistics in sports, especially soccer
 
-### <a name="articles"></a>Statistical theorey and methods
+### <a name="articles"></a>Statistical theory and methods
 
 Following is a list of my publications, submitted manuscripts and ongoing projects.
 
