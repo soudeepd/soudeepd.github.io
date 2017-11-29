@@ -16,7 +16,7 @@ description: Soudeep's research
 
 ### <a name="interest"></a>Area of interest: 
 
-- Time series 
+- Time series data
 - Spatial statistics 
 - Spatio-temporal modeling 
 - Inference for random processes
