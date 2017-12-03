@@ -7,17 +7,19 @@ description: Soudeep's talks
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#upcoming">Upcoming</a></li>
+            <!--<li><a href="#upcoming">Upcoming</a></li> -->
             <li><a href="#previous">Previous talks</a></li>
         </ul>
     </div>
 </div>
 
-### <a name="upcoming"></a>Upcoming talks
+<!--### <a name="upcoming"></a>Upcoming talks -->
 
-- **December 2017**, Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; Statistics Colloquium, Northern Illinois University, Dekalb, IL, United States of America.
+
 
 ### <a name="previous"></a>Previous talks
+
+- **December 2017**, Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; Statistics Colloquium, Northern Illinois University, Dekalb, IL, United States of America.
 
 - **August 2017**, VAR model based clustering method for multivariate time series data. XXXIV. International Seminar on Stability Problems for Stochastic Models, Debrecen, Hungary. [[abstract]](https://arato.inf.unideb.hu/isspsm2017/docs/abstbookb5_2017.pdf#page=40)
 
