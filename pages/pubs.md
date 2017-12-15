@@ -26,9 +26,9 @@ description: Soudeep's research
 
 Following is a list of my publications, submitted manuscripts and ongoing projects.
 
-- **Deb, S.**, Tsay, R. S.; Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; In preparation. 
-
 - **Deb, S.**, Wu, W. B.; Clustering of Time Series Data using Spectral Density Estimates; In preparation.
+
+- **Deb, S.**, Tsay, R. S.; Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; Under review. 
 
 - **Deb, S.**, Pourahmadi, M., Wu, W. B. (2017); An Asymptotic Theory for Spectral Analysis of Random Fields;  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [[publication]](https://projecteuclid.org/euclid.ejs/1510563632) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:JX5Fn-M7U2sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhuoD1PJiiT5t-FFYrxU8gC-b5MOhiVs&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -40,9 +40,11 @@ Following is a list of my publications, submitted manuscripts and ongoing projec
 
 I also like to use the concepts of time series and spatial data in other disciplines. Here are some projects I have worked on so far, in collaboration with researchers from different places.
 
+- Chazin, H., **Deb, S.**, Falk, J., Srinivasan, A. (2017); New Statistical Approaches to Intra-individual Isotopic Analysis and Modeling Birth Seasonality in Studies of Herd Animals; Under revision, Archaeometry.
+
 - Prickett, K.C., Guiterrez, C., **Deb, S.**; U.S. Family Firearm Ownership and Firearm-Related Child Mortality from 1976 to 2014, In preparation.
 
-- Chazin, H., **Deb, S.**, Falk, J., Srinivasan, A. (2017); New Statistical Approaches to Intra-individual Isotopic Analysis and Modeling Birth Seasonality in Studies of Herd Animals; Under revision, Archaeometry.
+- Badrinathan, S., **Deb, S.**; Representation in Indian Politics : People's Priorities and Their Effect on Legislative Activity; In preparation.
 
 - **Deb, S.**, Smith, J., Alencar, A., Coe, M. (2016); IIC Brazil Summer Policy Lab Hydropower Construction and Deforestation: Linking Forest Cover to Changes in Water Balance. [[policy brief]](http://whrc.org/wp-content/uploads/2016/09/PB_Hydropower_Construction_and_Deforestation.pdf)
 
