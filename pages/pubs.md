@@ -8,7 +8,7 @@ description: Soudeep's research
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#interest">Interests</a></li>
-            <li><a href="#articles">Publications</a></li>
+            <li><a href="#articles">Statistical theory and methods</a></li>
             <li><a href="#others">Interdisciplinary Research</a></li>
         </ul>
     </div>
@@ -34,7 +34,7 @@ Following is a list of my publications, submitted manuscripts and ongoing projec
 
 - **Deb, S.**, Dey, D. (2017); Spatial Modeling of Shot Conversion in Soccer to Single out Goalscoring Ability; Under review. [[arxiv]](https://arxiv.org/abs/1702.05662) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:wrMoFuFT4hEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhupGpNWq0QGbmTFjp886btXE3I3En45&scisf=4&ct=citation&cd=-1&hl=en)
 
-- **Deb, S.** (2017); VAR model based clustering method for multivariate time series data; In XXXIV. International Seminar on Stability Problems for Stochastic Models (p. 28). [[abstract]](https://arato.inf.unideb.hu/isspsm2017/docs/abstbookb5_2017.pdf#page=40)
+- **Deb, S.** (2017); VAR Model Based Clustering Method for Multivariate Time Series Data; In XXXIV. International Seminar on Stability Problems for Stochastic Models (p. 28). [[abstract]](https://arato.inf.unideb.hu/isspsm2017/docs/abstbookb5_2017.pdf#page=40)
 
 ### <a name="others"></a>Interdisciplinary research
 
