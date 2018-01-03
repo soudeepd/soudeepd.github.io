@@ -25,6 +25,7 @@ I have taught the following courses at the University of Chicago:
 
 I have worked as a teaching assistant for the following courses at the University of Chicago:
 
+* Winter 2018: Statistical Theory and Methods 2, Instructor: [Michael L. Stein](http://galton.uchicago.edu/faculty/stein.shtml).
 * Autumn 2017: Statistical Theory and Methods 1, Instructor: [Rina Foygel Barber](http://galton.uchicago.edu/faculty/barber.shtml).
 * Spring 2017: Bayesian Analysis and Principles of Statistics, Instructor: [Matthew Stevens](http://galton.uchicago.edu/faculty/stephens.shtml).
 * Autumn 2016: Statistical Theory and Methods 1a, Instructor: [Michael L. Stein](http://galton.uchicago.edu/faculty/stein.shtml).
