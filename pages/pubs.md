@@ -28,7 +28,7 @@ Following is a list of my publications, submitted manuscripts and ongoing projec
 
 - **Deb, S.**, Wu, W. B.; Clustering of Time Series Data using Spectral Density Estimates; In preparation.
 
-- **Deb, S.**, Tsay, R. S.; Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; Under review. 
+- **Deb, S.**, Tsay, R. S.; Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; Under review. [[arxiv]](https://arxiv.org/abs/1801.00211)
 
 - **Deb, S.**, Pourahmadi, M., Wu, W. B. (2017); An Asymptotic Theory for Spectral Analysis of Random Fields;  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [[publication]](https://projecteuclid.org/euclid.ejs/1510563632) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:JX5Fn-M7U2sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhuoD1PJiiT5t-FFYrxU8gC-b5MOhiVs&scisf=4&ct=citation&cd=-1&hl=en)
 
