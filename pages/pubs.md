@@ -28,7 +28,7 @@ Following is a list of my publications, submitted manuscripts and ongoing projec
 
 - El Machkouri, M., **Deb, S**, Wu, W. B.; Simultaneous inference for high dimensional random field; In preparation.
 
-- **Deb, S.**, Wu, W. B. (2018).; Clustering of Time Series Data using Spectral Density Estimates; Under review.
+- **Deb, S.**, Wu, W. B. (2018+).; Clustering of Time Series Data using Spectral Density Estimates; Under review.
 
 - **Deb, S.**, Tsay, R. S. (2017+); Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; Under review. [[arxiv]](https://arxiv.org/abs/1801.00211)
 
