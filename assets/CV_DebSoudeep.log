@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  22 FEB 2018 09:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 APR 2018 10:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,31 +355,31 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (7.1246pt too wide) in paragraph at lines 371--372
+Overfull \hbox (7.1246pt too wide) in paragraph at lines 372--373
 []\OT1/cmr/m/n/10 Project: Geospa-tial time-series anal-y-ses to pre-dict de-ma
 nd for satel-lite com-mu-ni-ca-tions net-work. 
  []
 
-
-Overfull \hbox (9.32384pt too wide) in paragraph at lines 433--434
+[2]
+Overfull \hbox (9.32384pt too wide) in paragraph at lines 434--435
 \OT1/cmr/m/n/10 to Air Pol-lu-tion Data. Statis-tics col-lo-quium, Di-vi-sion o
 f Statis-tics, North-ern Illi-nois Uni-ver-sity,
  []
 
-[2]
-Overfull \hbox (11.33307pt too wide) in paragraph at lines 435--436
+
+Overfull \hbox (11.33307pt too wide) in paragraph at lines 436--437
 []\OT1/cmr/m/n/10 (Contributed talk) Spatio-temporal Mod-els with Space-time In
 -ter-ac-tion and Their Ap-pli-ca-tions
  []
 
 
-Overfull \hbox (1.80518pt too wide) in paragraph at lines 437--438
+Overfull \hbox (1.80518pt too wide) in paragraph at lines 438--439
 []\OT1/cmr/m/n/10 (Poster) Es-ti-mat-ing the Ge-netic Re-la-tion-ship be-tween 
 two Ran-dom In-di-vid-u-als from Genome
  []
 
 
-Overfull \hbox (3.86534pt too wide) in paragraph at lines 439--440
+Overfull \hbox (3.86534pt too wide) in paragraph at lines 440--441
 \OT1/cmr/m/n/10 Genome Se-quence Data. D. Basu Memo-rial Award Lec-ture Se-ries
 , In-dian Sta-tis-ti-cal In-sti-tute,
  []
@@ -397,23 +397,23 @@ Package rerunfilecheck Info: File `CV_DebSoudeep.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 475.
  ) 
 Here is how much of TeX's memory you used:
- 6328 strings out of 492995
- 93171 string characters out of 6132704
+ 6329 strings out of 492995
+ 93178 string characters out of 6132704
  198925 words of memory out of 5000000
  9819 multiletter control sequences out of 15000+600000
  4854 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,13n,43p,496b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,14n,43p,496b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
 /local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CV_DebSoudeep.pdf (3 pages, 88799 bytes).
+Output written on CV_DebSoudeep.pdf (3 pages, 89058 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
