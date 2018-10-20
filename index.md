@@ -8,7 +8,7 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <div class="navbar">
   <div class="navbar-inner">
     <div class="nav">
-        <li><a href="https://soudeepd.github.io/Resume/Resume_DebSoudeep.pdf" target="_blank">CV</a></li>
+        <li><a href="https://soudeepd.github.io/Resume/Resume_DebSoudeep.pdf" target="_blank">Resume</a></li>
         <li><a href="https://scholar.google.com/citations?user=HjWwFs8AAAAJ&hl=en&oi=ao" target="_blank">Scholar</a></li>
         <li><a href="https://www.linkedin.com/in/debsoudeep/" target="_blank">LinkedIn</a></li>
         </div>
@@ -22,15 +22,14 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
-<br> I am currently working as Senior Lead Data Scientist
-<br> at NBC Universal Media, LLC. In August 2018, I completed  
+<br> I am currently working as Senior Lead Data Scientist at
+<br> <a href="http://www.nbcuniversal.com/">NBC Universal Media, LLC</a>. In August 2018, I completed  
 <br> my Ph.D. in Statistics from the University of Chicago.
 <br> 
 <br> My primary field of work are related to forecasting, 
-<br> time series data, spatio-temporal modeling, 
-<br> and inference for random processes. I am also 
-<br> interested in the application of statistics
-<br> in sports, especially soccer.
+<br> time series data, spatio-temporal modeling, inference
+<br> for random processes. I am also interested in sports
+<br> analytics, especially problems related to soccer.
 <br>
 <br> Previously, I studied at the Indian Statistical 
 <br> Institute, where I completed my Bachelor's degree 
