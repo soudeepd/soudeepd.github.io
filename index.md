@@ -1,14 +1,14 @@
 ---
 layout: frontpage
 title: Soudeep Deb
-description: Soudeep is a Ph.D. candidate at the Department of Statistics, University of Chicago. 
-keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analytics.
+description: Soudeep is a Senior Lead Data Scientist at NBC Universal Media, LLC. 
+keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecasting.
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
     <div class="nav">
-        <li><a href="https://soudeepd.github.io/assets/CV_DebSoudeep.pdf" target="_blank">CV</a></li>
+        <li><a href="https://soudeepd.github.io/Resume/Resume_DebSoudeep.pdf" target="_blank">CV</a></li>
         <li><a href="https://scholar.google.com/citations?user=HjWwFs8AAAAJ&hl=en&oi=ao" target="_blank">Scholar</a></li>
         <li><a href="https://www.linkedin.com/in/debsoudeep/" target="_blank">LinkedIn</a></li>
         </div>
@@ -22,12 +22,12 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
-<br> I am currently a Ph.D. candidate at the 
-<br> Department of Statistics, University of Chicago,
-<br> and am working towards my Ph.D. thesis
-<br> under the  direction of <a href="https://www.stat.uchicago.edu/~wbwu/">Professor Wei Biao Wu</a>.
-<br> My primary research interests are time series
-<br> data, spatio-temporal modeling, spatial data 
+<br> I am currently working as Senior Lead Data Scientist
+<br> at NBC Universal Media, LLC. In August 2018, I completed  
+<br> my Ph.D. in Statistics from the University of Chicago.
+<br> 
+<br> My primary field of work are related to forecasting, 
+<br> time series data, spatio-temporal modeling, 
 <br> and inference for random processes. I am also 
 <br> interested in the application of statistics
 <br> in sports, especially soccer.
@@ -43,13 +43,12 @@ keywords: deb, time series, spatio-temporal modeling, spatial data, soccer analy
 <tr>
 <td class="left">
 <br> <b> Contact: </b>
-<br> Department of Statistics 
-<br> University of Chicago
-<br> George Herbert Jones Laboratory 
-<br> 5747 S. Ellis Avenue
-<br> Chicago, IL, 60637. United States of America. 
+<br> NBC Universal Media, LLC 
+<br> 1221 Avenue of the Americas
+<br> Floor 28
+<br> New York, NY, 10020. United States of America. 
 <br> Mobile: +1(312)709-0673
-<br> Email: <a href="mailto:sdeb@uchicago.edu">sdeb@uchicago.edu</a>
+<br> Email: <a href="mailto:soudeep.deb@nbcuni.com">soudeep.deb@nbcuni.com</a>
 </td>
 </tr>
 
