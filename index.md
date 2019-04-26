@@ -46,7 +46,7 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <br> 1221 Avenue of the Americas
 <br> Floor 28
 <br> New York, NY, 10020. United States of America. 
-<br> Mobile: +1(212)664-4519 
+<br> Phone: +1(212)664-4519 
 <br> Email: <a href="mailto:soudeep.deb@nbcuni.com">soudeep.deb@nbcuni.com</a>
 </td>
 </tr>
