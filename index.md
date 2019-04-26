@@ -18,7 +18,7 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="dp2.jpg" width="280" height="280" alt="" />
+    <img id="frontphoto" src="soudeep-pic1.jpg" width="280" height="280" alt="" />
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
@@ -44,7 +44,6 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <br> <b> Contact: </b>
 <br> NBC Universal Media, LLC 
 <br> 1221 Avenue of the Americas
-<br> Floor 28
 <br> New York, NY, 10020. United States of America. 
 <br> Phone: +1(212)664-4519 
 <br> Email: <a href="mailto:soudeep.deb@nbcuni.com">soudeep.deb@nbcuni.com</a>
