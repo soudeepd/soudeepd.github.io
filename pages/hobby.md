@@ -23,7 +23,7 @@ I am an avid traveler, and have traveled to 22 countries from six continents so 
 
 * [Build your own map](https://soudeep.shinyapps.io/World-Scratch-Map/): Who does not want to show off to friends and relatives? Using this app (I am still working on this to make it faster and better), you can make your own mark in the world. Go to this website, select the places you have visited so far, and voila - you get a map like the following. 
 
-<img src="my_scratch_map.png" title="my scratch map" alt="my scratch map" width="50%" style="display: block; margin: auto;" />
+<img src="my_scratch_map.jpg" title="my scratch map" alt="my scratch map" width="50%" style="display: block; margin: auto;" />
 
 ### <a name="blog"></a>Blogging
 
