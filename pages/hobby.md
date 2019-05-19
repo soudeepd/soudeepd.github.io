@@ -29,10 +29,8 @@ I am an avid traveler, and have traveled to 22 countries from six continents so 
 
 I have been writing since my childhood, although I have not been much productive in recent years. Still, in my leisure hours, I am trying to maintain the habit as much as I can.
 
-* [Trip to Mexico City](https://soudeepd.blogspot.com/2019/02/a-three-day-affair-with-mexico-city.html): In February 2019, I had a solo trip to one of the busiest and amazing cities of the world. Here is the story of that three-day trip.
+* [My travel stories](https://songsofroad.com/): In May 2019, I have finally managed to start this blog, to keep all the stories from my trips in one place. It also contains a selected collection of my good photos from different times.
 
-* [Stories from Africa](https://soudeepd.blogspot.com/2017/02/an-african-diary-marvellous-journey.html): This was my first travel story ever, after I visited Masai Mara in Kenya. It was one of my dream destinations and I finally managed to experience the magnificent wilderness in February, 2017. 
-
-* [Personal blog](http://soudeepd.blogspot.com): This is the place where I scribble stuff from time to time.
+* [Personal blog](http://soudeepd.blogspot.com): This is the place where I scribble other stuff from time to time.
 
 * [Chorjapod](http://chorjapod.com/author/pagladashu/): If you love to read or write Bengali piecese, please visit this website. It is one of the best online blogging community ever.
