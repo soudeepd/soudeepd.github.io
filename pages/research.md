@@ -32,7 +32,7 @@ Following is a list of my publications, submitted manuscripts and ongoing projec
 
 - **Deb, S.**, Tsay, R. S. (2019). Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. To appear in Statistica Sinica. [[pre-print]](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0561_na.pdf)
 
-- **Deb, S.**, Dey, D. (2019). Spatial Modeling of Shot Conversion in Soccer to Single out Goalscoring Ability; To appear in Journal of Sports Analytics. [[arxiv]](https://arxiv.org/abs/1702.05662) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:wrMoFuFT4hEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhupGpNWq0QGbmTFjp886btXE3I3En45&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.**, Dey, D. (2019). Spatial Modeling of Shot Conversion in Soccer to Single out Goalscoring Ability; To appear in Journal of Sports Analytics. [[publication]](https://content.iospress.com/articles/journal-of-sports-analytics/jsa190281) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:wrMoFuFT4hEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhupGpNWq0QGbmTFjp886btXE3I3En45&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.** (2019). VAR Model Based Clustering Method for Multivariate Time Series Data. Journal of Mathematical Sciences, 237(6), 754-765. [[publication]](https://link.springer.com/article/10.1007/s10958-019-04201-4) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:JkpxxCcEpYMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMObhGDMYum2QHO970ACm-3-uIcPRKHT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
