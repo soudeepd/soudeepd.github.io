@@ -30,7 +30,7 @@ Following is a list of my publications, submitted manuscripts and ongoing projec
 
 - **Deb, S.**, Wu, W. B. (2019+). Clustering of Time Series Data using Spectral Density Estimates. In preparation.
 
-- **Deb, S.**, Deb, S (2019+). A New Approach to Forecast Dengue Cases based on Climate and Terrain. In preparation.
+- **Deb, S.**, Deb, S. (2019+). A New Approach to Forecast Dengue Cases based on Climate and Terrain. In preparation.
 
 - **Deb, S.**, Tsay, R. S. (2019). Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. To appear in Statistica Sinica. [[pre-print]](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0561_na.pdf)
 
