@@ -19,6 +19,8 @@ description: Soudeep's talks
 
 ### <a name="previous"></a>Previous talks
 
+- **November 2019**, New Methods of Clustering Time-series Data and its Applications; Colloquium, Indian Statistical Institute, Bangalore, KA, India.
+
 - **December 2017**, Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; Statistics Colloquium, Northern Illinois University, Dekalb, IL, United States of America.
 
 - **August 2017**, VAR model based clustering method for multivariate time series data. XXXIV. International Seminar on Stability Problems for Stochastic Models, Debrecen, Hungary. [[abstract]](https://arato.inf.unideb.hu/isspsm2017/docs/abstbookb5_2017.pdf#page=40)
