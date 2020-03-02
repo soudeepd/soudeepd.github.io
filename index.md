@@ -22,7 +22,9 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
-<br> I am currently working as Senior Lead Data Scientist at
+<br> I am an Assistant Professor in Decision Sciences at
+<br> <a href="https://www.iimb.ac.in/user/196/soudeep-deb">Indian Institute of Management, Bangalore</a>. 
+<br> Previously, I worked as Senior Lead Data Scientist at
 <br> <a href="http://www.nbcuniversal.com/">NBC Universal Media, LLC</a>. In August 2018, I completed  
 <br> my Ph.D. in Statistics from the University of Chicago.
 <br> 
@@ -42,11 +44,10 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <tr>
 <td class="left">
 <br> <b> Contact: </b>
-<br> NBC Universal Media, LLC 
-<br> 1221 Avenue of the Americas
-<br> New York, NY, 10020. United States of America. 
-<br> Phone: +1(212)664-4519 
-<br> Email: <a href="mailto:soudeep.deb@nbcuni.com">soudeep.deb@nbcuni.com</a>
+<br> C201, Faculty Block C
+<br> Indian Institute of Management, Bangalore
+<br> Bannerghatta Road, Bengaluru, India. 560076
+<br> Email: <a href="mailto:soudeep@iimb.ac.in">soudeep@iimb.ac.in</a>
 </td>
 </tr>
 
