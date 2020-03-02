@@ -8,7 +8,7 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <div class="navbar">
   <div class="navbar-inner">
     <div class="nav">
-        <li><a href="https://soudeepd.github.io/Resume/Resume_DebSoudeep.pdf" target="_blank">Resume</a></li>
+        <li><a href="https://soudeepd.github.io/Resume/CV_DebSoudeep.pdf" target="_blank">Resume</a></li>
         <li><a href="https://scholar.google.com/citations?user=HjWwFs8AAAAJ&hl=en&oi=ao" target="_blank">Scholar</a></li>
         <li><a href="https://www.linkedin.com/in/debsoudeep/" target="_blank">LinkedIn</a></li>
         </div>
