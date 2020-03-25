@@ -26,11 +26,13 @@ description: Soudeep's research
 
 Following is a list of my publications, submitted manuscripts and ongoing projects.
 
-- El Machkouri, M., **Deb, S**, Wu, W. B. (2019+). Simultaneous Inference for High-dimensional Random Field. In preparation.
+- El Machkouri, M., **Deb, S**, Wu, W. B. Simultaneous Inference for High-dimensional Random Field. In preparation.
 
-- **Deb, S.**, Wu, W. B. (2019+). Clustering of Time Series Data using Spectral Density Estimates. In preparation.
+- **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. In preparation.
 
-- **Deb, S.**, Deb, S. (2019+). A New Approach to Forecast Dengue Cases based on Climate and Terrain. In preparation.
+- **Deb, S.**, Deb, S. A New Approach to Forecast Dengue Cases based on Climate and Terrain. In preparation.
+
+- **Deb, S.**, Majumdar, M. (2020). A time series method to analyze incidence pattern and estimate reproduction number of COVID-19. Submitted. [[pre-print]](https://arxiv.org/abs/2003.10655)
 
 - **Deb, S.**, Tsay, R. S. (2019). Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. To appear in Statistica Sinica. [[pre-print]](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0561_na.pdf)
 
@@ -47,7 +49,7 @@ Following is a list of my publications, submitted manuscripts and ongoing projec
 
 I also like to use the concepts of time series and spatial data in other disciplines. Here are some projects I have worked on so far, in collaboration with researchers from different places.
 
-- Badrinathan, S., **Deb, S.** (2019+). Representation in Indian Politics : People's Priorities and Their Effect on Legislative Activity. In preparation.
+- Badrinathan, S., **Deb, S.** Representation in Indian Politics : People's Priorities and Their Effect on Legislative Activity. In preparation.
 
 - Prickett, K.C., Guiterrez, C., **Deb, S.** (2019). Family Firearm Ownership and Firearm-Related Mortality Among Young Children: 1976–2016. Pediatrics, 143(2), e20181171. [[publication]](https://pediatrics.aappublications.org/content/143/2/e20181171?utm_source=TrendMD&utm_medium=TrendMD&utm_campaign=Pediatrics_TrendMD_0) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ChLgQK7sQrYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMOarhDsYW5ukrb2dmYHMWg1Xe9TUsEY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
