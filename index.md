@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Soudeep Deb
-description: Soudeep is a Senior Lead Data Scientist at NBC Universal Media, LLC. 
-keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecasting.
+description: Soudeep is an Assistant Professor in Indian Institute of Management, Bangalore. 
+keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecasting, IIMB.
 ---
 
 <div class="navbar">
