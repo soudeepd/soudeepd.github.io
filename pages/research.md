@@ -57,7 +57,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="others"></a>Other published material
 
-- **Deb, S.** (2018). Irregular Spaced Data, Spatio-temporal Modeling and Clustering of Time Series. The University of Chicago. [[PhD thesis]](https://search.proquest.com/openview/cb9950d4615564aec82a12c7d2db9e32/1?pq-origsite=gscholar&cbl=18750&diss=y) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nk9w1E8xs3gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMrtDzrwmJxk-Wxhs6jl3eaQvxHu4ayD&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.** (2018). Irregular Spaced Data, Spatio-temporal Modeling and Clustering of Time Series. The University of Chicago. [[PhD thesis]](https://knowledge.uchicago.edu/record/422?ln=en) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nk9w1E8xs3gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMrtDzrwmJxk-Wxhs6jl3eaQvxHu4ayD&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Smith, J., Alencar, A., Coe, M. (2016). IIC Brazil Summer Policy Lab Hydropower Construction and Deforestation: Linking Forest Cover to Changes in Water Balance. [[policy brief]](http://whrc.org/wp-content/uploads/2016/09/PB_Hydropower_Construction_and_Deforestation.pdf)
 
