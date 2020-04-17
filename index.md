@@ -19,7 +19,7 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="soudeep-pic2.png" width="280" height="280" alt="" />
+    <img id="frontphoto" src="soudeep-pic3.jpg" width="280" height="280" alt="" />
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
