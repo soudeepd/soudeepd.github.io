@@ -18,13 +18,20 @@ description: Soudeep's research
 
 Primarily, I work on different aspects of time series and spatial data. Often, the theory and methods I work on are inspired from real life problems from different disciplines, ranging from climate to public health to finance to social sciences. That has given me a great opportunity to collaborate with researchers from various places and I want to continue that in future as well. Following are broadly the topics I have been working on.
 
-- Categorical time series data
-- Spatial statistics 
+- Categorical and discrete time series data
 - Spatio-temporal modeling 
 - Bayesian implementation 
 - Application of statistics in sports, especially soccer
 
-### <a name="journal"></a>Journal publications
+### <a name="journal"></a>Journal publications and Preprints
+
+- **Deb, S** (2020). Forecasting count data using time series model with exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
+
+- **Deb, S.**, Deb, S. (2020). An ensemble method for early prediction of dengue outbreak. Under review. Pre-print available on request.
+
+- **Deb, S.** (2020). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Under review. Pre-print available on request.
+
+- **Deb, S.**, Majumdar, M. (2020). A time series method to analyze incidence pattern and estimate reproduction number of COVID-19. Under review. [[pre-print]](https://arxiv.org/abs/2003.10655) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dHWM7wDmCvYJ:scholar.google.com/&output=citation&scisdr=CgX72fQEEPj73Y3n6Y8:AAGBfm0AAAAAXn7i8Y_qddTqw0EOpGhL0qVbMvgTbNmn&scisig=AAGBfm0AAAAAXn7i8RTiAeByWG8-BJ-sHwAahDRP7G92&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Tsay, R. S. (2019). Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. Statistica Sinica, 29, 1181-1207. [[publication]](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0561_na.pdf)
 
@@ -42,15 +49,11 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="progress"></a>Work in progress
 
-- **Deb, S.**, Majumdar, M. (2020). A time series method to analyze incidence pattern and estimate reproduction number of COVID-19. Submitted. [[pre-print]](https://arxiv.org/abs/2003.10655) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dHWM7wDmCvYJ:scholar.google.com/&output=citation&scisdr=CgX72fQEEPj73Y3n6Y8:AAGBfm0AAAAAXn7i8Y_qddTqw0EOpGhL0qVbMvgTbNmn&scisig=AAGBfm0AAAAAXn7i8RTiAeByWG8-BJ-sHwAahDRP7G92&scisf=4&ct=citation&cd=-1&hl=en)
-
-- **Deb, S** (2020). Forecasting count data using time series model with exponentially decaying covariance structure. Submitted. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
+- Sen, S., **Deb, S**. A new clustering method for multivariate time series data. In preparation.
 
 - El Machkouri, M., **Deb, S**, Wu, W. B. Simultaneous Inference for High-dimensional Random Field. In preparation.
 
 - **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. In preparation.
-
-- **Deb, S.**, Deb, S. A New Approach to Forecast Dengue Cases based on Climate and Terrain. In preparation.
 
 - Badrinathan, S., **Deb, S.** Representation in Indian Politics : People's Priorities and Their Effect on Legislative Activity. In preparation.
 
