@@ -7,23 +7,28 @@ description: Soudeep Deb's teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#instructor">Instructor</a></li>
-            <li><a href="#assistant">Teaching Assistant</a></li>
+            <li><a href="#iimb">IIMB</a></li>
+            <li><a href="#uchicago">U Chicago</a></li>
         </ul>
     </div>
 </div>
 
-### <a name="instructor"></a>Primary instructor
+### <a name="assistant"></a>At IIM Bangalore
 
-I have taught the following courses at the University of Chicago:
+I am currently teaching the following course.
+
+* PGP Term 1 - Aug 2020 to Oct 2020: Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. The course is oriented
+towards application rather than theoretical aspects. It is designed to enable students to conduct data analytics through statistical methods and make data driven inference as well as to help them develop understanding of the methodology, the assumptions made in the process, so as to be able to tweak them, depending on ground realities. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+
+### <a name="instructor"></a>At University of Chicago
+
+During my PhD tenure at the University of Chicago, I taught the following courses. [Please reach out to me](mailto:soudeep@iimb.ac.in) if you want to know more about these courses.
 
 * Summer 2017: Introductory Statistics Course, [Chicago Academic Achievement Program](https://caap.uchicago.edu/).
 * Summer 2015: Introductory Statistics Course, [Chicago Academic Achievement Program](https://caap.uchicago.edu/).
 * Winter 2015: [Statistical Models and Methods I](http://galton.uchicago.edu/courseinfo/courses/2015/win/ann/w23400-3.shtml), Department of Statistics.
 
-### <a name="assistant"></a>Teaching assistant
-
-I have worked as a teaching assistant for the following courses at the University of Chicago:
+In addition, I also worked as a teaching assistant for the following courses at the University of Chicago:
 
 * Winter 2018: Statistical Theory and Methods 2, Instructor: [Michael L. Stein](http://galton.uchicago.edu/faculty/stein.shtml).
 * Autumn 2017: Statistical Theory and Methods 1, Instructor: [Rina Foygel Barber](http://galton.uchicago.edu/faculty/barber.shtml).
