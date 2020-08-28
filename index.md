@@ -23,20 +23,20 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
-<br> I am an Assistant Professor in Decision Sciences at
-<br> <a href="https://www.iimb.ac.in/user/196/soudeep-deb">Indian Institute of Management, Bangalore</a>. 
-<br> Previously, I worked as Senior Lead Data Scientist at
-<br> <a href="http://www.nbcuniversal.com/">NBC Universal Media, LLC</a>. In August 2018, I completed  
-<br> my Ph.D. in Statistics from the University of Chicago.
+<br> I am an Assistant Professor of Decision Sciences and Young Faculty 
+<br> Research Chair at <a href="https://www.iimb.ac.in/user/196/soudeep-deb">Indian Institute of Management, Bangalore</a>. 
+<br> Before joining IIMB, I worked as Senior Lead Data Scientist at
+<br> <a href="http://www.nbcuniversal.com/">NBC Universal Media, LLC</a>. In August 2018, I completed my Ph.D. in 
+<br> Statistics from the University of Chicago.
 <br> 
-<br> My primary field of work is related to forecasting, 
-<br> time series data, spatio-temporal modeling, inference
-<br> for random processes. I am also interested in sports
-<br> analytics, especially problems related to soccer.
+<br> My primary field of work is related to forecasting, time series 
+<br> data, spatio-temporal modeling, inference for random processes. 
+<br> I am also interested in sports analytics, especially problems 
+<br> related to soccer.
 <br>
-<br> Previously, I studied at the Indian Statistical 
-<br> Institute, where I completed my Bachelor's degree 
-<br> (in 2011), and Master's degree (in 2013) in Statistics. 
+<br> Previously, I studied at the Indian Statistical Institute, 
+<br> where I completed my Bachelor's degree (in 2011), and Master's  
+<br> degree (in 2013) in Statistics.
 <br> 
 </td>
 </tr>
