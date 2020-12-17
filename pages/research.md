@@ -25,11 +25,13 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="journal"></a>Journal publications and Preprints
 
+- Rawat, S., **Deb, S** (2020). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under review. Pre-print available on request.
+
 - **Deb, S** (2020). Forecasting count data using time series model with exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Deb, S. (2020). An ensemble method for early prediction of dengue outbreak. Under review. Pre-print available on request.
 
-- **Deb, S.** (2020). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Under review. Pre-print available on request.
+- **Deb, S.** (2020). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Under revision. Pre-print available on request.
 
 - **Deb, S.**, Majumdar, M. (2020). A time series method to analyze incidence pattern and estimate reproduction number of COVID-19. Under review. [[pre-print]](https://arxiv.org/abs/2003.10655) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dHWM7wDmCvYJ:scholar.google.com/&output=citation&scisdr=CgX72fQEEPj73Y3n6Y8:AAGBfm0AAAAAXn7i8Y_qddTqw0EOpGhL0qVbMvgTbNmn&scisig=AAGBfm0AAAAAXn7i8RTiAeByWG8-BJ-sHwAahDRP7G92&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -51,13 +53,15 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="progress"></a>Work in progress
 
+- Rawat, S., **Deb, S**. Impact of global warming on rainfall : A spatio-temporal study from India. Under review. In preparation.
+
 - Sen, S., **Deb, S**. A new clustering method for multivariate time series data. In preparation.
 
-- El Machkouri, M., **Deb, S**, Wu, W. B. Simultaneous Inference for High-dimensional Random Field. In preparation.
+- **Deb, S**, Jana, K. Nonparametric quantile regression in time series with replicated data and an application to modelling cyclones.
+
+- Nahata, S., **Deb, S**. A machine learning approach to analyze the effect of situational and player-dependent features on converting freekicks in soccer.
 
 - **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. In preparation.
-
-- Badrinathan, S., **Deb, S.** Representation in Indian Politics : People's Priorities and Their Effect on Legislative Activity. In preparation.
 
 
 ### <a name="others"></a>Other published material
