@@ -27,6 +27,8 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 - **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. To appear in International Journal of Finance & Economics. Pre-print available on request.
 
+- **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. Pre-print available on request.
+
 - Rawat, S., **Deb, S.** (2020+). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under review. Pre-print available on request.
 
 - **Deb, S.** (2020+). Forecasting count data using time series model with exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
