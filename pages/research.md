@@ -16,26 +16,26 @@ description: Soudeep's research
 
 ### Area of interest: 
 
-Primarily, I work on different aspects of time series and spatial data. Often, the theory and methods I work on are inspired from real life problems from different disciplines, ranging from climate to public health to finance to social sciences. That has given me a great opportunity to collaborate with researchers from various places and I want to continue that in future as well. Following are broadly the topics I have been working on.
+Primarily, I work on different aspects of time series and spatial data. Often, the theory and methods I work on are inspired from real life problems from different disciplines, ranging from climate to public health to finance to social sciences. Following are broadly the topics I have been working on.
 
 - Categorical and discrete time series data
 - Spatio-temporal modeling 
-- Bayesian implementation 
+- Bayesian implementation of time series methods
 - Application of statistics in sports, especially soccer
 
 ### <a name="journal"></a>Journal publications and Preprints
 
-- Rawat, S., **Deb, S.** (2020). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under review. Pre-print available on request.
+- **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. To appear in International Journal of Finance & Economics. Pre-print available on request.
 
-- **Deb, S.** (2020). Forecasting count data using time series model with exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
+- Rawat, S., **Deb, S.** (2020+). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under review. Pre-print available on request.
 
-- **Deb, S.**, Deb, S. (2020). An ensemble method for early prediction of dengue outbreak. Under review. Pre-print available on request.
+- **Deb, S.** (2020+). Forecasting count data using time series model with exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
 
-- **Deb, S.** (2020). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Under revision. Pre-print available on request.
+- **Deb, S.**, Deb, S. (2020+). An ensemble method for early prediction of dengue outbreak. Under review. Pre-print available on request.
 
-- **Deb, S.**, Majumdar, M. (2020). A time series method to analyze incidence pattern and estimate reproduction number of COVID-19. Under review. [[pre-print]](https://arxiv.org/abs/2003.10655) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dHWM7wDmCvYJ:scholar.google.com/&output=citation&scisdr=CgX72fQEEPj73Y3n6Y8:AAGBfm0AAAAAXn7i8Y_qddTqw0EOpGhL0qVbMvgTbNmn&scisig=AAGBfm0AAAAAXn7i8RTiAeByWG8-BJ-sHwAahDRP7G92&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.**, Majumdar, M. (2020+). A time series method to analyze incidence pattern and estimate reproduction number of COVID-19. Under review. [[pre-print]](https://arxiv.org/abs/2003.10655) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dHWM7wDmCvYJ:scholar.google.com/&output=citation&scisdr=CgX72fQEEPj73Y3n6Y8:AAGBfm0AAAAAXn7i8Y_qddTqw0EOpGhL0qVbMvgTbNmn&scisig=AAGBfm0AAAAAXn7i8RTiAeByWG8-BJ-sHwAahDRP7G92&scisf=4&ct=citation&cd=-1&hl=en)
 
-- Majumdar, M., Banerjee, M., Sengupta, J., **Deb, S.**, Jana, C. K., & Roy, B. K. (2020). Prevalence and spectrum of diabetic peripheral neuropathy and its correlation with insulin resistance-An experience from eastern India. Under review. [[pre-print]](https://www.medrxiv.org/content/10.1101/2020.04.12.20056150v1) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZlW-L3CAlbsJ:scholar.google.com/&output=citation&scisdr=CgX71cx6ENK5zbOKcf4:AAGBfm0AAAAAX0mPaf6xTMYln3hFVBWjN7bJWThNo0kv&scisig=AAGBfm0AAAAAX0mPadcZt_qfvWesadwHnFwW-CjGc9Id&scisf=4&ct=citation&cd=-1&hl=en).
+- Majumdar, M., Banerjee, M., Sengupta, J., **Deb, S.**, Jana, C. K., & Roy, B. K. (2020+). Prevalence and spectrum of diabetic peripheral neuropathy and its correlation with insulin resistance-An experience from eastern India. Under review. [[pre-print]](https://www.medrxiv.org/content/10.1101/2020.04.12.20056150v1) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZlW-L3CAlbsJ:scholar.google.com/&output=citation&scisdr=CgX71cx6ENK5zbOKcf4:AAGBfm0AAAAAX0mPaf6xTMYln3hFVBWjN7bJWThNo0kv&scisig=AAGBfm0AAAAAX0mPadcZt_qfvWesadwHnFwW-CjGc9Id&scisf=4&ct=citation&cd=-1&hl=en).
 
 - **Deb, S.**, Tsay, R. S. (2019). Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. Statistica Sinica, 29, 1181-1207. [[publication]](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0561_na.pdf)
 
