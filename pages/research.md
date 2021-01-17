@@ -25,7 +25,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="journal"></a>Journal publications and Preprints
 
-- **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. To appear in International Journal of Finance & Economics. Pre-print available on request.
+- **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. To appear in International Journal of Finance & Economics. [[paper]](https://soudeepd.github.io/Documents/accepted_version_airlines_stock_volatility.pdf)
 
 - **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. Pre-print available on request.
 
