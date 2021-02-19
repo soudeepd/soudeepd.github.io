@@ -25,13 +25,13 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="journal"></a>Journal publications and Preprints
 
-- **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Accepted in International Journal of Finance & Economics. [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2490)
+- **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Accepted in International Journal of Finance & Economics. [[publication]](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2490) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:bPUp6AmnTgoJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wuCZM:AAGBfm0AAAAAYC8rEZPk_VFRZvVU7IyLQfer3ak_kL6I&scisig=AAGBfm0AAAAAYC8rEWWCZ1ZZHrG4Y8J_m0MMRdwyANyH&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. [[pre-print]](https://arxiv.org/abs/2102.09288)
 
 - Rawat, S., **Deb, S.** (2020+). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under review. Pre-print available on request.
 
-- **Deb, S.** (2020+). Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.** (2020+). Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) 
 
 - **Deb, S.**, Deb, S. (2020+). An ensemble method for early prediction of dengue outbreak. Under review. Pre-print available on request.
 
@@ -39,7 +39,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 - Majumdar, M., Banerjee, M., Sengupta, J., **Deb, S.**, Jana, C. K., & Roy, B. K. (2020+). Prevalence and spectrum of diabetic peripheral neuropathy and its correlation with insulin resistance-An experience from eastern India. Under review. [[pre-print]](https://www.medrxiv.org/content/10.1101/2020.04.12.20056150v1) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZlW-L3CAlbsJ:scholar.google.com/&output=citation&scisdr=CgX71cx6ENK5zbOKcf4:AAGBfm0AAAAAX0mPaf6xTMYln3hFVBWjN7bJWThNo0kv&scisig=AAGBfm0AAAAAX0mPadcZt_qfvWesadwHnFwW-CjGc9Id&scisf=4&ct=citation&cd=-1&hl=en).
 
-- **Deb, S.**, Tsay, R. S. (2019). Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. Statistica Sinica, 29, 1181-1207. [[publication]](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0561_na.pdf)
+- **Deb, S.**, Tsay, R. S. (2019). Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. Statistica Sinica, 29(3), 1181-1207. [[publication]](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0561_na.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:VUIKfkLgI3oJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wukJ4:AAGBfm0AAAAAYC8riJ4IiFa9j5LrEsd5tDaGAp54v9RA&scisig=AAGBfm0AAAAAYC8riA0VmPk_HVEkh7L8h0WFf6VyRAXN&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Dey, D. (2019). Spatial Modeling of Shot Conversion in Soccer to Single out Goalscoring Ability. Journal of Sports Analytics, 5(4), 281-297. [[publication]](https://content.iospress.com/articles/journal-of-sports-analytics/jsa190281) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:wrMoFuFT4hEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhupGpNWq0QGbmTFjp886btXE3I3En45&scisf=4&ct=citation&cd=-1&hl=en)
 
