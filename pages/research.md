@@ -25,13 +25,13 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="journal"></a>Journal publications and Preprints
 
-- **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. To appear in International Journal of Finance & Economics. [[paper]](https://soudeepd.github.io/Documents/accepted_version_airlines_stock_volatility.pdf)
+- **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Accepted in International Journal of Finance & Economics. [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2490)
 
-- **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. Pre-print available on request.
+- **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. [[pre-print]](https://arxiv.org/abs/2102.09288)
 
 - Rawat, S., **Deb, S.** (2020+). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under review. Pre-print available on request.
 
-- **Deb, S.** (2020+). Forecasting count data using time series model with exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.** (2020+). Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nKiY_ZGM7TEJ:scholar.google.com/&output=citation&scisdr=CgX71bCMEOmA63pdmPg:AAGBfm0AAAAAXpFYgPhBrNxz9MHtlw4GDiM7xDGY_pc9&scisig=AAGBfm0AAAAAXpFYgBt52QI4gsUhCURSKk2NMxd3w8T_&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Deb, S. (2020+). An ensemble method for early prediction of dengue outbreak. Under review. Pre-print available on request.
 
