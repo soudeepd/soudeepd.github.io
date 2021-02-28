@@ -38,10 +38,6 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <br> where I completed my Bachelor's degree (in 2011), and 
 <br> Master's  degree (in 2013) in Statistics.
 <br> 
-<br> <b>Note:</b> I am looking for interns who have sound knowledge 
-<br> of statistical methods and really good programming skills 
-<br> in R. Please <a href="mailto:soudeep@iimb.ac.in">email me</a> if you are interested.
-<br>
 </td>
 </tr>
 </table>
