@@ -33,7 +33,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 - **Deb, S.** (2020+). Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) 
 
-- **Deb, S.**, Deb, S. (2020+). An ensemble method for early prediction of dengue outbreak. Under review. Pre-print available on request.
+- **Deb, S.**, Deb, S. (2020+). An ensemble method for early prediction of dengue outbreak. Under revision. Pre-print available on request.
 
 - **Deb, S.**, Majumdar, M. (2020+). A time series method to analyze incidence pattern and estimate reproduction number of COVID-19. Under review. [[pre-print]](https://arxiv.org/abs/2003.10655) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dHWM7wDmCvYJ:scholar.google.com/&output=citation&scisdr=CgX72fQEEPj73Y3n6Y8:AAGBfm0AAAAAXn7i8Y_qddTqw0EOpGhL0qVbMvgTbNmn&scisig=AAGBfm0AAAAAXn7i8RTiAeByWG8-BJ-sHwAahDRP7G92&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -55,7 +55,11 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="progress"></a>Work in progress
 
-- Rawat, S., **Deb, S.** Impact of global warming on rainfall : A spatio-temporal study from India. In preparation.
+- **Deb, S.**, Roy, R., Das, S. Analyzing multinomial data with randomly varying probabilities. In preparation.
+
+- Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. In preparation.
+
+- Rawat, S., **Deb, S.** Impact of temperature on rainfall : A spatio-temporal study from India. In preparation.
 
 - Sen, S., **Deb, S.** A new clustering method for multivariate time series data. In preparation.
 
