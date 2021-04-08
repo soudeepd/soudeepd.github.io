@@ -27,6 +27,8 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 - **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Accepted in International Journal of Finance & Economics. [[publication]](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2490) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:bPUp6AmnTgoJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wuCZM:AAGBfm0AAAAAYC8rEZPk_VFRZvVU7IyLQfer3ak_kL6I&scisig=AAGBfm0AAAAAYC8rEWWCZ1ZZHrG4Y8J_m0MMRdwyANyH&scisf=4&ct=citation&cd=-1&hl=en)
 
+- **Deb, S.**, Roy, R., Das, S. (2021+). Modeling a sequence of multinomial data with randomly varying probabilities. Under review. [[pre-print]](https://arxiv.org/abs/2104.02924)
+
 - **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. [[pre-print]](https://arxiv.org/abs/2102.09288)
 
 - Rawat, S., **Deb, S.** (2020+). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under review. Pre-print available on request.
@@ -54,8 +56,6 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 - Zechner, C., **Deb, S.**, Koeppl, H. (2013). Marginal Dynamics of Stochastic Biochemical Networks in Random Environments. In 2013 European Control Conference (ECC) (pp. 4269-4274). IEEE. [[publication]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6669606) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:pXP2EYLUcnsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhupRSwCwrbkYCz5wEXFQJFuxQkNgYzp&scisf=4&ct=citation&cd=-1&hl=en)
 
 ### <a name="progress"></a>Work in progress
-
-- **Deb, S.**, Roy, R., Das, S. Analyzing multinomial data with randomly varying probabilities. In preparation.
 
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. In preparation.
 
