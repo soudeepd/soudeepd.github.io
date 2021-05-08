@@ -25,7 +25,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="journal"></a>Journal publications and Preprints
 
-- **Deb, S.**, Deb, S. (2021). An ensemble method for early prediction of dengue outbreak. Accepted in Journal of the Royal Statistical Society: Series A.
+- **Deb, S.**, Deb, S. (2021). An ensemble method for early prediction of dengue outbreak. Accepted in Journal of the Royal Statistical Society: Series A. [[accepted version]](https://soudeepd.github.io/Documents/2021-Deb-An%20ensemble%20method%20for%20early%20prediction%20of%20dengue%20outbreak.pdf)
 
 - **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. Accepted in International Journal of Finance & Economics. [[publication]](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2490) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:bPUp6AmnTgoJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wuCZM:AAGBfm0AAAAAYC8rEZPk_VFRZvVU7IyLQfer3ak_kL6I&scisig=AAGBfm0AAAAAYC8rEWWCZ1ZZHrG4Y8J_m0MMRdwyANyH&scisf=4&ct=citation&cd=-1&hl=en)
 
