@@ -23,7 +23,7 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
 <br> I am an Assistant Professor of Decision Sciences and   
-<br> Young Faculty Research Chair at <a href="https://www.iimb.ac.in/user/196/soudeep-deb">IIM Bangalore</a>. 
+<br> Young Faculty Research Chair at <a href="https://www.iimb.ac.in/user/196/soudeep-deb" target="_blank">IIM Bangalore</a>. 
 <br> Before joining IIMB, I worked as Senior Lead Data Scientist 
 <br> at <a href="http://www.nbcuniversal.com/" target="_blank">NBC Universal Media, LLC</a>. In August 2018, I completed 
 <br> my Ph.D. in Statistics from the University of Chicago.
