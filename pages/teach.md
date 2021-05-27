@@ -15,10 +15,11 @@ description: Soudeep Deb's teaching
 
 ### <a name="assistant"></a>At IIM Bangalore
 
+* (Upcoming) PGP Term 1 - Jul 2021 to Sep 2021: Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. The course is oriented towards application rather than theoretical aspects. It is designed to enable students to conduct data analytics through statistical methods and make data driven inference as well as to help them develop understanding of the methodology, the assumptions made in the process, so as to be able to tweak them, depending on ground realities. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+
 * FPM Term 2 - Oct 2020 to Dec 2020: Statistical Inference. It is a core course for the PhD students in the Decision Sciences area. The main aim is to provide a solid foundation in Statistics to the students intending to carry out dissertation with strong quantitative orientation. This course assumes basic knowledge of Statistics and builds on the probability theory course offered for the same group of students in term 1. The course is designed to be theoretical in nature, but due emphasis for numerical implementation is also given, primarily using R. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
-* PGP Term 1 - Aug 2020 to Oct 2020: Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. The course is oriented
-towards application rather than theoretical aspects. It is designed to enable students to conduct data analytics through statistical methods and make data driven inference as well as to help them develop understanding of the methodology, the assumptions made in the process, so as to be able to tweak them, depending on ground realities. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+* PGP Term 1 - Aug 2020 to Oct 2020: Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. See above for the course description.
 
 ### <a name="instructor"></a>At University of Chicago
 
