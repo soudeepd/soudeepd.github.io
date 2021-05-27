@@ -7,21 +7,25 @@ description: Soudeep's talks
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <!--<li><a href="#upcoming">Upcoming</a></li> -->
+            <li><a href="#upcoming">Upcoming</a></li>
             <li><a href="#previous">Previous talks</a></li>
         </ul>
     </div>
 </div>
 
-<!--### <a name="upcoming"></a>Upcoming talks -->
+### <a name="upcoming"></a>Upcoming talks
 
-
+- **Sep 2021**, Impact of global warming on rainfall: A Spatio-temporal study. RSS International conference 2021, Manchester, UK.
+- **Jul 2021**, Analyzing count data using a time series model with an exponentially decaying covariance structure. 2021 Australian and New Zealand Statistical Conference (virtual).
+- **Jun 2021**, Spectral density based clustering method for spatio-temporal datasets. 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
 
 ### <a name="previous"></a>Previous talks
 
-- **November 2019**, New Methods of Clustering Time-series Data and its Applications; Colloquium, Indian Statistical Institute, Bangalore, KA, India.
+- **May 2021**, A Mathematical Take on the Competitive Balance of a Football League. Guest lecture (virtual), Mathematics of Sports, Stanford University, Stanford, USA.
 
-- **December 2017**, Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data; Statistics Colloquium, Northern Illinois University, Dekalb, IL, United States of America.
+- **November 2019**, New Methods of Clustering Time-series Data and its Applications. Colloquium, Indian Statistical Institute, Bangalore, KA, India.
+
+- **December 2017**, Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. Statistics Colloquium, Northern Illinois University, Dekalb, IL, United States of America.
 
 - **August 2017**, VAR model based clustering method for multivariate time series data. XXXIV. International Seminar on Stability Problems for Stochastic Models, Debrecen, Hungary. [[abstract]](https://arato.inf.unideb.hu/isspsm2017/docs/abstbookb5_2017.pdf#page=40)
 
