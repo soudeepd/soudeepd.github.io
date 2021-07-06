@@ -46,6 +46,8 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="submitted"></a>Submitted articles
 
+- **Deb, S.**, Jana, K. (2021+).  Nonparametric quantile regression for time series with replicatedobservations and its application to climate data. Under review. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf)
+
 - **Deb, S.**, Roy, R., Das, S. (2021+). Modeling a sequence of multinomial data with randomly varying probabilities. Under review. [[pre-print]](https://arxiv.org/abs/2104.02924) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:b3P8y7lDKM0J:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuiQg:AAGBfm0AAAAAYJUrkQirccnQzFNu6YpqZBuZ1wcP9xw3&scisig=AAGBfm0AAAAAYJUrkV57H0dSWX2I2KNhtZgBTfBl6cP3&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. [[pre-print]](https://arxiv.org/abs/2102.09288) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ddfFbNDv0BgJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuYRE:AAGBfm0AAAAAYJUreRGnI7bNsGV0fNNtHHv4Fm3qKafc&scisig=AAGBfm0AAAAAYJUrebwwsd7ctAOpbKvOGPWzrrPkYxZS&scisf=4&ct=citation&cd=-1&hl=en)
@@ -61,7 +63,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="progress"></a>Work in progress
 
-- **Deb, S.**, Karmakar, S. Spectral density based clustering method for spatio-temporal datasets. Manuscript in preparation. To be presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
+- **Deb, S.**, Karmakar, S. Spectral density based clustering method for spatio-temporal datasets. Manuscript in preparation. Presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
 
 - Rawat, S., **Deb, S.** Impact of global warming on rainfall: A Spatio-temporal study. Manuscript in preparation. Abstract accepted for an oral presentation in RSS International conference 2021, to be held in Manchester, UK.
 
@@ -70,8 +72,6 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 - Gupta, K., Krishnamurthy, V., **Deb, S.** Does the outcome of a tennis match hinge on the opening set? An in-depth analysis of the Wimbledon data. Manuscript in preparation. Abstract accepted for an oral presentation in 8th MathSport International Conference (virtual).
 
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. In preparation.
-
-- **Deb, S.**, Jana, K.  Nonparametric quantile regression in time series with replicated data and an application to modelling cyclones. In preparation.
 
 - Nahata, S., **Deb, S.** A machine learning approach to analyze the effect of situational and player-dependent features on converting freekicks in soccer. In preparation.
 
