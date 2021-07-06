@@ -16,10 +16,12 @@ description: Soudeep's talks
 ### <a name="upcoming"></a>Upcoming talks
 
 - **Sep 2021**, Impact of global warming on rainfall: A Spatio-temporal study. RSS International conference 2021, Manchester, UK.
-- **Jul 2021**, Analyzing count data using a time series model with an exponentially decaying covariance structure. 2021 Australian and New Zealand Statistical Conference (virtual).
-- **Jun 2021**, Spectral density based clustering method for spatio-temporal datasets. 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
 
 ### <a name="previous"></a>Previous talks
+
+- **Jul 2021**, Analyzing count data using a time series model with an exponentially decaying covariance structure. 2021 Australian and New Zealand Statistical Conference (virtual), Australia.
+
+- **Jun 2021**, Spectral density based clustering method for spatio-temporal datasets. 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual), Hong Kong.
 
 - **May 2021**, A Mathematical Take on the Competitive Balance of a Football League. Guest lecture (virtual), Mathematics of Sports, Stanford University, Stanford, USA.
 
