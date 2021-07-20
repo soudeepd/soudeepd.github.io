@@ -25,7 +25,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="journal"></a>Journal publications
 
-- **Deb, S.**, Deb, S. (2021). An ensemble method for early prediction of dengue outbreak. To appear in the Journal of the Royal Statistical Society: Series A. [[accepted version]](https://soudeepd.github.io/Documents/2021-Deb-An%20ensemble%20method%20for%20early%20prediction%20of%20dengue%20outbreak.pdf)
+- **Deb, S.**, Deb, S. (2021). An ensemble method for early prediction of dengue outbreak. To appear in the Journal of the Royal Statistical Society: Series A. [[early view]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12714) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Ilqw4mK2r-UJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HEqvl0:AAGBfm0AAAAAYPYspl1b3CDe_RjqcEqB40W4vX9u4wND&scisig=AAGBfm0AAAAAYPYspoos721mH6rPXWFzNO7fEGIGb7oa&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. To appear in International Journal of Finance & Economics. [[early view]](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2490) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:bPUp6AmnTgoJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wuCZM:AAGBfm0AAAAAYC8rEZPk_VFRZvVU7IyLQfer3ak_kL6I&scisig=AAGBfm0AAAAAYC8rEWWCZ1ZZHrG4Y8J_m0MMRdwyANyH&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -46,11 +46,13 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="submitted"></a>Submitted articles
 
-- **Deb, S.**, Jana, K. (2021+).  Nonparametric quantile regression for time series with replicatedobservations and its application to climate data. Under review. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf)
+- **Deb, S.**, Jana, K. (2021+).  Nonparametric quantile regression for time series with replicatedobservations and its application to climate data. Under review. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Roy, R., Das, S. (2021+). Modeling a sequence of multinomial data with randomly varying probabilities. Under review. [[pre-print]](https://arxiv.org/abs/2104.02924) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:b3P8y7lDKM0J:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuiQg:AAGBfm0AAAAAYJUrkQirccnQzFNu6YpqZBuZ1wcP9xw3&scisig=AAGBfm0AAAAAYJUrkV57H0dSWX2I2KNhtZgBTfBl6cP3&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. [[pre-print]](https://arxiv.org/abs/2102.09288) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ddfFbNDv0BgJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuYRE:AAGBfm0AAAAAYJUreRGnI7bNsGV0fNNtHHv4Fm3qKafc&scisig=AAGBfm0AAAAAYJUrebwwsd7ctAOpbKvOGPWzrrPkYxZS&scisf=4&ct=citation&cd=-1&hl=en)
+
+- Gupta, K., Krishnamurthy, V., **Deb, S.** (2021+). What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. Under review. Pre-print available on request. Paper presented in 8th MathSport International Conference (virtual).
 
 - Rawat, S., **Deb, S.** (2020+). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under revision. Pre-print available on request.
 
@@ -67,9 +69,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 - Rawat, S., **Deb, S.** Impact of global warming on rainfall: A Spatio-temporal study. Manuscript in preparation. Abstract accepted for an oral presentation in RSS International conference 2021, to be held in Manchester, UK.
 
-- Sen, S., **Deb, S.** A new clustering method for multivariate time series data. Manuscript in preparation. Abstract accepted for an oral presentation in 2021 Australian and New Zealand Statistical Conference (virtual).
-
-- Gupta, K., Krishnamurthy, V., **Deb, S.** Does the outcome of a tennis match hinge on the opening set? An in-depth analysis of the Wimbledon data. Manuscript in preparation. Abstract accepted for an oral presentation in 8th MathSport International Conference (virtual).
+- Sen, S., **Deb, S.** A new clustering method for multivariate time series data. Manuscript in preparation. Presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. In preparation.
 
