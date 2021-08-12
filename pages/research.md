@@ -14,7 +14,7 @@ description: Soudeep's research
     </div>
 </div>
 
-### Area of interest: 
+### Overview: 
 
 Primarily, I work on different aspects of time series and spatial data. Often, the theory and methods I work on are inspired from real life problems from different disciplines, ranging from climate to public health to finance to social sciences. Following are broadly the topics I have been working on.
 
@@ -23,6 +23,12 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 - Clustering and classification methods
 - Bayesian implementation of time series methods
 - Application of statistics in sports, especially soccer
+
+Following are the research grants I have received so far:
+
+- Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data'. The amount is INR 250,000 for two years (August 2021 to July 2023).
+- Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
+
 
 ### <a name="journal"></a>Journal publications
 
@@ -40,7 +46,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 - Prickett, K.C., Guiterrez, C., **Deb, S.** (2019). Family Firearm Ownership and Firearm-Related Mortality Among Young Children: 1976–2016. Pediatrics, 143(2), e20181171. [[publication]](https://pediatrics.aappublications.org/content/143/2/e20181171?utm_source=TrendMD&utm_medium=TrendMD&utm_campaign=Pediatrics_TrendMD_0) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ChLgQK7sQrYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMOarhDsYW5ukrb2dmYHMWg1Xe9TUsEY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
-- Chazin, H., **Deb, S.**, Falk, J., Srinivasan, A. (2018). New Statistical Approaches to Intra-individual Isotopic Analysis and Modeling Birth Seasonality in Studies of Herd Animals. Archaeometry, 61(2), 478-493. [[publication]](https://onlinelibrary.wiley.com/doi/abs/10.1111/arcm.12432) [[GitHub]](https://github.com/soudeepd/SCEM) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:xMcn8_TWkcwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMOaPlCSTROR9XUNp4yEDkiJ5S6jliJW&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+- Chazin, H., **Deb, S.**, Falk, J., Srinivasan, A. (2018). New Statistical Approaches to Intra-individual Isotopic Analysis and Modeling Birth Seasonality in Studies of Herd Animals. Archaeometry, 61(2), 478-493. [[publication]](https://onlinelibrary.wiley.com/doi/abs/10.1111/arcm.12432) [[R package]](https://cran.r-project.org/web/packages/SCEM/index.html) [[GitHub]](https://github.com/soudeepd/SCEM) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:xMcn8_TWkcwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMOaPlCSTROR9XUNp4yEDkiJ5S6jliJW&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - **Deb, S.**, Pourahmadi, M., Wu, W. B. (2017). An Asymptotic Theory for Spectral Analysis of Random Fields.  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [[publication]](https://projecteuclid.org/euclid.ejs/1510563632) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:JX5Fn-M7U2sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhuoD1PJiiT5t-FFYrxU8gC-b5MOhiVs&scisf=4&ct=citation&cd=-1&hl=en)
 
