@@ -26,7 +26,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 Following are the research grants I have received so far:
 
-- Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data'. The amount is INR 250,000 for two years (August 2021 to July 2023).
+- Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 250,000 for two years (August 2021 to July 2023).
 - Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
 
 
