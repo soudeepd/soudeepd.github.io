@@ -20,10 +20,13 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 - Categorical and discrete time series data
 - Spatio-temporal modeling 
+- Clustering and classification methods
 - Bayesian implementation of time series methods
 - Application of statistics in sports, especially soccer
 
 ### <a name="journal"></a>Journal publications
+
+- Rawat, S., **Deb, S.** (2021). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. To appear in the Journal of Applied Statistics. Pre-print available on request.
 
 - **Deb, S.**, Deb, S. (2021). An ensemble method for early prediction of dengue outbreak. To appear in the Journal of the Royal Statistical Society: Series A. [[early view]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12714) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Ilqw4mK2r-UJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HEqvl0:AAGBfm0AAAAAYPYspl1b3CDe_RjqcEqB40W4vX9u4wND&scisig=AAGBfm0AAAAAYPYspoos721mH6rPXWFzNO7fEGIGb7oa&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -53,8 +56,6 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 - **Deb, S.** (2021+). A mathematical take on the competitive balance of a football league. Under review. [[pre-print]](https://arxiv.org/abs/2102.09288) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ddfFbNDv0BgJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuYRE:AAGBfm0AAAAAYJUreRGnI7bNsGV0fNNtHHv4Fm3qKafc&scisig=AAGBfm0AAAAAYJUrebwwsd7ctAOpbKvOGPWzrrPkYxZS&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Gupta, K., Krishnamurthy, V., **Deb, S.** (2021+). What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. Under review. Pre-print available on request. Paper presented in 8th MathSport International Conference (virtual).
-
-- Rawat, S., **Deb, S.** (2020+). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Under revision. Pre-print available on request.
 
 - **Deb, S.** (2020+). Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:e-vu92gbcTUJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuU6s:AAGBfm0AAAAAYJUrS6u2LbDIDj4aAhIqhD1jBXTj35CK&scisig=AAGBfm0AAAAAYJUrS0zeXLK0cxs8Vy8uXHLP3lbmfhmJ&scisf=4&ct=citation&cd=-1&hl=en)
 
