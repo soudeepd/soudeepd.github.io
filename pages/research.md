@@ -55,7 +55,7 @@ Following are the research grants I have received so far:
 
 ### <a name="submitted"></a>Submitted articles
 
-- **Deb, S.**, Jana, K. (2021+).  Nonparametric quantile regression for time series with replicatedobservations and its application to climate data. Under review. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.**, Jana, K. (2021+).  Nonparametric quantile regression for time series with replicated observations and its application to climate data. Under review. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Roy, R., Das, S. (2021+). Modeling a sequence of multinomial data with randomly varying probabilities. Under review. [[pre-print]](https://arxiv.org/abs/2104.02924) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:b3P8y7lDKM0J:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuiQg:AAGBfm0AAAAAYJUrkQirccnQzFNu6YpqZBuZ1wcP9xw3&scisig=AAGBfm0AAAAAYJUrkV57H0dSWX2I2KNhtZgBTfBl6cP3&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -79,6 +79,12 @@ Following are the research grants I have received so far:
 - Sen, S., **Deb, S.** A new clustering method for multivariate time series data. Manuscript in preparation. Presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. In preparation.
+ 
+- Paul, M., Roy, R., **Deb, S.** Effect of influence in voter models and its application in detecting frauds in an election. In preparation.
+
+- Mareeswaran, M., Sen, S., **Deb, S.** New methods of structural break detection and an ensemble approach to analyze exchange rate volatility during the COVID-19 pandemic. In preparation.
+
+- Bag, S., Gupta, K., **Deb, S.** A review and recommendations for variable selection methods in binary regression models. In preparation.
 
 - Nahata, S., **Deb, S.** A machine learning approach to analyze the effect of situational and player-dependent features on converting freekicks in soccer. In preparation.
 
