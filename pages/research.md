@@ -76,7 +76,9 @@ Following are the research grants I have received so far:
 
 - Rawat, S., **Deb, S.** Impact of global warming on rainfall: A Spatio-temporal study. Manuscript in preparation. Abstract accepted for an oral presentation in RSS International conference 2021, to be held in Manchester, UK.
 
-- Sen, S., **Deb, S.** A new clustering method for multivariate time series data. Manuscript in preparation. Presented in 2021 Australian and New Zealand Statistical Conference (virtual).
+- Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. To be presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), to be held in London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
+
+- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data. Accepted for a poster presentation at the Applied Statistics Conference 2021 (virtual).
 
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. In preparation.
  
