@@ -74,23 +74,23 @@ Following are the research grants I have received so far:
 
 - **Deb, S.**, Karmakar, S. Spectral density based clustering method for spatio-temporal datasets. Manuscript in preparation. Presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
 
-- Rawat, S., **Deb, S.** Impact of global warming on rainfall: A Spatio-temporal study. Manuscript in preparation. Abstract accepted for an oral presentation in RSS International conference 2021, to be held in Manchester, UK.
+- Rawat, S., **Deb, S.** Impact of global warming on rainfall: A Spatio-temporal study. Manuscript in preparation. Presented in RSS International conference 2021 (virtual), Manchester, UK.
 
 - Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. To be presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), to be held in London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
-- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data. Manuscript in preparation. Accepted for a poster presentation at the Applied Statistics Conference 2021 (virtual).
+- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data. Manuscript in preparation. Poster presentation at the Applied Statistics Conference 2021 (virtual).
 
-- Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. In preparation.
+- Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. Manuscript in preparation.
  
-- Paul, M., Roy, R., **Deb, S.** Effect of influence in voter models and its application in detecting frauds in an election. In preparation.
+- Paul, M., Roy, R., **Deb, S.** Effect of influence in voter models and its application in detecting frauds in an election. Manuscript in preparation.
 
-- Mareeswaran, M., Sen, S., **Deb, S.** New methods of structural break detection and an ensemble approach to analyze exchange rate volatility during the COVID-19 pandemic. In preparation.
+- Mareeswaran, M., Sen, S., **Deb, S.** New methods of structural break detection and an ensemble approach to analyze exchange rate volatility during the COVID-19 pandemic. Manuscript in preparation.
 
-- Bag, S., Gupta, K., **Deb, S.** A review and recommendations for variable selection methods in binary regression models. In preparation.
+- Bag, S., Gupta, K., **Deb, S.** A review and recommendations for variable selection methods in binary regression models. Manuscript in preparation.
 
-- Nahata, S., **Deb, S.** A machine learning approach to analyze the effect of situational and player-dependent features on converting freekicks in soccer. In preparation.
+- Nahata, S., **Deb, S.** A machine learning approach to analyze the effect of situational and player-dependent features on converting freekicks in soccer. Manuscript in preparation. Accepted for an oral presentation in 2021 Asia-Singapore Conference on Sport Science (virtual). 
 
-- **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. In preparation.
+- **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. Manuscript in preparation.
 
 
 ### Other published material
