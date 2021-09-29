@@ -15,11 +15,11 @@ description: Soudeep's talks
 
 ### <a name="upcoming"></a>Upcoming talks
 
-- **Sep 2021**, Impact of global warming on rainfall: A Spatio-temporal study. RSS International conference 2021 (virtual), Manchester, UK.
-
 - **Dec 2021**, A new classification method for multivariate time series data. 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), London, UK.
 
 ### <a name="previous"></a>Previous talks
+
+- **Sep 2021**, Impact of global warming on rainfall: A Spatio-temporal study. RSS International conference 2021 (virtual), Manchester, UK.
 
 - **Jul 2021**, Analyzing count data using a time series model with an exponentially decaying covariance structure. 2021 Australian and New Zealand Statistical Conference (virtual), Australia.
 
