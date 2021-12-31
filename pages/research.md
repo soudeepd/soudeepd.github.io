@@ -82,6 +82,8 @@ Following are the research grants I have received so far:
 
 - Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. To be presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), to be held in London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
+- Nath, A., **Deb, S.** A bivariate count data model and its application in forecasting match outcomes in soccer. Manuscript in preparation.
+
 - Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data. Manuscript in preparation. Poster presentation at the Applied Statistics Conference 2021 (virtual).
 
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. Manuscript in preparation.
