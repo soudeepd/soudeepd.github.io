@@ -32,9 +32,9 @@ Following are the research grants I have received so far:
 
 ### <a name="journal"></a>Journal publications
 
-- Rawat, S., **Deb, S.** (2021). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. To appear in the Journal of Applied Statistics. [[early view]](https://www.tandfonline.com/doi/full/10.1080/02664763.2021.1970122) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:vOb8jO0MElYJ:scholar.google.com/&output=citation&scisdr=CgXyD2aOEKDr8bNknZU:AAGBfm0AAAAAYTRihZUx2cWNaDe6mAiRrAZy4ijk16Rk&scisig=AAGBfm0AAAAAYTRihemvzILCUM9YkDlZ4BQqRT4eLDhO&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.**, Deb, S. (2022). An ensemble method for early prediction of dengue outbreak. Journal of the Royal Statistical Society: Series A, 185: 84-101. [[publication]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12714) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Ilqw4mK2r-UJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HEqvl0:AAGBfm0AAAAAYPYspl1b3CDe_RjqcEqB40W4vX9u4wND&scisig=AAGBfm0AAAAAYPYspoos721mH6rPXWFzNO7fEGIGb7oa&scisf=4&ct=citation&cd=-1&hl=en)
 
-- **Deb, S.**, Deb, S. (2021). An ensemble method for early prediction of dengue outbreak. To appear in the Journal of the Royal Statistical Society: Series A. [[early view]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12714) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Ilqw4mK2r-UJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HEqvl0:AAGBfm0AAAAAYPYspl1b3CDe_RjqcEqB40W4vX9u4wND&scisig=AAGBfm0AAAAAYPYspoos721mH6rPXWFzNO7fEGIGb7oa&scisf=4&ct=citation&cd=-1&hl=en)
+- Rawat, S., **Deb, S.** (2021). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. To appear in the Journal of Applied Statistics. [[early view]](https://www.tandfonline.com/doi/full/10.1080/02664763.2021.1970122) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:vOb8jO0MElYJ:scholar.google.com/&output=citation&scisdr=CgXyD2aOEKDr8bNknZU:AAGBfm0AAAAAYTRihZUx2cWNaDe6mAiRrAZy4ijk16Rk&scisig=AAGBfm0AAAAAYTRihemvzILCUM9YkDlZ4BQqRT4eLDhO&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. To appear in the International Journal of Finance & Economics. [[early view]](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2490) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:bPUp6AmnTgoJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wuCZM:AAGBfm0AAAAAYC8rEZPk_VFRZvVU7IyLQfer3ak_kL6I&scisig=AAGBfm0AAAAAYC8rEWWCZ1ZZHrG4Y8J_m0MMRdwyANyH&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -56,6 +56,8 @@ Following are the research grants I have received so far:
 ### <a name="submitted"></a>Submitted articles
 
 - **Deb, S.**, Karmakar, S. A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. Under review. Preprint available on request. Presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
+
+- Bag, S., Gupta, K., **Deb, S.** A review and recommendations on variable selection methods in regression models for binary data. Under review. [[pre-print]](https://arxiv.org/abs/2201.06063) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Dxb_UQ8FxtAJ:scholar.google.com/&output=citation&scisdr=CgX73BJTEKDr8WvB9eM:AAGBfm0AAAAAYezH7eN7gD_WsrLi_ttfnAwU1cPm-XnC&scisig=AAGBfm0AAAAAYezH7eC2C9f24K5kf2esgwJpbwhc7M7y&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under review. Preprint available on request.
 
@@ -88,8 +90,6 @@ Following are the research grants I have received so far:
 
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. Manuscript in preparation.
  
-- Bag, S., Gupta, K., **Deb, S.** A review and recommendations for variable selection methods in binary regression models. Manuscript in preparation.
-
 - Nahata, S., **Deb, S.** A machine learning approach to analyze the effect of situational and player-dependent features on converting freekicks in soccer. Manuscript in preparation. Accepted for an oral presentation in 2021 Asia-Singapore Conference on Sport Science (virtual). 
 
 - **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. Manuscript in preparation.
