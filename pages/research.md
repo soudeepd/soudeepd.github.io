@@ -7,9 +7,8 @@ description: Soudeep's research
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#journal">Publications</a></li>
-            <li><a href="#submitted">Submitted</a></li>
-            <li><a href="#progress">In progress</a></li>
+            <li><a href="#grants">Grants</a></li>
+            <li><a href="#students">Students</a></li>
         </ul>
     </div>
 </div>
@@ -24,89 +23,38 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 - Bayesian implementation of time series methods
 - Application of statistics in sports, especially soccer
 
+### <a name="grants"></a>Grants
+
 Following are the research grants I have received so far:
 
 - Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 250,000 for two years (August 2021 to July 2023).
 - Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
 
 
-### <a name="journal"></a>Journal and conference publications
+### <a name="students"></a>Students
 
-- **Deb, S.**, Deb, S. (2022). An ensemble method for early prediction of dengue outbreak. Journal of the Royal Statistical Society Series A, 185(1), 84-101. [[publication]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12714) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:QX_i9RUM7_4J:scholar.google.com/&output=citation&scisdr=CgX71c6KEKDr8XRYXsE:AAGBfm0AAAAAYfNeRsEss7zWvpp9-eoeYKqfkH7pRoLA&scisig=AAGBfm0AAAAAYfNeRgmnZkVUNTvemp0lzdYN3AgJ9i2l&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+Currently, the following students are advised by me in different capacities.
 
-- **Deb, S.**, Majumdar, M. (2022). A time series method to analyze incidence pattern and estimate reproduction number of COVID-19. To appear in Biostatistics & Epidemiology. [[pre-print]](https://arxiv.org/abs/2003.10655) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dHWM7wDmCvYJ:scholar.google.com/&output=citation&scisdr=CgX72fQEEPj73Y3n6Y8:AAGBfm0AAAAAXn7i8Y_qddTqw0EOpGhL0qVbMvgTbNmn&scisig=AAGBfm0AAAAAXn7i8RTiAeByWG8-BJ-sHwAahDRP7G92&scisf=4&ct=citation&cd=-1&hl=en)
+- [Anchal Soni](https://anchal-soni.github.io/Anchal/): Advanced doctoral student, Indian Institute of Management Bangalore. Ms Soni is primarily advised by me, and is working on her thesis titled "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Expected to graduate in the summer of 2023.
 
-- Rawat, S., **Deb, S.** (2021). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. To appear in the Journal of Applied Statistics. [[early view]](https://www.tandfonline.com/doi/full/10.1080/02664763.2021.1970122) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:vOb8jO0MElYJ:scholar.google.com/&output=citation&scisdr=CgXyD2aOEKDr8bNknZU:AAGBfm0AAAAAYTRihZUx2cWNaDe6mAiRrAZy4ijk16Rk&scisig=AAGBfm0AAAAAYTRihemvzILCUM9YkDlZ4BQqRT4eLDhO&scisf=4&ct=citation&cd=-1&hl=en)
+- [Siddharth Rawat](https://www.linkedin.com/in/rawatsid/): Third year doctoral student, Indian Institute of Management Bangalore. Mr Rawat is primarily advised by me, and is working on his thesis titled "Spatio-temporal models in epidemiology and climate change". Expected to graduate by the summer of 2024.
 
-- **Deb, S.** (2021). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. To appear in the International Journal of Finance & Economics. [[early view]](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2490) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:bPUp6AmnTgoJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wuCZM:AAGBfm0AAAAAYC8rEZPk_VFRZvVU7IyLQfer3ak_kL6I&scisig=AAGBfm0AAAAAYC8rEWWCZ1ZZHrG4Y8J_m0MMRdwyANyH&scisf=4&ct=citation&cd=-1&hl=en)
+- [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Third year doctoral student, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en). Expected to graduate by the summer of 2024.
 
-- Nahata, S., **Deb, S.** (2021) A machine learning approach to analyze the effect of situational and player-dependent features on converting freekicks in soccer. In Conference Proceedings 2021 Asia-Singapore Conference on Sport Science (p. 19). [[publication]](https://www.researchgate.net/profile/Stuart-Evans-2/publication/359186201_ACSS_2021_Book/links/622c28413c53d31ba4bcf4e7/ACSS-2021-Book.pdf#page=26) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:9CPrzMzjdWMJ:scholar.google.com/&output=citation&scisdr=CgVK_5s2EKDr8g7PsiU:AAGBfm0AAAAAYonJqiUVB1GoWb5mA6GcLbN0IFrig4PP&scisig=AAGBfm0AAAAAYonJqioHltHZuizoeMpl0VCoHDOzwUvA&scisf=4&ct=citation&cd=-1&hl=en)
+- [Kapil Gupta](https://kapil21.wixsite.com/kapil): Second year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working as a research assistant on projects related to sports analytics, variable selection, and analyzing house price dynamics.
 
-- **Deb, S.**, Tsay, R. S. (2019). Spatio-temporal Models with Space-time Interaction and Their Applications to Air Pollution Data. Statistica Sinica, 29(3), 1181-1207. [[publication]](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2017-0561_na.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:VUIKfkLgI3oJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wukJ4:AAGBfm0AAAAAYC8riJ4IiFa9j5LrEsd5tDaGAp54v9RA&scisig=AAGBfm0AAAAAYC8riA0VmPk_HVEkh7L8h0WFf6VyRAXN&scisf=4&ct=citation&cd=-1&hl=en)
-
-- **Deb, S.**, Dey, D. (2019). Spatial Modeling of Shot Conversion in Soccer to Single out Goalscoring Ability. Journal of Sports Analytics, 5(4), 281-297. [[publication]](https://content.iospress.com/articles/journal-of-sports-analytics/jsa190281) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:wrMoFuFT4hEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhupGpNWq0QGbmTFjp886btXE3I3En45&scisf=4&ct=citation&cd=-1&hl=en)
-
-- **Deb, S.** (2019). VAR Model Based Clustering Method for Multivariate Time Series Data. Journal of Mathematical Sciences, 237(6), 754-765. [[publication]](https://link.springer.com/article/10.1007/s10958-019-04201-4) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:JkpxxCcEpYMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMObhGDMYum2QHO970ACm-3-uIcPRKHT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
-
-- Prickett, K.C., Guiterrez, C., **Deb, S.** (2019). Family Firearm Ownership and Firearm-Related Mortality Among Young Children: 1976–2016. Pediatrics, 143(2), e20181171. [[publication]](https://pediatrics.aappublications.org/content/143/2/e20181171?utm_source=TrendMD&utm_medium=TrendMD&utm_campaign=Pediatrics_TrendMD_0) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ChLgQK7sQrYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMOarhDsYW5ukrb2dmYHMWg1Xe9TUsEY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
-
-- Chazin, H., **Deb, S.**, Falk, J., Srinivasan, A. (2018). New Statistical Approaches to Intra-individual Isotopic Analysis and Modeling Birth Seasonality in Studies of Herd Animals. Archaeometry, 61(2), 478-493. [[publication]](https://onlinelibrary.wiley.com/doi/abs/10.1111/arcm.12432) [[R package]](https://cran.r-project.org/web/packages/SCEM/index.html) [[GitHub]](https://github.com/soudeepd/SCEM) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:xMcn8_TWkcwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMOaPlCSTROR9XUNp4yEDkiJ5S6jliJW&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
-
-- **Deb, S.**, Pourahmadi, M., Wu, W. B. (2017). An Asymptotic Theory for Spectral Analysis of Random Fields.  Electronic Journal of Statistics, Vol. 11, No. 2, 4297-4322. [[publication]](https://projecteuclid.org/euclid.ejs/1510563632) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:JX5Fn-M7U2sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhuoD1PJiiT5t-FFYrxU8gC-b5MOhiVs&scisf=4&ct=citation&cd=-1&hl=en)
-
-- Zechner, C., **Deb, S.**, Koeppl, H. (2013). Marginal Dynamics of Stochastic Biochemical Networks in Random Environments. In 2013 European Control Conference (ECC) (pp. 4269-4274). IEEE. [[publication]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6669606) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:pXP2EYLUcnsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWhupRSwCwrbkYCz5wEXFQJFuxQkNgYzp&scisf=4&ct=citation&cd=-1&hl=en)
+- [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Pre-doctoral student, Indian Institute of Management Bangalore. Mr Bag worked as a research assistant on projects related to variable selection. He is going to join University of Missouri as a PhD student in Fall 2022.
 
 
-### <a name="submitted"></a>Submitted articles
+In addition, the following students have worked (or have been working) as research assistant on various projects.
 
-- Mareeswaran, M., Sen, S., **Deb, S.** New methods of structural break detection and an ensemble approach to analyze exchange rate volatility of Indian rupee during COVID-19. Under first revision. Preprint available on request.
-
-- **Deb, S.** A mathematical take on the competitive balance of a football league. Under second revision. [[pre-print]](https://arxiv.org/abs/2102.09288) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ddfFbNDv0BgJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuYRE:AAGBfm0AAAAAYJUreRGnI7bNsGV0fNNtHHv4Fm3qKafc&scisig=AAGBfm0AAAAAYJUrebwwsd7ctAOpbKvOGPWzrrPkYxZS&scisf=4&ct=citation&cd=-1&hl=en)
-
-- **Deb, S.**, Karmakar, S. A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. Under review. Preprint available on request. Presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
-
-- Bag, S., Gupta, K., **Deb, S.** A review and recommendations on variable selection methods in regression models for binary data. Under review. [[pre-print]](https://arxiv.org/abs/2201.06063) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Dxb_UQ8FxtAJ:scholar.google.com/&output=citation&scisdr=CgX73BJTEKDr8WvB9eM:AAGBfm0AAAAAYezH7eN7gD_WsrLi_ttfnAwU1cPm-XnC&scisig=AAGBfm0AAAAAYezH7eC2C9f24K5kf2esgwJpbwhc7M7y&scisf=4&ct=citation&cd=-1&hl=en)
-
-- Roy, A., **Deb, S.**, Chakarwarti, D. Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. Under review. Preprint available on request.
-
-- Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under review. Preprint available on request.
-
-- **Deb, S.**, Jana, K. Nonparametric quantile regression for time series with replicated observations and its application to climate data. Under review. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
-
-- **Deb, S.**, Roy, R., Das, S. Modeling a sequence of multinomial data with randomly varying probabilities. Under review. [[pre-print]](https://arxiv.org/abs/2104.02924) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:b3P8y7lDKM0J:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuiQg:AAGBfm0AAAAAYJUrkQirccnQzFNu6YpqZBuZ1wcP9xw3&scisig=AAGBfm0AAAAAYJUrkV57H0dSWX2I2KNhtZgBTfBl6cP3&scisf=4&ct=citation&cd=-1&hl=en)
-
-- Gupta, K., Krishnamurthy, V., **Deb, S.** What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. Under review. Pre-print available on request. Paper presented in 8th MathSport International Conference (virtual).
-
-- **Deb, S.** Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:e-vu92gbcTUJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuU6s:AAGBfm0AAAAAYJUrS6u2LbDIDj4aAhIqhD1jBXTj35CK&scisig=AAGBfm0AAAAAYJUrS0zeXLK0cxs8Vy8uXHLP3lbmfhmJ&scisf=4&ct=citation&cd=-1&hl=en)
-
-
-- Majumdar, M., Banerjee, M., Sengupta, J., **Deb, S.**, Jana, C. K., & Roy, B. K. Prevalence and spectrum of diabetic peripheral neuropathy and its correlation with insulin resistance-An experience from eastern India. Under review. [[pre-print]](https://www.medrxiv.org/content/10.1101/2020.04.12.20056150v1) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZlW-L3CAlbsJ:scholar.google.com/&output=citation&scisdr=CgX71cx6ENK5zbOKcf4:AAGBfm0AAAAAX0mPaf6xTMYln3hFVBWjN7bJWThNo0kv&scisig=AAGBfm0AAAAAX0mPadcZt_qfvWesadwHnFwW-CjGc9Id&scisf=4&ct=citation&cd=-1&hl=en).
-
-
-### <a name="progress"></a>Work in progress
-
-- Soni, A., **Deb, S.**, Das, D., Zaremba, A. COVID-19 and Value-at-Risk of cryptocurrencies under structural breaks: Does the choice of conditional distribution matter? Manuscript in preparation.
-
-- Rawat, S., **Deb, S.**, Berrett, C. A bayesian method to identify changepoints in spatio-temporal ordinal data. Manuscript in preparation. Accepted for an oral presentation in RSS International Conference 2022, Aberdeen, UK.
-
-- Rawat, S., **Deb, S.** Impact of global warming on rainfall: A Spatio-temporal study. Manuscript in preparation. Presented in RSS International Conference 2021 (virtual), Manchester, UK.
-
-- Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. To be presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), to be held in London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
-
-- Nath, A., **Deb, S.** A bivariate count data model and its application in forecasting match outcomes in soccer. Manuscript in preparation.
-
-- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data. Manuscript in preparation. Poster presentation at the Applied Statistics Conference 2021 (virtual).
-
-- Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. Manuscript in preparation.
- 
-- **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. Manuscript in preparation.
-
-
-### Other published material
-
-- **Deb, S.** (2018). Irregular Spaced Data, Spatio-temporal Modeling and Clustering of Time Series. The University of Chicago. [[PhD thesis]](https://knowledge.uchicago.edu/record/422?ln=en) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nk9w1E8xs3gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMrtDzrwmJxk-Wxhs6jl3eaQvxHu4ayD&scisf=4&ct=citation&cd=-1&hl=en)
-
-- **Deb, S.**, Smith, J., Alencar, A., Coe, M. (2016). IIC Brazil Summer Policy Lab Hydropower Construction and Deforestation: Linking Forest Cover to Changes in Water Balance. [[policy brief]](http://whrc.org/wp-content/uploads/2016/09/PB_Hydropower_Construction_and_Deforestation.pdf)
-
-- Ghosh, S., **Deb, S.** (2013). A Clustering Approach for Mapping Rare Variants Based in Mutual Association. Human Heredity, Vol. 76, No. 2, pp. 98-98. 
-
+- Mareeswaran M: Currently a doctoral student at Indian Institute of Management Bangalore.
+- Shubhajit Sen: Currently a doctoral student at North Carolina State University.
+- Anirban Nath: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
+- Anagh Chattopadhyay: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
+- Arisina Banerjee: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
+- Manit Paul: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
+- Pranav Krishna: Currently B.Math third year student, Indian Statistical Institute Bangalore.
+- Jyotishka Ray Choudhury: Currently B.Stat third year student, Indian Statistical Institute Kolkata.
+- [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Incoming Business Analyst at McKinsey & Co. Formerly a student at IIT Bombay.
+- [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Currently working as Site Reliability Engineer at Twitter.
