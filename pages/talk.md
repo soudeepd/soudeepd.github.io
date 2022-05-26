@@ -15,9 +15,17 @@ description: Soudeep's talks
 
 ### <a name="upcoming"></a>Upcoming talks
 
-- **Dec 2021**, A new classification method for multivariate time series data. 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), London, UK.
+- **Oct 2022**, Spatio-temporal clustering through a bayesian nonparametric approach: An application to the COVID-19 data from India. BNP13 - 13th International Conference on Bayesian Nonparametrics, Puerto Varas, Chile.
+
+- **Jul 2022**, Analyzing count data using a time series model with an exponentially decaying covariance structure. EURO 2022 Conference, Espoo, Finland.
 
 ### <a name="previous"></a>Previous talks
+
+- **May 2022**, A goal based index to analyze the competitive balance of a football league. 8th Western Football and Finance Conference (virtual), Reading, UK.
+
+- **May 2022**, Developing statistical methods in Health (Epidemiological) Data. SERB-AV Workshop on Data Science and its Applications in Health Technology. IIIT Dharwad, Hubli, India.
+
+- **Dec 2021**, A new classification method for multivariate time series data. 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), London, UK.
 
 - **Sep 2021**, Impact of global warming on rainfall: A Spatio-temporal study. RSS International conference 2021 (virtual), Manchester, UK.
 
