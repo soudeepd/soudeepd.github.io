@@ -18,28 +18,26 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="soudeep-pic3.png" width="280" height="280" alt="" />
+    <img id="frontphoto" src="soudeep-pic3.png" width="300" height="300" alt="" />
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
 <br> I am an Assistant Professor of Decision Sciences and   
-<br> Young Faculty Research Chair at <a href="https://www.iimb.ac.in/user/196/soudeep-deb" target="_blank">IIM Bangalore</a>. 
-<br> Before joining IIMB, I worked as Senior Lead Data Scientist 
-<br> at <a href="http://www.nbcuniversal.com/" target="_blank">NBC Universal Media, LLC</a>. In August 2018, I completed 
-<br> my Ph.D. in Statistics from the University of Chicago.
+<br> Young Faculty Research Chair at <a href="https://www.iimb.ac.in/user/196/soudeep-deb" target="_blank">IIM Bangalore</a>. Before 
+<br> joining IIMB, I worked as Senior Lead Data Scientist at 
+<br> <a href="http://www.nbcuniversal.com/" target="_blank">NBC Universal Media, LLC</a>. In August 2018, I finished my 
+<br> Ph.D. in Statistics from the University of Chicago. Earlier, 
+<br> I studied at Indian Statistical Institute, completing my 
+<br> Bachelor's (in 2011), and Master's (in 2013) in Statistics.
 <br> 
 <br> My primary field of work is related to forecasting, 
 <br> time series data, spatio-temporal modeling, inference 
 <br> for random processes. I am also interested in sports 
 <br> analytics, especially problems related to soccer.
-<br>
-<br> Previously, I studied at the Indian Statistical Institute, 
-<br> where I completed my Bachelor's degree (in 2011), and 
-<br> Master's  degree (in 2013) in Statistics.
 <br> 
 <br> My CV is available <a href="https://soudeepd.github.io/Resume/CV_DebSoudeep.pdf" target="_blank">here</a> (last updated on 10th August, 2022).
 <br>
-<br> <a href="https://outlook.office365.com/owa/calendar/d6111bacc4c5436a998ba66831af56cf@iimb.ac.in/5442b967e74f4e6cb4192e5614e94c05984665050450246395/calendar.html" target="_blank">See my schedule</a> if you want to chat or meet with me, either online or at IIMB.   
+<br> <a href="https://outlook.office365.com/owa/calendar/d6111bacc4c5436a998ba66831af56cf@iimb.ac.in/5442b967e74f4e6cb4192e5614e94c05984665050450246395/calendar.html" target="_blank">See my schedule</a> if you want to chat with me, either online or at IIMB.   
 </td>
 </tr>
 </table>
