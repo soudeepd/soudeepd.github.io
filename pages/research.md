@@ -37,24 +37,23 @@ Currently, the following students are advised by me in different capacities.
 
 - [Anchal Soni](https://anchal-soni.github.io/Anchal/): Advanced doctoral student, Indian Institute of Management Bangalore. Ms Soni is primarily advised by me, and is working on her thesis titled "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Expected to graduate in the summer of 2023.
 
-- [Siddharth Rawat](https://www.linkedin.com/in/rawatsid/): Third year doctoral student, Indian Institute of Management Bangalore. Mr Rawat is primarily advised by me, and is working on his thesis titled "Spatio-temporal models in epidemiology and climate change". Expected to graduate by the summer of 2024.
+- [Siddharth Rawat](https://rawatsid.github.io/): Third year doctoral student, Indian Institute of Management Bangalore. Mr Rawat is primarily advised by me, and is working on his thesis titled "Spatio-temporal models in epidemiology and climate change". Expected to graduate by the summer of 2024.
 
 - [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Third year doctoral student, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en). Expected to graduate by the summer of 2024.
 
-- [Kapil Gupta](https://kapil21.wixsite.com/kapil): Second year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working as a research assistant on projects related to sports analytics, variable selection, and analyzing house price dynamics.
-
-- [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Pre-doctoral student, Indian Institute of Management Bangalore. Mr Bag worked as a research assistant on projects related to variable selection. He is going to join University of Missouri as a PhD student in Fall 2022.
+- [Kapil Gupta](https://kapil21.wixsite.com/kapil): Third year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working as a research assistant on projects related to sports analytics, variable selection, and analyzing house price dynamics.
 
 
-In addition, the following students have worked (or have been working) as research assistant on various projects.
+In addition, the following students have worked (or have been working) as research assistants on various projects.
 
-- Mareeswaran M: Currently a doctoral student at Indian Institute of Management Bangalore.
-- Shubhajit Sen: Currently a doctoral student at North Carolina State University.
+- [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Currently a doctoral student at University of Missouri.
+- [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Currently a doctoral student at Indian Institute of Management Bangalore.
+- [Shubhajit Sen](https://statistics.sciences.ncsu.edu/people/ssen8/): Currently a doctoral student at North Carolina State University.
 - Anirban Nath: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
-- Anagh Chattopadhyay: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
-- Arisina Banerjee: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
-- Manit Paul: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
+- Anagh Chattopadhyay: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
+- Arisina Banerjee: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
+- Manit Paul: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
 - Pranav Krishna: Currently B.Math third year student, Indian Statistical Institute Bangalore.
-- Jyotishka Ray Choudhury: Currently B.Stat third year student, Indian Statistical Institute Kolkata.
+- Jyotishka Ray Choudhury: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
 - [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Incoming Business Analyst at McKinsey & Co. Formerly a student at IIT Bombay.
 - [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Currently working as Site Reliability Engineer at Twitter.
