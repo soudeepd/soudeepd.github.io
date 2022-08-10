@@ -17,9 +17,9 @@ description: Soudeep's talks
 
 - **Oct 2022**, Spatio-temporal clustering through a bayesian nonparametric approach: An application to the COVID-19 data from India. BNP13 - 13th International Conference on Bayesian Nonparametrics, Puerto Varas, Chile.
 
-- **Jul 2022**, Analyzing count data using a time series model with an exponentially decaying covariance structure. EURO 2022 Conference, Espoo, Finland.
-
 ### <a name="previous"></a>Previous talks
+
+- **Jul 2022**, Analyzing count data using a time series model with an exponentially decaying covariance structure. EURO 2022 Conference, Espoo, Finland.
 
 - **May 2022**, A goal based index to analyze the competitive balance of a football league. 8th Western Football and Finance Conference (virtual), Reading, UK.
 
