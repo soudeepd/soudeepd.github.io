@@ -37,7 +37,9 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <br> where I completed my Bachelor's degree (in 2011), and 
 <br> Master's  degree (in 2013) in Statistics.
 <br> 
-<br> My CV is available <a href="https://soudeepd.github.io/Resume/CV_DebSoudeep.pdf" target="_blank">here</a> (last updated on 28th January, 2022).
+<br> My CV is available <a href="https://soudeepd.github.io/Resume/CV_DebSoudeep.pdf" target="_blank">here</a> (last updated on 10th August, 2022).
+<br>
+<br> <a href="https://outlook.office365.com/owa/calendar/d6111bacc4c5436a998ba66831af56cf@iimb.ac.in/5442b967e74f4e6cb4192e5614e94c05984665050450246395/calendar.html" target="_blank">See my schedule</a> if you want to chat or meet with me, either online or at IIMB.   
 </td>
 </tr>
 </table>
