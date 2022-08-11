@@ -43,7 +43,7 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 
 <tr>
 <td class="left">
-<br> <a href="https://outlook.office365.com/owa/calendar/d6111bacc4c5436a998ba66831af56cf@iimb.ac.in/5442b967e74f4e6cb4192e5614e94c05984665050450246395/calendar.html" target="_blank">See my schedule</a> if you want to chat with me, either online or at IIMB.   
+<br> <a href="https://outlook.office365.com/owa/calendar/d6111bacc4c5436a998ba66831af56cf@iimb.ac.in/5442b967e74f4e6cb4192e5614e94c05984665050450246395/calendar.html" target="_blank">See my schedule</a> and <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> accordingly if you want to chat with me, either online or at IIMB.   
 <br>
 <br> <b> Contact: </b>
 <br> C201, Faculty Block C
