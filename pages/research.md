@@ -37,11 +37,11 @@ Currently, the following students are advised by me in different capacities.
 
 - [Anchal Soni](https://anchal-soni.github.io/Anchal/): Advanced doctoral student, Indian Institute of Management Bangalore. Ms Soni is primarily advised by me, and is working on her thesis titled "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Expected to graduate in the summer of 2023.
 
-- [Siddharth Rawat](https://rawatsid.github.io/): Third year doctoral student, Indian Institute of Management Bangalore. Mr Rawat is primarily advised by me, and is working on his thesis titled "Spatio-temporal models in epidemiology and climate change". Expected to graduate by the summer of 2024.
+- [Siddharth Rawat](https://rawatsid.github.io/): Fourth year doctoral student, Indian Institute of Management Bangalore. Mr Rawat is primarily advised by me, and is working on his thesis titled "Spatio-temporal models in epidemiology and climate change". Expected to graduate by the summer of 2024.
 
-- [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Third year doctoral student, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en). Expected to graduate by the summer of 2024.
+- [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en). Expected to graduate by the summer of 2024.
 
-- [Kapil Gupta](https://kapil21.wixsite.com/kapil): Third year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working as a research assistant on projects related to sports analytics, variable selection, and analyzing house price dynamics.
+- [Kapil Gupta](https://kapil21.wixsite.com/kapil): Third year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods.
 
 
 In addition, the following students have worked (or have been working) as research assistants on various projects.
@@ -53,7 +53,7 @@ In addition, the following students have worked (or have been working) as resear
 - Anagh Chattopadhyay: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
 - Arisina Banerjee: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
 - Manit Paul: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
-- Pranav Krishna: Currently B.Math third year student, Indian Statistical Institute Bangalore.
+- Pranav Krishna: Currently M.S. first year student, École polytechnique fédérale de Lausanne, Switzerland.
 - Jyotishka Ray Choudhury: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
 - [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Incoming Business Analyst at McKinsey & Co. Formerly a student at IIT Bombay.
 - [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Currently working as Site Reliability Engineer at Twitter.
