@@ -25,7 +25,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 ### <a name="grants"></a>Grants
 
-Following are the research grants I have received so far:
+Details of the research grants I have received so far are listed below:
 
 - Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 250,000 for two years (August 2021 to July 2023).
 - Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
@@ -41,7 +41,7 @@ Currently, the following students are advised by me in different capacities.
 
 - [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en). Expected to graduate by the summer of 2024.
 
-- [Kapil Gupta](https://kapil21.wixsite.com/kapil): Third year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods.
+- [Kapil Gupta](https://kapil21.wixsite.com/kapil): Third year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods. Expected to graduate by the summer of 2025.
 
 
 In addition, the following students have worked (or have been working) as research assistants on various projects.
@@ -49,10 +49,11 @@ In addition, the following students have worked (or have been working) as resear
 - [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Currently a doctoral student at University of Missouri.
 - [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Currently a doctoral student at Indian Institute of Management Bangalore.
 - [Shubhajit Sen](https://statistics.sciences.ncsu.edu/people/ssen8/): Currently a doctoral student at North Carolina State University.
-- Anirban Nath: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
+- [Anirban Nath](http://stat.columbia.edu/department-directory/name/anirban-nath/): Currently a doctoral student at Columbia University.
 - Anagh Chattopadhyay: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
-- Arisina Banerjee: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
 - Manit Paul: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
+- Arisina Banerjee: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
+- [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Currently M.S. final year student, Indian Institute of Science Education & Research, Kolkata.
 - Pranav Krishna: Currently M.S. first year student, École polytechnique fédérale de Lausanne, Switzerland.
 - Jyotishka Ray Choudhury: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
 - [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Incoming Business Analyst at McKinsey & Co. Formerly a student at IIT Bombay.
