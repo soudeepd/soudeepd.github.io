@@ -15,9 +15,11 @@ description: Soudeep's talks
 
 ### <a name="upcoming"></a>Upcoming talks
 
-- **Oct 2022**, Spatio-temporal clustering through a bayesian nonparametric approach: An application to the COVID-19 data from India. BNP13 - 13th International Conference on Bayesian Nonparametrics, Puerto Varas, Chile.
+- **Dec 2022**, A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data. IISA 2022 Conference, Bengaluru, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **Dec 2022**, A nonparametric approach to deal with spatio-temporal quantile regression problems. 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London, UK.
 
 - **Jul 2022**, Analyzing count data using a time series model with an exponentially decaying covariance structure. EURO 2022 Conference, Espoo, Finland.
 
