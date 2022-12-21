@@ -22,6 +22,8 @@ Here are my publications in journals and conference proceedings, along with othe
 
 - **Deb, S.** (2022) A goal based index to analyze the competitive balance of a football league. To appear in Journal of Quantitative Analysis in Sports. [[early view]](https://www.degruyter.com/document/doi/10.1515/jqas-2021-0015/html) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ddfFbNDv0BgJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuYRE:AAGBfm0AAAAAYJUreRGnI7bNsGV0fNNtHHv4Fm3qKafc&scisig=AAGBfm0AAAAAYJUrebwwsd7ctAOpbKvOGPWzrrPkYxZS&scisf=4&ct=citation&cd=-1&hl=en)
 
+- Roy, A., **Deb, S.**, Chakarwarti, D. (2022) Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. To appear in the Journal of Applied Statistics. Accepted version available on request.
+
 - **Deb, S.**, Majumdar, M. (2022). A quadratic trend-based time series method to analyze the early incidence pattern of COVID-19. To appear in Biostatistics & Epidemiology. [[early view]](https://www.tandfonline.com/doi/full/10.1080/24709360.2022.2076529) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:sSkJjazYMAYJ:scholar.google.com/&output=citation&scisdr=CgX72UpnEKDr8nTbqUI:AAGBfm0AAAAAYvPdsULlOl2DIrWcmtXnqLJd-aaBGgdV&scisig=AAGBfm0AAAAAYvPdsRIVIsAV0PA5b61yOFzPPORQIc_V&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Rawat, S., **Deb, S.** (2021). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. To appear in the Journal of Applied Statistics. [[early view]](https://www.tandfonline.com/doi/full/10.1080/02664763.2021.1970122) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:vOb8jO0MElYJ:scholar.google.com/&output=citation&scisdr=CgXyD2aOEKDr8bNknZU:AAGBfm0AAAAAYTRihZUx2cWNaDe6mAiRrAZy4ijk16Rk&scisig=AAGBfm0AAAAAYTRihemvzILCUM9YkDlZ4BQqRT4eLDhO&scisf=4&ct=citation&cd=-1&hl=en)
@@ -55,23 +57,21 @@ Here are my publications in journals and conference proceedings, along with othe
 
 - **Deb, S.**, Das, S. Optimal selection of the starting lineup for a football team. Under revision. Preprint available on request.
 
-- Roy, A., **Deb, S.**, Chakarwarti, D. Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. Under revision. Preprint available on request.
+- **Deb, S.**, Karmakar, S. A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. Under revision. Preprint available on request. Presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
 
-- **Deb, S.**, Karmakar, S. A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. Under review. Preprint available on request. Presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
+- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. Under revision. Preprint available on request. Poster presentation at the Applied Statistics Conference 2021 (virtual).
 
 - Rawat, S., **Deb, S.**. Impact of rising temperature on rainfall: A spatio-temporal study from Bangladesh. Under review. Preprint available on request.
 
 - Soni, A., **Deb, S.**, Das, D., Zaremba, A. The Value-at-Risk transmission of cryptocurrencies using group transfer entropy: New evidence under structural breaks and alternate choice of conditional distribution. Under review. Preprint available on request.
 
-- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. Under review. Preprint available on request. Poster presentation at the Applied Statistics Conference 2021 (virtual).
-
-- Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under review. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) 
+- Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under review. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:w74j9Z2Gc-sJ:scholar.google.com/&output=citation&scisdr=CgX71XiOEKDr8yWPpSQ:AAGBfm0AAAAAY6KJvST_3bUsJd29HhN2kGwID4XA4dFp&scisig=AAGBfm0AAAAAY6KJvTmgec3D7Sf2H6H8RB_rYQ4NoXsT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Bag, S., Gupta, K., **Deb, S.** A review and recommendations on variable selection methods in regression models for binary data. Under review. [[pre-print]](https://arxiv.org/abs/2201.06063) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Dxb_UQ8FxtAJ:scholar.google.com/&output=citation&scisdr=CgX73BJTEKDr8WvB9eM:AAGBfm0AAAAAYezH7eN7gD_WsrLi_ttfnAwU1cPm-XnC&scisig=AAGBfm0AAAAAYezH7eC2C9f24K5kf2esgwJpbwhc7M7y&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Roy, R., Das, S. Forecasting elections from partial information using a Bayesian model for a multinomial sequence of data. Under review. [[pre-print]](https://arxiv.org/abs/2104.02924) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:b3P8y7lDKM0J:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuiQg:AAGBfm0AAAAAYJUrkQirccnQzFNu6YpqZBuZ1wcP9xw3&scisig=AAGBfm0AAAAAYJUrkV57H0dSWX2I2KNhtZgBTfBl6cP3&scisf=4&ct=citation&cd=-1&hl=en)
 
-- Gupta, K., Krishnamurthy, V., **Deb, S.** What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. Under review. Pre-print available on request. Paper presented in 8th MathSport International Conference (virtual).
+- Gupta, K., Krishnamurthy, V., **Deb, S.** What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. Under review. Pre-print available on request. Paper selected for IMRDC 2022. Paper presented in 8th MathSport International Conference (virtual).
 
 - **Deb, S.** Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:e-vu92gbcTUJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuU6s:AAGBfm0AAAAAYJUrS6u2LbDIDj4aAhIqhD1jBXTj35CK&scisig=AAGBfm0AAAAAYJUrS0zeXLK0cxs8Vy8uXHLP3lbmfhmJ&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -82,7 +82,9 @@ Here are my publications in journals and conference proceedings, along with othe
 
 - Rawat, S., **Deb, S.**, Berrett, C. A bayesian method to identify changepoints in spatio-temporal ordinal data. Manuscript in preparation. Accepted for an oral presentation in RSS International Conference 2022, Aberdeen, UK.
 
-- Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. To be presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), to be held in London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
+- Roy, S., **Deb, S.**, Neves, C. A nonparametric approach to deal with spatio-temporal quantile regression problems. Manuscript in preparation. Presented in an invited talk at the 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), held in London, UK.
+
+- Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. Presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
 - Nath, A., **Deb, S.** A bivariate count data model and its application in forecasting match outcomes in soccer. Manuscript in preparation.
 
