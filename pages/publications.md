@@ -20,7 +20,7 @@ Here are my publications in journals and conference proceedings, along with othe
 
 - **Deb, S.**, Deb, S. (2022). An ensemble method for early prediction of dengue outbreak. Journal of the Royal Statistical Society Series A, 185(1), 84-101. [[publication]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12714) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:QX_i9RUM7_4J:scholar.google.com/&output=citation&scisdr=CgX71c6KEKDr8XRYXsE:AAGBfm0AAAAAYfNeRsEss7zWvpp9-eoeYKqfkH7pRoLA&scisig=AAGBfm0AAAAAYfNeRgmnZkVUNTvemp0lzdYN3AgJ9i2l&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
-- **Deb, S.** (2022). A goal based index to analyze the competitive balance of a football league. Journal of Quantitative Analysis in Sports, 18(3), 171-186. [[publication]](https://www.degruyter.com/document/doi/10.1515/jqas-2021-0015/html) [[bibtex]]([https://scholar.googleusercontent.com/scholar.bib?q=info:ddfFbNDv0BgJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuYRE:AAGBfm0AAAAAYJUreRGnI7bNsGV0fNNtHHv4Fm3qKafc&scisig=AAGBfm0AAAAAYJUrebwwsd7ctAOpbKvOGPWzrrPkYxZS&scisf=4&ct=citation&cd=-1&hl=en](https://scholar.googleusercontent.com/scholar.bib?q=info:0CWJmycIHdcJ:scholar.google.com/&output=citation&scisdr=CgXmp4vjEKDr8zYCcI4:AAGBfm0AAAAAY7EEaI7rQpwtnSKteVmjn4oN7Nhv7c78&scisig=AAGBfm0AAAAAY7EEaKK51ZiLpOISo5TZwthREvbvWDtf&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1))
+- **Deb, S.** (2022). A goal based index to analyze the competitive balance of a football league. Journal of Quantitative Analysis in Sports, 18(3), 171-186. [[publication]](https://www.degruyter.com/document/doi/10.1515/jqas-2021-0015/html) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:0CWJmycIHdcJ:scholar.google.com/&output=citation&scisdr=CgXmp4vjEKDr8zYBGO4:AAGBfm0AAAAAY7EHAO6zJb4sm4XrdHLBg9vhsvxxGk31&scisig=AAGBfm0AAAAAY7EHAAdr_56XL8SCs7r3e5N6FQbUgAEt&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Roy, A., **Deb, S.**, Chakarwarti, D. (2022) Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. To appear in the Journal of Applied Statistics. Accepted version available on request.
 
@@ -80,13 +80,17 @@ Here are my publications in journals and conference proceedings, along with othe
 
 ### <a name="progress"></a>Work in progress
 
-- Rawat, S., **Deb, S.**, Berrett, C. A bayesian method to identify changepoints in spatio-temporal ordinal data. Manuscript in preparation. Accepted for an oral presentation in RSS International Conference 2022, Aberdeen, UK.
+- Rawat, S., **Deb, S.**, Berrett, C. A bayesian method to identify changepoints in spatio-temporal ordinal data. Manuscript in preparation. Presented in invited talks in IISA Conference 2022, Bengaluru, India; and in RSS International Conference 2022, Aberdeen, UK.
 
-- Roy, S., **Deb, S.**, Neves, C. A nonparametric approach to deal with spatio-temporal quantile regression problems. Manuscript in preparation. Presented in an invited talk at the 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), held in London, UK.
+- Roy, S., **Deb, S.**, Neves, C. A nonparametric approach to deal with spatio-temporal quantile regression problems. Manuscript in preparation. Presented in an invited talk at the 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London, UK.
 
 - Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. Presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
 - Nath, A., **Deb, S.** A bivariate count data model and its application in forecasting match outcomes in soccer. Manuscript in preparation.
+ 
+- Divekar, C., **Deb, S.**, Roy, R. A Bayesian approach to within-game forecasting in soccer. Manuscript in preparation.
+
+- Banerjee, A., **Deb, S.** Assessing COVID-19 deaths through a zero-inflated count data model. Manuscript in preparation.
 
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. Manuscript in preparation.
  
