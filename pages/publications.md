@@ -20,7 +20,7 @@ Here are my publications in journals and conference proceedings, along with othe
 
 - **Deb, S.**, Deb, S. (2022). An ensemble method for early prediction of dengue outbreak. Journal of the Royal Statistical Society Series A, 185(1), 84-101. [[publication]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12714) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:QX_i9RUM7_4J:scholar.google.com/&output=citation&scisdr=CgX71c6KEKDr8XRYXsE:AAGBfm0AAAAAYfNeRsEss7zWvpp9-eoeYKqfkH7pRoLA&scisig=AAGBfm0AAAAAYfNeRgmnZkVUNTvemp0lzdYN3AgJ9i2l&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
-- **Deb, S.** (2022) A goal based index to analyze the competitive balance of a football league. To appear in Journal of Quantitative Analysis in Sports. [[early view]](https://www.degruyter.com/document/doi/10.1515/jqas-2021-0015/html) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ddfFbNDv0BgJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuYRE:AAGBfm0AAAAAYJUreRGnI7bNsGV0fNNtHHv4Fm3qKafc&scisig=AAGBfm0AAAAAYJUrebwwsd7ctAOpbKvOGPWzrrPkYxZS&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.** (2022). A goal based index to analyze the competitive balance of a football league. Journal of Quantitative Analysis in Sports, 18(3), 171-186. [[publication]](https://www.degruyter.com/document/doi/10.1515/jqas-2021-0015/html) [[bibtex]]([https://scholar.googleusercontent.com/scholar.bib?q=info:ddfFbNDv0BgJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuYRE:AAGBfm0AAAAAYJUreRGnI7bNsGV0fNNtHHv4Fm3qKafc&scisig=AAGBfm0AAAAAYJUrebwwsd7ctAOpbKvOGPWzrrPkYxZS&scisf=4&ct=citation&cd=-1&hl=en](https://scholar.googleusercontent.com/scholar.bib?q=info:0CWJmycIHdcJ:scholar.google.com/&output=citation&scisdr=CgXmp4vjEKDr8zYCcI4:AAGBfm0AAAAAY7EEaI7rQpwtnSKteVmjn4oN7Nhv7c78&scisig=AAGBfm0AAAAAY7EEaKK51ZiLpOISo5TZwthREvbvWDtf&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1))
 
 - Roy, A., **Deb, S.**, Chakarwarti, D. (2022) Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. To appear in the Journal of Applied Statistics. Accepted version available on request.
 
@@ -53,7 +53,7 @@ Here are my publications in journals and conference proceedings, along with othe
 
 - **Deb, S.**, Jana, K. Nonparametric quantile regression for time series with replicated observations and its application to climate data. Under revision. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
 
-- Roy, A., Soni, A., **Deb, S.** A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on Brent's Crude Oil and its interconnectedness with S&P500, Bitcoin and gold. Under revision. Preprint available on request.
+- Roy, A., Soni, A., **Deb, S.** A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on crude oil sector and its interconnectedness with other energy and non-energy markets. Under revision. Preprint available on request.
 
 - **Deb, S.**, Das, S. Optimal selection of the starting lineup for a football team. Under revision. Preprint available on request.
 
