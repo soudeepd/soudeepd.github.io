@@ -7,17 +7,18 @@ description: Soudeep's talks
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#upcoming">Upcoming</a></li>
+      <!--       <li><a href="#upcoming">Upcoming</a></li> --> 
             <li><a href="#previous">Previous talks</a></li>
         </ul>
     </div>
 </div>
 
-### <a name="upcoming"></a>Upcoming talks
+<!-- ### <a name="upcoming"></a>Upcoming talks --> 
 
-- **Dec 2022**, A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data. IISA 2022 Conference, Bengaluru, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **Dec 2022**, A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data. IISA 2022 Conference, Bengaluru, India.
 
 - **Dec 2022**, A nonparametric approach to deal with spatio-temporal quantile regression problems. 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London, UK.
 
