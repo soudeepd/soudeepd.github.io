@@ -35,7 +35,7 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <br> for random processes. I am also interested in sports 
 <br> analytics, especially problems related to soccer.
 <br> 
-<br> My CV is available <a href="https://soudeepd.github.io/Resume/CV_DebSoudeep.pdf" target="_blank">here</a> (last updated on 10th August, 2022).
+<br> My CV is available <a href="https://soudeepd.github.io/Resume/CV_DebSoudeep.pdf" target="_blank">here</a> (last updated on 1st January, 2023).
 <br>
 </td>
 </tr>
@@ -47,9 +47,9 @@ keywords: deb, time series, spatio-temporal modeling, soccer analytics, forecast
 <br>
 <br> <b> Contact: </b>
 <br> C201, Faculty Block C
-<br> Indian Institute of Management, Bangalore
+<br> Indian Institute of Management Bangalore
 <br> Bannerghatta Road, Bengaluru, India. 560076
-<br> Email: <a href="mailto:soudeep@iimb.ac.in" target="_blank">soudeep@iimb.ac.in</a>, Phone (O): +91-26993387
+<br> Email: <a href="mailto:soudeep@iimb.ac.in" target="_blank">soudeep@iimb.ac.in</a>, Phone (O): +91 (80) 26993387
 </td>
 </tr>
 
