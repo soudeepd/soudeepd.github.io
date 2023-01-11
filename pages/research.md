@@ -56,5 +56,5 @@ In addition, the following students have worked (or have been working) as resear
 - [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Currently M.S. final year student, Indian Institute of Science Education & Research, Kolkata.
 - Pranav Krishna: Currently M.S. first year student, École polytechnique fédérale de Lausanne, Switzerland.
 - Jyotishka Ray Choudhury: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
-- [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Incoming Business Analyst at McKinsey & Co. Formerly a student at IIT Bombay.
-- [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Currently working as Site Reliability Engineer at Twitter.
+- [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Currently working as Business Analyst at McKinsey & Co. 
+- [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Currently working as Software Engineer at Google.
