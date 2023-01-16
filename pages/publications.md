@@ -18,11 +18,11 @@ Here are my publications in journals and conference proceedings, along with othe
 
 ### <a name="journal"></a>Journal and conference publications
 
+- Roy, A., **Deb, S.**, Chakarwarti, D. (2023) Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. To appear in the Journal of Applied Statistics. [[early view]](https://www.tandfonline.com/doi/abs/10.1080/02664763.2022.2164562) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:SCtCZw6vgCcJ:scholar.google.com/&output=citation&scisdr=CgX71XwYEKDr80JeG4E:AAGBfm0AAAAAY8VYA4E0SnGDpsTmDppjpTpOD-VEoDTy&scisig=AAGBfm0AAAAAY8VYA4Mv-M9pHTXlia3jBZ8vW9y2jOxO&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+
 - **Deb, S.**, Deb, S. (2022). An ensemble method for early prediction of dengue outbreak. Journal of the Royal Statistical Society Series A, 185(1), 84-101. [[publication]](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12714) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:QX_i9RUM7_4J:scholar.google.com/&output=citation&scisdr=CgX71c6KEKDr8XRYXsE:AAGBfm0AAAAAYfNeRsEss7zWvpp9-eoeYKqfkH7pRoLA&scisig=AAGBfm0AAAAAYfNeRgmnZkVUNTvemp0lzdYN3AgJ9i2l&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - **Deb, S.** (2022). A goal based index to analyze the competitive balance of a football league. Journal of Quantitative Analysis in Sports, 18(3), 171-186. [[publication]](https://www.degruyter.com/document/doi/10.1515/jqas-2021-0015/html) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:0CWJmycIHdcJ:scholar.google.com/&output=citation&scisdr=CgXmp4vjEKDr8zYBGO4:AAGBfm0AAAAAY7EHAO6zJb4sm4XrdHLBg9vhsvxxGk31&scisig=AAGBfm0AAAAAY7EHAAdr_56XL8SCs7r3e5N6FQbUgAEt&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
-
-- Roy, A., **Deb, S.**, Chakarwarti, D. (2022) Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. To appear in the Journal of Applied Statistics. Accepted version available on request.
 
 - **Deb, S.**, Majumdar, M. (2022). A quadratic trend-based time series method to analyze the early incidence pattern of COVID-19. To appear in Biostatistics & Epidemiology. [[early view]](https://www.tandfonline.com/doi/full/10.1080/24709360.2022.2076529) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:sSkJjazYMAYJ:scholar.google.com/&output=citation&scisdr=CgX72UpnEKDr8nTbqUI:AAGBfm0AAAAAYvPdsULlOl2DIrWcmtXnqLJd-aaBGgdV&scisig=AAGBfm0AAAAAYvPdsRIVIsAV0PA5b61yOFzPPORQIc_V&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
