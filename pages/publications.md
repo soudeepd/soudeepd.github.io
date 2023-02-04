@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Research
-description: Soudeep's research
+description: Soudeep's publications
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#book">Books</a></li>
             <li><a href="#journal">Publications</a></li>
             <li><a href="#submitted">Submitted</a></li>
             <li><a href="#progress">In progress</a></li>
@@ -14,9 +15,15 @@ description: Soudeep's research
     </div>
 </div>
 
-Here are my publications in journals and conference proceedings, along with other published materials, as of 10th August, 2022.
+### <a name="book"></a>Books
+
+Recently, I have published my first book, which is a problem-based book aimed at high-school students interested in mathematical topics related to the ISI and CMI entrance tests as well as Mathematics Olympiads. In addition to the textbooks, this would be a helpful resource to understand how to tackle complicated problems from topics such as number theory, combinatorics, algebra, calculus, Euclidean and coordinate geometry, probability and statistics. We provide several problem-solving strategies and pointers to help students become confident in advanced high school mathematics. Following are the details.
+
+- **Deb, S.**, Dey, D. (2023) Mathematical Techniques for Competitive Examinations. Published by Orient Blackswan Pvt Ltd. ISBN: 9393330107. [[Buy from Amazon]](https://www.amazon.in/Mathematical-Techniques-Competitive-Examinations-Debangan/dp/9393330107/ref=sr_1_1?qid=1674030582&refinements=p_27%3ASoudeep+Deb+Debangan+Dey&s=books&sr=1-1) [[Buy from Flipkart]](https://www.flipkart.com/mathematical-techniques-competitive-examinations/p/itm8009e4d01f123) [[Buy from Publisher]](https://orientblackswan.com/details?id=9789393330109)
 
 ### <a name="journal"></a>Journal and conference publications
+
+Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st February, 2023.
 
 - Roy, A., **Deb, S.**, Chakarwarti, D. (2023) Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. To appear in the Journal of Applied Statistics. [[early view]](https://www.tandfonline.com/doi/abs/10.1080/02664763.2022.2164562) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:SCtCZw6vgCcJ:scholar.google.com/&output=citation&scisdr=CgX71XwYEKDr80JeG4E:AAGBfm0AAAAAY8VYA4E0SnGDpsTmDppjpTpOD-VEoDTy&scisig=AAGBfm0AAAAAY8VYA4Mv-M9pHTXlia3jBZ8vW9y2jOxO&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
