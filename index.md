@@ -25,8 +25,9 @@ keywords: soudeep, deb, time series, spatio-temporal modeling, soccer analytics,
 <br> <b> Contact: </b>
 <br> C201, Faculty Block C
 <br> Indian Institute of Management Bangalore
-<br> Bannerghatta Road, Bengaluru, India. 560076
-<br> Email: <a href="mailto:soudeep@iimb.ac.in" target="_blank">soudeep@iimb.ac.in</a>, Phone (O): +91 (80) 26993387
+<br> Bannerghatta Road, Bengaluru, KA 560076, India. 
+<br> Email: <a href="mailto:soudeep@iimb.ac.in" target="_blank">soudeep@iimb.ac.in</a>. 
+<br> Phone (O): +91 (80) 26993387.
 </td>
 </tr>
 </table>
