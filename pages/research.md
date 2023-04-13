@@ -28,7 +28,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 Details of the research grants I have received so far are listed below:
 
-- Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 250,000 for two years (August 2021 to July 2023).
+- Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 300,000 for two years (August 2021 to December 2023).
 - Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
 
 
@@ -64,5 +64,5 @@ Below is a list of students who have worked (or have been working) as research a
 - [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Currently M.S. final year student, Indian Institute of Science Education & Research, Kolkata.
 - Pranav Krishna: Currently M.S. first year student, École polytechnique fédérale de Lausanne, Switzerland.
 - Jyotishka Ray Choudhury: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
-- [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Currently working as Business Analyst at McKinsey & Co. 
-- [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Currently working as Software Engineer at Google.
+- [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): As of 2023, working as Business Analyst at McKinsey & Co. 
+- [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): As of 2023, working as Software Engineer at Google.
