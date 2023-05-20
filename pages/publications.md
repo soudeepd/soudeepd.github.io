@@ -25,6 +25,8 @@ Recently, I have published my first book, which is a problem-based book aimed at
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st February, 2023.
 
+- Mareeswaran, M., Sen, S., **Deb, S.** (2023) New methods of structural break detection and an ensemble approach to analyze exchange rate volatility of Indian rupee during COVID-19. To appear in the Journal of the Royal Statistical Society Series A.
+
 - Roy, A., **Deb, S.**, Chakarwarti, D. (2023) Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. To appear in the Journal of Applied Statistics. [[early view]](https://www.tandfonline.com/doi/abs/10.1080/02664763.2022.2164562) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:SCtCZw6vgCcJ:scholar.google.com/&output=citation&scisdr=CgX71XwYEKDr80JeG4E:AAGBfm0AAAAAY8VYA4E0SnGDpsTmDppjpTpOD-VEoDTy&scisig=AAGBfm0AAAAAY8VYA4Mv-M9pHTXlia3jBZ8vW9y2jOxO&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - **Deb, S.** (2023). Analyzing airlines stock price volatility during COVID-19 pandemic through internet search data. International Journal of Finance & Economics, 28(2), 1497-1513. [[publication]](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2490) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:bPUp6AmnTgoJ:scholar.google.com/&output=citation&scisdr=CgX71d9LEPj749wuCZM:AAGBfm0AAAAAYC8rEZPk_VFRZvVU7IyLQfer3ak_kL6I&scisig=AAGBfm0AAAAAYC8rEWWCZ1ZZHrG4Y8J_m0MMRdwyANyH&scisf=4&ct=citation&cd=-1&hl=en)
@@ -56,23 +58,24 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
-- Mareeswaran, M., Sen, S., **Deb, S.** New methods of structural break detection and an ensemble approach to analyze exchange rate volatility of Indian rupee during COVID-19. Under second revision. Preprint available on request.
 
 - **Deb, S.**, Jana, K. Nonparametric quantile regression for time series with replicated observations and its application to climate data. Under revision. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
 
-- Roy, A., Soni, A., **Deb, S.** A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on crude oil sector and its interconnectedness with other energy and non-energy markets. Under revision. Preprint available on request.
+- Roy, A., Soni, A., **Deb, S.** A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on crude oil sector and its interconnectedness with other energy and non-energy markets. Under second revision. Preprint available on request.
 
-- **Deb, S.**, Karmakar, S. A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. Under revision. Preprint available on request. Presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
+- **Deb, S.**, Karmakar, S. A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. Under second  revision. Preprint available on request. Presented in an invited talk in 4th International Conference on Econometrics and Statistics, EcoSta 2021 (virtual).
 
 - Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. Under revision. Preprint available on request. Poster presentation at the Applied Statistics Conference 2021 (virtual).
 
-- Divekar, C., **Deb, S.**, Roy, R. Real-time forecasting within soccer matches through a Bayesian lens. Under review. [[pre-print]](https://arxiv.org/abs/2303.12401) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:0JscwLnRe0kJ:scholar.google.com/&output=citation&scisdr=CpsEIpmEEKDr9LBhHR4:AJ9-iYsAAAAAZDdnBR4n5_oFvy-NlHhGc3PGqks&scisig=AJ9-iYsAAAAAZDdnBQS-tROblY7494n6ah_Om3I&scisf=4&ct=citation&cd=-1&hl=en)
+- Divekar, C., **Deb, S.**, Roy, R. Real-time forecasting within soccer matches through a Bayesian lens. Under revision. [[pre-print]](https://arxiv.org/abs/2303.12401) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:0JscwLnRe0kJ:scholar.google.com/&output=citation&scisdr=CpsEIpmEEKDr9LBhHR4:AJ9-iYsAAAAAZDdnBR4n5_oFvy-NlHhGc3PGqks&scisig=AJ9-iYsAAAAAZDdnBQS-tROblY7494n6ah_Om3I&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Das, S. Optimal selection of the starting lineup for a football team. Under review. [[pre-print]](https://arxiv.org/abs/2303.12385) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dyWYcNXtZVMJ:scholar.google.com/&output=citation&scisdr=CpsEIpmEEKDr9LBgnWY:AJ9-iYsAAAAAZDdmhWabYobyqBcqFAlqwe5QBo8&scisig=AJ9-iYsAAAAAZDdmhRWH3ymc5kvb_OB2D1TnDVo&scisf=4&ct=citation&cd=-1&hl=en)
 
+- Rawat, S., Durrant, A., Simpson, A., Nielson, G., Berrett, C,  **Deb, S.** A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data: An application to COVID-19 data. Under review. [[pre-print]](https://arxiv.org/abs/2305.01906) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:KaPrW-qbUn0J:scholar.google.com/&output=citation&scisdr=Cm08r7FbEKDr9O9SuJ8:AGlGAw8AAAAAZGhUoJ-xBiNl_lkKcas2CgBFnl0&scisig=AGlGAw8AAAAAZGhUoD9RuxGxd_LarLdatAQL9Wo&scisf=4&ct=citation&cd=-1&hl=en) [Paper presented in invited talks in IISA Conference 2022, Bengaluru, India; and in RSS International Conference 2022, Aberdeen, UK.]
+
 - Rawat, S., **Deb, S.**. Impact of rising temperature on rainfall: A spatio-temporal study from Bangladesh. Under review. Preprint available on request.
 
-- Soni, A., **Deb, S.**, Das, D., Zaremba, A. The Value-at-Risk transmission of cryptocurrencies using group transfer entropy: New evidence under structural breaks and alternate choice of conditional distribution. Under review. Preprint available on request.
+- Soni, A., **Deb, S.**, Das, D., Zaremba, A. Using t-SNE and KL divergence to identify the effects of structural breaks on Value-at-Risk transmission and information flow among cryptocurrencies. Under review. Preprint available on request.
 
 - Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under review. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:w74j9Z2Gc-sJ:scholar.google.com/&output=citation&scisdr=CgX71XiOEKDr8yWPpSQ:AAGBfm0AAAAAY6KJvST_3bUsJd29HhN2kGwID4XA4dFp&scisig=AAGBfm0AAAAAY6KJvTmgec3D7Sf2H6H8RB_rYQ4NoXsT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
@@ -88,8 +91,6 @@ Following are my academic publications in journals and conference proceedings, a
 
 
 ### <a name="progress"></a>Work in progress
-
-- Rawat, S., **Deb, S.**, Berrett, C. A bayesian method to identify changepoints in spatio-temporal ordinal data. Manuscript in preparation. Presented in invited talks in IISA Conference 2022, Bengaluru, India; and in RSS International Conference 2022, Aberdeen, UK.
 
 - Roy, S., **Deb, S.**, Neves, C. A nonparametric approach to deal with spatio-temporal quantile regression problems. Manuscript in preparation. Presented in an invited talk at the 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London, UK.
 
