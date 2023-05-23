@@ -18,8 +18,9 @@ description: Soudeep's research
 
 Primarily, I work on different aspects of time series and spatial data. Often, the theory and methods I work on are inspired from real life problems from different disciplines, ranging from climate to public health to finance to social sciences. Following are broadly the topics I have been working on.
 
-- Categorical and discrete time series data
 - Spatio-temporal modeling 
+- Quantile regression in time series and spatial data
+- Categorical and discrete time series data
 - Clustering and classification methods
 - Bayesian implementation of time series methods
 - Application of statistics in sports, especially soccer
@@ -38,31 +39,41 @@ Following students have successfully completed their PhD under my supervision.
 
 - [Anchal Soni](https://anchal-soni.github.io/Anchal/): Defended in February 2023, from Indian Institute of Management Bangalore. Ms Soni's thesis was on "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Post PhD, she joined WNS Global Services as Senior Consultant, F&A capability.
 
-Currently, the following students are advised by me in different capacities.
+- [Siddharth Rawat](https://rawatsid.github.io/): Defended in May 2023, from Indian Institute of Management Bangalore. Mr Rawat's thesis was titled "Spatio-temporal models in epidemiology and climate change".
 
-- (Thesis advisor of) [Siddharth Rawat](https://rawatsid.github.io/): Fourth year doctoral student, Indian Institute of Management Bangalore. Mr Rawat is primarily advised by me, and is working on his thesis titled "Spatio-temporal models in epidemiology and climate change". Expected to graduate by the summer of 2024.
+Currently, the following students are advised by me in different capacities.
 
 - (Thesis advisor of) [Kapil Gupta](https://kapil21.wixsite.com/kapil): Third year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods. Expected to graduate by the summer of 2025.
 
-- (Thesis co-advisor of) [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en). Expected to graduate by the summer of 2024.
+- (Thesis co-advisor of) [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2024.
 
 - (Doctoral committee member of) [Sajad S Santhosh](https://www.iimb.ac.in/node/10690): Fourth year doctoral student, Indian Institute of Management Bangalore. 
 
 
 ### <a name="others"></a>Other Students
 
-Below is a list of students who have worked (or have been working) as research assistants on various projects.
+Below is a list of students who are currently working on various projets in collaboration with me.
 
-- [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Currently a doctoral student at University of Missouri.
-- [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Currently a doctoral student at Indian Institute of Management Bangalore.
 - Kunal Rai: Currently a doctoral student at Indian Institute of Management Bangalore.
-- [Shubhajit Sen](https://statistics.sciences.ncsu.edu/people/ssen8/): Currently a doctoral student at North Carolina State University.
-- [Anirban Nath](http://stat.columbia.edu/department-directory/name/anirban-nath/): Currently a doctoral student at Columbia University.
-- Anagh Chattopadhyay: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
-- Manit Paul: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
-- Arisina Banerjee: Currently M.Stat second year student, Indian Statistical Institute Kolkata.
+- Subhrajyoty Roy: Currently a doctoral student at Indian Statistical Institute Kolkata.
+- Deepam Saha: Currently B.Stat student at Indian Statistical Institute Kolkata.
+- Shubhayan Pan: Currently B.Stat student at Indian Statistical Institute Kolkata.
+- Saikat Sengupta: Currently B.Stat student at Indian Statistical Institute Kolkata.
+- Arunav Bhowmick: Currently B.Stat student at Indian Statistical Institute Kolkata.
+- Srijan Chatterjee: Currently B.Stat student at Indian Statistical Institute Kolkata.
+- Swapnaneel Bhattacharya: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Currently M.S. final year student, Indian Institute of Science Education & Research, Kolkata.
-- Pranav Krishna: Currently M.S. first year student, École polytechnique fédérale de Lausanne, Switzerland.
-- Jyotishka Ray Choudhury: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
+
+A few other notable research assistants, who contributed substantially to my research projects in the past years, are listed below.
+
+- Anagh Chattopadhyay: Worked during 2021-23, while a M.Stat student at Indian Statistical Institute Kolkata.
+- Arisina Banerjee: Worked during 2021-23, while a M.Stat student at Indian Statistical Institute Kolkata.
+- Pranav Krishna: Worked during 2022-23, later joined  M.S. program at École polytechnique fédérale de Lausanne, Switzerland.
+- Jyotishka Ray Choudhury: Worked during 2022-23, while a M.Stat student at Indian Statistical Institute Kolkata.
+- [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Worked during 2021-22, later joined doctoral program at University of Missouri.
+- [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Worked during 2020-22, during his doctoral studies at Indian Institute of Management Bangalore.
+- [Anirban Nath](http://stat.columbia.edu/department-directory/name/anirban-nath/): Worked during 2021-22, later joined doctoral program at Columbia University.
+- Manit Paul: Worked during 2021-22, while a M.Stat student at Indian Statistical Institute Kolkata.
+- [Shubhajit Sen](https://statistics.sciences.ncsu.edu/people/ssen8/): Worked during 2020-21, later joined doctoral program at North Carolina State University.
 - [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): As of 2023, working as Business Analyst at McKinsey & Co. 
 - [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): As of 2023, working as Software Engineer at Google.
