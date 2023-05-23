@@ -75,5 +75,5 @@ A few other notable research assistants, who contributed substantially to my res
 - [Anirban Nath](http://stat.columbia.edu/department-directory/name/anirban-nath/): Worked during 2021-22, later joined doctoral program at Columbia University.
 - Manit Paul: Worked during 2021-22, while a M.Stat student at Indian Statistical Institute Kolkata.
 - [Shubhajit Sen](https://statistics.sciences.ncsu.edu/people/ssen8/): Worked during 2020-21, later joined doctoral program at North Carolina State University.
-- [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): As of 2023, working as Business Analyst at McKinsey & Co. 
-- [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): As of 2023, working as Software Engineer at Google.
+- [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Worked during 2020-22, later joined McKinsey & Co as Business Analyst. 
+- [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Worked during 2020-22, later joined Google as Software Engineer.
