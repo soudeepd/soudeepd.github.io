@@ -7,16 +7,21 @@ description: Soudeep's talks
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-      <!--       <li><a href="#upcoming">Upcoming</a></li> --> 
+            <li><a href="#upcoming">Upcoming</a></li> 
             <li><a href="#previous">Previous talks</a></li>
         </ul>
     </div>
 </div>
 
-<!-- ### <a name="upcoming"></a>Upcoming talks --> 
+### <a name="upcoming"></a>Upcoming talks 
 
+- **Aug 2023**, Using t-SNE in analyzing multivariate time series data. 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo, Japan.
 
 ### <a name="previous"></a>Previous talks
+
+- **May 2023**, Nonparametric methods to deal with quantile regression problems in time series and spatio-temporal settings. Symposium, Department of Statistics & Data Science, National University of Singapore, Singapore.
+
+- **Mar 2023**, New methods of structural break detection in multivariate time series and its use in modeling financial data. Symposium, Interdisciplinary Statistical Research Unit, Indian Statistical Institute, Kolkata, India.
 
 - **Dec 2022**, A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data. IISA 2022 Conference, Bengaluru, India.
 
