@@ -23,11 +23,13 @@ Recently, I have published my first book, which is a problem-based book aimed at
 
 ### <a name="journal"></a>Journal and conference publications
 
-Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st February, 2023.
+Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st July, 2023.
+
+- Roy, A., Soni, A., **Deb, S.** (2023) A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on crude oil sector and its interconnectedness with other energy and non-energy markets. To appear in Energy Economics.
 
 - Mareeswaran, M., Sen, S., **Deb, S.** (2023) New methods of structural break detection and an ensemble approach to analyze exchange rate volatility of Indian rupee during COVID-19. To appear in the Journal of the Royal Statistical Society Series A. [[early view]](https://academic.oup.com/jrsssa/advance-article-abstract/doi/10.1093/jrsssa/qnad078/7197368) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:EDzZsXVw9vEJ:scholar.google.com/&output=citation&scisdr=Cm08qBl2EKDr9Anj2Jk:AGlGAw8AAAAAZI7lwJl8qEIVfabF2wRgBPJ-O0Y&scisig=AGlGAw8AAAAAZI7lwFvXXT94PmCkVCyjmBIf4II&scisf=4&ct=citation&cd=-1&hl=en)
 
-- **Deb, S.**, Karmakar, S. (2023) A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. To appear in Computational Statistics & Data Analysis.
+- **Deb, S.**, Karmakar, S. (2023) A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. To appear in Computational Statistics & Data Analysis. [[early view]](https://www.sciencedirect.com/science/article/pii/S0167947323001214) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:XHaGpd8Nx9MJ:scholar.google.com/&output=citation&scisdr=ChUYwneNEKDr9CF-VUE:ABFrs3wAAAAAZKZ4TUFwXmb4Cmk4cr_IGaM9xoA&scisig=ABFrs3wAAAAAZKZ4TUvDcqD_rwfGuXz32QGDXEM&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Roy, A., **Deb, S.**, Chakarwarti, D. (2023) Impact of COVID-19 on public social life and mental health: A statistical study of Google Trends data from the USA. To appear in the Journal of Applied Statistics. [[early view]](https://www.tandfonline.com/doi/abs/10.1080/02664763.2022.2164562) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:SCtCZw6vgCcJ:scholar.google.com/&output=citation&scisdr=CgX71XwYEKDr80JeG4E:AAGBfm0AAAAAY8VYA4E0SnGDpsTmDppjpTpOD-VEoDTy&scisig=AAGBfm0AAAAAY8VYA4Mv-M9pHTXlia3jBZ8vW9y2jOxO&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
@@ -62,8 +64,6 @@ Following are my academic publications in journals and conference proceedings, a
 
 
 - **Deb, S.**, Jana, K. Nonparametric quantile regression for time series with replicated observations and its application to climate data. Under revision. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
-
-- Roy, A., Soni, A., **Deb, S.** A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on crude oil sector and its interconnectedness with other energy and non-energy markets. Under second revision. Preprint available on request.
 
 - Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. Under revision. Preprint available on request. Poster presentation at the Applied Statistics Conference 2021 (virtual).
 
