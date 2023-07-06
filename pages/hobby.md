@@ -15,7 +15,7 @@ description: Soudeep's leisure hours
 
 ### <a name="travel"></a>Travel
 
-I am an avid traveler, and have traveled to 26 countries from six continents so far. Here are some useful links for people like me.
+I am an avid traveler, and have traveled to 28 countries from six continents so far. Here are some useful links for people like me.
 
 * [Couchsurfing](https://coucusurfing.com/): This is the best way to meet local people if you are going to a new place. Stay with someone for free, get useful information about exciting places to visit and make the best out of your trip. Especially, if you are a solo traveler, you will find it to be the best networking site ever. [[My Couchsurfing profile]](https://www.couchsurfing.com/people/soudeep-deb)
 
