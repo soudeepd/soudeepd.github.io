@@ -25,7 +25,7 @@ Recently, I have published my first book, which is a problem-based book aimed at
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st July, 2023.
 
-- Roy, A., Soni, A., **Deb, S.** (2023) A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on crude oil sector and its interconnectedness with other energy and non-energy markets. To appear in Energy Economics.
+- Roy, A., Soni, A., **Deb, S.** (2023) A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on crude oil sector and its interconnectedness with other energy and non-energy markets. To appear in Energy Economics. [[early view]](https://www.sciencedirect.com/science/article/pii/S0140988323003286) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:753NWsBMqvIJ:scholar.google.com/&output=citation&scisdr=ChUYwneNEKDr9CjKHRM:ABFrs3wAAAAAZK_MBRM1VpGqC_sVFrezYIdTnyI&scisig=ABFrs3wAAAAAZK_MBUgTMQMuy1NsCuWAxrnXtUY&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Mareeswaran, M., Sen, S., **Deb, S.** (2023) New methods of structural break detection and an ensemble approach to analyze exchange rate volatility of Indian rupee during COVID-19. To appear in the Journal of the Royal Statistical Society Series A. [[early view]](https://academic.oup.com/jrsssa/advance-article-abstract/doi/10.1093/jrsssa/qnad078/7197368) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:EDzZsXVw9vEJ:scholar.google.com/&output=citation&scisdr=Cm08qBl2EKDr9Anj2Jk:AGlGAw8AAAAAZI7lwJl8qEIVfabF2wRgBPJ-O0Y&scisig=AGlGAw8AAAAAZI7lwFvXXT94PmCkVCyjmBIf4II&scisf=4&ct=citation&cd=-1&hl=en)
 
