@@ -15,7 +15,7 @@ description: Soudeep's leisure hours
 
 ### <a name="travel"></a>Travel
 
-I am an avid traveler, and have traveled to 28 countries from six continents so far. Here are some useful links for people like me.
+I am an avid traveler, and have traveled to 29 countries from six continents so far. Here are some useful links for people like me.
 
 * [Couchsurfing](https://coucusurfing.com/): This is the best way to meet local people if you are going to a new place. Stay with someone for free, get useful information about exciting places to visit and make the best out of your trip. Especially, if you are a solo traveler, you will find it to be the best networking site ever. [[My Couchsurfing profile]](https://www.couchsurfing.com/people/soudeep-deb)
 
@@ -23,7 +23,7 @@ I am an avid traveler, and have traveled to 28 countries from six continents so 
 
 * [Build your own map](https://soudeep.shinyapps.io/World-Scratch-Map/): Who does not want to show off to friends and relatives? Using this app (I am still working on this to make it faster and better), you can make your own mark in the world. Go to this website, select the places you have visited so far, and voila - you get a map like the following. 
 
-<img src="my_scratch_map.jpg" title="my scratch map" alt="my scratch map" width="50%" style="display: block; margin: auto;" />
+<img src="my_scratch_map.png" title="my scratch map" alt="my scratch map" width="50%" style="display: block; margin: auto;" />
 
 ### <a name="blog"></a>Blogging
 
