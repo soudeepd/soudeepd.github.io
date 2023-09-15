@@ -39,7 +39,7 @@ Following students have successfully completed their PhD under my supervision.
 
 - [Anchal Soni](https://anchal-soni.github.io/Anchal/): Defended in February 2023, from Indian Institute of Management Bangalore. Ms Soni's thesis was on "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Post PhD, she joined WNS Global Services as Senior Consultant, F&A capability.
 
-- [Siddharth Rawat](https://rawatsid.github.io/): Defended in May 2023, from Indian Institute of Management Bangalore. Mr Rawat's thesis was titled "Spatio-temporal models in epidemiology and climate change".
+- [Siddharth Rawat](https://rawatsid.github.io/): Defended in May 2023, from Indian Institute of Management Bangalore. Mr Rawat's thesis was titled "Spatio-temporal models in epidemiology and climate change". Post PhD, he joined the Biostatistics & Computational Biology Branch, at NIEHS, NC, USA, as a postdoctoral fellow.
 
 Currently, the following students are advised by me in different capacities.
 
