@@ -65,7 +65,7 @@ Following are my academic publications in journals and conference proceedings, a
 ### <a name="submitted"></a>Submitted articles
 
 
-- **Deb, S.**, Jana, K. Nonparametric quantile regression for time series with replicated observations and its application to climate data. Under revision. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.**, Jana, K. Nonparametric quantile regression for time series with replicated observations and its application to climate data. Under second revision. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. Under second revision. Preprint available on request. Poster presentation at the Applied Statistics Conference 2021 (virtual).
 
@@ -92,7 +92,7 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="progress"></a>Work in progress
 
-- Roy, S., **Deb, S.**, Neves, C. A nonparametric approach to deal with spatio-temporal quantile regression problems. Manuscript in preparation. Presented in an invited talk at the 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London, UK.
+- **Deb, S.**, Neves, C., Roy, S. A nonparametric approach to deal with spatio-temporal quantile regression problems. Manuscript in preparation. Presented in an invited talk at the 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London, UK.
 
 - Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. Presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
