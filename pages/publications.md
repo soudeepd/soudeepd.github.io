@@ -23,7 +23,9 @@ Recently, I have published my first book, which is a problem-based book aimed at
 
 ### <a name="journal"></a>Journal and conference publications
 
-Following are my academic publications in journals and conference proceedings, along with other published materials, as of 1st July, 2023.
+Following are my academic publications in journals and conference proceedings, along with other published materials, as of 27th November, 2023.
+
+- **Deb, S.**, Jana, K. Nonparametric quantile regression for time series with replicated observations and its application to climate data. To appear in Statistical Science. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Divekar, C., **Deb, S.**, Roy, R. Real-time forecasting within soccer matches through a Bayesian lens. To appear in the Journal of the Royal Statistical Society Series A. [[pre-print]](https://arxiv.org/abs/2303.12401) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:0JscwLnRe0kJ:scholar.google.com/&output=citation&scisdr=CpsEIpmEEKDr9LBhHR4:AJ9-iYsAAAAAZDdnBR4n5_oFvy-NlHhGc3PGqks&scisig=AJ9-iYsAAAAAZDdnBQS-tROblY7494n6ah_Om3I&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -66,8 +68,6 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
-
-- **Deb, S.**, Jana, K. Nonparametric quantile regression for time series with replicated observations and its application to climate data. Under second revision. [[pre-print]](https://arxiv.org/pdf/2107.02091.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. Under second revision. Preprint available on request. Poster presentation at the Applied Statistics Conference 2021 (virtual).
 
