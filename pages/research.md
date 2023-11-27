@@ -47,6 +47,10 @@ Currently, the following students are advised by me in different capacities.
 
 - (Thesis co-advisor of) [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2024.
 
+- (Thesis advisor of) Kunal Rai: Third year doctoral student, Indian Institute of Management Bangalore. Mr Rai's tentative thesis revolves around nonparametric methods and physics-informed neural networks for quantile regression problems in time series and spatio-temporal data. Expected to graduate by the summer of 2026.
+
+- (Thesis co-advisor of) Chinmay Divekar: Third year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics.
+
 - (Doctoral committee member of) [Sajad S Santhosh](https://www.iimb.ac.in/node/10690): Fifth year doctoral student, Indian Institute of Management Bangalore. 
 
 - (Doctoral committee member of) [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Fourth year doctoral student, Indian Institute of Management Bangalore. 
@@ -56,25 +60,24 @@ Currently, the following students are advised by me in different capacities.
 
 Below is a list of students who are currently working on various projets in collaboration with me.
 
-- Kunal Rai: Currently a doctoral student at Indian Institute of Management Bangalore.
 - Subhrajyoty Roy: Currently a doctoral student at Indian Statistical Institute Kolkata.
 - Deepam Saha: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - Shubhayan Pan: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - Saikat Sengupta: Currently B.Stat student at Indian Statistical Institute Kolkata.
-- Arunav Bhowmick: Currently B.Stat student at Indian Statistical Institute Kolkata.
+- Arunav Bhowmick: Currently M.Stat student at Indian Statistical Institute Kolkata.
 - Srijan Chatterjee: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - Swapnaneel Bhattacharya: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Currently M.S. final year student, Indian Institute of Science Education & Research, Kolkata.
 
 A few other notable research assistants, who contributed substantially to my research projects in the past years, are listed below.
 
-- Anagh Chattopadhyay: Worked during 2021-23, while a M.Stat student at Indian Statistical Institute Kolkata.
-- Arisina Banerjee: Worked during 2021-23, while a M.Stat student at Indian Statistical Institute Kolkata.
+- Anagh Chattopadhyay: Worked during 2021-23, later joined doctoral program at Johns Hopkins University.
+- Arisina Banerjee: Worked during 2021-23, later joined doctoral program at Cornell University.
 - Pranav Krishna: Worked during 2022-23, later joined  M.S. program at École polytechnique fédérale de Lausanne, Switzerland.
 - Jyotishka Ray Choudhury: Worked during 2022-23, while a M.Stat student at Indian Statistical Institute Kolkata.
+- Manit Paul: Worked during 2021-22, later joined doctoral program at University of Pennsylvania.
 - [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Worked during 2021-22, later joined doctoral program at University of Missouri.
 - [Anirban Nath](http://stat.columbia.edu/department-directory/name/anirban-nath/): Worked during 2021-22, later joined doctoral program at Columbia University.
-- Manit Paul: Worked during 2021-22, while a M.Stat student at Indian Statistical Institute Kolkata.
 - [Shubhajit Sen](https://statistics.sciences.ncsu.edu/people/ssen8/): Worked during 2020-21, later joined doctoral program at North Carolina State University.
 - [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Worked during 2020-22, later joined McKinsey & Co as Business Analyst. 
 - [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Worked during 2020-22, later joined Google as Software Engineer.
