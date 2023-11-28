@@ -7,9 +7,9 @@ description: Soudeep's research
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#consulting">Consulting</a></li>
             <li><a href="#grants">Grants</a></li>
             <li><a href="#students">Doctoral Students</a></li>
-            <li><a href="#others">Others</a></li>
         </ul>
     </div>
 </div>
@@ -24,6 +24,16 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 - Clustering and classification methods
 - Bayesian implementation of time series methods
 - Application of statistics in sports, especially soccer
+
+### <a name="consulting"></a>Consulting work
+
+With my expertise and experiences in working with real life datasets, I am interested in providing consulting services to relevant industries. I have been doing this in different capacities for a few organizations, as listed below.
+
+- DBS Bank, Singapore: This work is related to a three-step methodology utilized by the client for understanding the value of data in banking industry. We reviewed their method and provided theoretical as well as empirical understanding of the efficacy of the currently used methodology. It was followed up with necessary modifications and suggestions.
+
+- Real Estate Research Initiative (IIMB-RERI), Bengaluru, India: It is an ongoing collaborative venture. We worked on a spatial modelling technique to create a commercial rental index that can be used for understanding the dynamics of rental properties in various cities of India. 
+
+- SportsKPI, Bengaluru, India: Kabaddi is a popular sport in India, with a cash-rich national league system played across various cities. The client deals with multiple aspects of the league for several teams. In this collaborative work, we developed a method for appropriate valuation of a Kabaddi player and how it can be used in building strategies, both during auction stage and the matches.
 
 ### <a name="grants"></a>Grants
 
@@ -55,8 +65,6 @@ Currently, the following students are advised by me in different capacities.
 
 - (Doctoral committee member of) [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Fourth year doctoral student, Indian Institute of Management Bangalore. 
 
-
-### <a name="others"></a>Other Students
 
 Below is a list of students who are currently working on various projets in collaboration with me.
 

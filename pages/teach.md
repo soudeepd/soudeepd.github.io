@@ -13,7 +13,9 @@ description: Soudeep Deb's teaching
     </div>
 </div>
 
-### <a name="assistant"></a>At IIM Bangalore
+### <a name="iimb"></a>At IIM Bangalore
+
+Below is a list of courses I have taught in the degree-granting programs at my current institute. I also teach a few sessions in the executive education programs. 
 
 * (Upcoming) Jan 2024 to Mar 2024: PhD Term 3 - Multivariate Statistics. This is a core course for the PhD students in the Decision Sciences area. Good understanding of probability theory, statistical inference, and linear algebra serve as adequate prerequisites to this course. The syllabus of the course includes the study of random vectors and associated probability distributions, inference about multivariate mean and dispersion matrix, multivariate regression models and dimension reduction techniques. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
@@ -35,7 +37,7 @@ description: Soudeep Deb's teaching
 
 * Aug 2020 to Oct 2020: PGP Term 1 - Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. See above for the course description.
 
-### <a name="instructor"></a>At University of Chicago
+### <a name="uchicago"></a>At University of Chicago
 
 During my PhD tenure at the University of Chicago, I taught the following courses. [Please reach out to me](mailto:soudeep@iimb.ac.in) if you want to know more about these courses.
 
