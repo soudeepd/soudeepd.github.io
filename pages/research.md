@@ -39,6 +39,7 @@ With my expertise and experiences in working with real life datasets, I am inter
 
 Details of the research grants I have received so far are listed below:
 
+- India-Israel Joint Research Cooperation (IIJRC) Grant, 10th CFP-2023, offered jointly by Department of Science & Technology, India, and Ministry of Innovation, Science & Technology, Israel. This project is in collaboration with Prof. Itai Dattner, from University of Haifa, Israel. The topic of the project is "Hybrid-AI Quantile Regression Combining Nonparametric Statistical Methods and Physics-InformedNeural Networks for Analysing Spatio-temporal Climate Data". The amount is approximately INR 1.6 million for two years, starting from 2024.
 - Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 300,000 for two years (August 2021 to December 2023).
 - Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
 
