@@ -39,7 +39,8 @@ With my expertise and experiences in working with real life datasets, I am inter
 
 Details of the research grants I have received so far are listed below:
 
-- India-Israel Joint Research Cooperation (IIJRC) Grant, 10th CFP-2023, offered jointly by Department of Science & Technology, India, and Ministry of Innovation, Science & Technology, Israel. This project is in collaboration with Prof. Itai Dattner, from University of Haifa, Israel. The topic of the project is "Hybrid-AI Quantile Regression Combining Nonparametric Statistical Methods and Physics-InformedNeural Networks for Analysing Spatio-temporal Climate Data". The amount is approximately INR 1.6 million for two years, starting from 2024.
+- India-Israel Joint Research Cooperation (IIJRC) Grant, 10th CFP-2023, offered jointly by Department of Science & Technology, India, and Ministry of Innovation, Science & Technology, Israel. This project is in collaboration with Prof. Itai Dattner, from University of Haifa, Israel. The topic of the project is "Hybrid-AI Quantile Regression Combining Nonparametric Statistical Methods and Physics-Informed
+Neural Networks for Analysing Spatio-temporal Climate Data". The amount is approximately INR 1.6 million for two years, starting from 2024.
 - Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 300,000 for two years (August 2021 to December 2023).
 - Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
 
@@ -54,7 +55,7 @@ Following students have successfully completed their PhD under my supervision.
 
 Currently, the following students are advised by me in different capacities.
 
-- (Thesis advisor of) [Kapil Gupta](https://kapil21.wixsite.com/kapil): Fourth year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods. Expected to graduate by the summer of 2025.
+- (Thesis advisor of) [Kapil Gupta](https://kapil21gupta.github.io/): Fourth year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods. Expected to graduate by the summer of 2025.
 
 - (Thesis co-advisor of) [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2024.
 
