@@ -15,9 +15,15 @@ description: Soudeep's talks
 
 ### <a name="upcoming"></a>Upcoming talks 
 
-- **Dec 2023**, Nonparametric estimation of shape-constrained time series regression model. RMS Conference 2023, Guwahati, India.
+- **Jul 2024**, TBA. EcoSta Conference 2024, Beijing, China.
+
+- **Dec 2024**, TBA. CMStatistics Conference 2024, London, UK.
+
+- **Dec 2024**, TBA. IISA Conference 2024, Cochin, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **Dec 2023**, Nonparametric estimation of shape-constrained time series regression model. RMS Conference 2023, Guwahati, India.
 
 - **Aug 2023**, Using t-SNE in analyzing multivariate time series data. 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo, Japan.
 
