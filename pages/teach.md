@@ -15,27 +15,25 @@ description: Soudeep Deb's teaching
 
 ### <a name="iimb"></a>At IIM Bangalore
 
-Below is a list of courses I have taught in the degree-granting programs at my current institute. I also teach a few sessions in the executive education programs. 
+Below is a list of courses I have taught in the degree-granting programs at my current institute. I also teach a few sessions in the executive education programs. [Feel free to reach out](mailto:soudeep@iimb.ac.in) if you want to know more about those courses.
 
-* (Upcoming) Jan 2024 to Mar 2024: PhD Term 3 - Multivariate Statistics. This is a core course for the PhD students in the Decision Sciences area. Good understanding of probability theory, statistical inference, and linear algebra serve as adequate prerequisites to this course. The syllabus of the course includes the study of random vectors and associated probability distributions, inference about multivariate mean and dispersion matrix, multivariate regression models and dimension reduction techniques. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+* (Upcoming) Jun 2024 to Sep 2024: PGP Term 1 - Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. The course is oriented towards application rather than theoretical aspects. It is designed to enable students to conduct data analytics through statistical methods and make data driven inference as well as to help them develop understanding of the methodology, the assumptions made in the process, so as to be able to tweak them, depending on ground realities. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
-* Jun 2023 to Sep 2023: PGP Term 4 - Sports Analytics. This course is an elective for second year MBA students. The objective of this course is to equip the students with important data analysis and statistical tools that can be used in handling problems related to sports analytics. The curriculum is designed to cater to the likings and interests of different students, through discussions of interesting problems from various sports, in the contexts of analysis of game-play, strategy building, sports management, betting markets and other economic aspects. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+* (Upcoming) Jun 2024 to Sep 2024: PGP Term 4 - Sports Analytics. This course is an elective for second year MBA students. The objective of this course is to equip the students with important data analysis and statistical tools that can be used in handling problems related to sports analytics. The curriculum is designed to cater to the likings and interests of different students, through discussions of interesting problems from various sports, in the contexts of analysis of game-play, strategy building, sports management, betting markets and other economic aspects. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+
+* (Ongoing) Jan 2024 to Mar 2024: PhD Term 3 - Multivariate Statistics. This is a core course for the PhD students in the Decision Sciences area. Good understanding of probability theory, statistical inference, and linear algebra serve as adequate prerequisites to this course. The syllabus of the course includes the study of random vectors and associated probability distributions, inference about multivariate mean and dispersion matrix, multivariate regression models and dimension reduction techniques. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+
+Earlier, I have taught the following courses.
  
-* Jun 2023 to Sep 2023: PGP Term 1 - Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. The course is oriented towards application rather than theoretical aspects. It is designed to enable students to conduct data analytics through statistical methods and make data driven inference as well as to help them develop understanding of the methodology, the assumptions made in the process, so as to be able to tweak them, depending on ground realities. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+* PGP Term 1 - Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. I have been teaching this course since 2020. See above for the course description.
 
-* Jan 2023 to Mar 2023: PhD Term 3 - Multivariate Statistics. This course is designed for PhD students with a background on probability theory and statistical inference. It is a core course for doctoral students in the Decision Sciences Area at IIMB. See above for the course description.
+* PGP Term 4 - Sports Analytics. This is an elective course for second year MBA students. I have been teaching this course since 2023. See above for the course description.
 
-* Jun 2022 to Sep 2022: PGP Term 1 - Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. See above for the course description.
+* PhD Term 3 - Multivariate Statistics. This course is designed for PhD students with a background on probability theory and statistical inference. It is a core course for doctoral students in the Decision Sciences Area at IIMB. I have been teaching this course since 2021. See above for the course description.
 
-* May 2022: Pre-doctoral program - Research Methodology. It is a mandatory and introductory course for incoming pre-doctoral students at IIMB. In this short course, basic concepts of probability and statistics, data summarization and visualization, along with their usefulness in research problems are taught.
-
-* Jan 2022 to Mar 2022: PhD Term 3 - Multivariate Statistics. This course is designed for PhD students with a background on probability theory and statistical inference. It is a core course for doctoral students in the Decision Sciences Area at IIMB. See above for the course description.
-
-* Jul 2021 to Sep 2021: PGP Term 1 - Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. See above for the course description.
+* May 2022: Pre-doctoral program - Research Methodology. It is a mandatory and introductory course for incoming pre-doctoral students at IIMB. In this short course, basic concepts of probability and statistics, data summarization and visualization, along with their usefulness in research problems are taught. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
 * Oct 2020 to Dec 2020: PhD Term 2 - Statistical Inference. It is a core course for the PhD students in the Decision Sciences area. The main aim is to provide a solid foundation in Statistics to the students intending to carry out dissertation with strong quantitative orientation. This course assumes basic knowledge of Statistics and builds on the probability theory course offered for the same group of students in term 1. The course is designed to be theoretical in nature, but due emphasis for numerical implementation is also given, primarily using R. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
-
-* Aug 2020 to Oct 2020: PGP Term 1 - Decision Sciences 1. This course is aimed towards MBA students and is a core course in their curriculum. See above for the course description.
 
 ### <a name="uchicago"></a>At University of Chicago
 
