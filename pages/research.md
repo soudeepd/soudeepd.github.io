@@ -29,6 +29,8 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 With my expertise and experiences in working with real life datasets, I am interested in providing consulting services to relevant industries. I have been doing this in different capacities for a few organizations, as listed below.
 
+- Smart City Mission, Ministry of Housing & Urban Affairs}, India: As part of the SAAR-Sameeksha series, we are focusing on three smart cities to understand whether the introduction of smart classrooms has improved the quality of education, especially in terms of reducing dropout rates for poor children.
+
 - DBS Bank, Singapore: This work is related to a three-step methodology utilized by the client for understanding the value of data in banking industry. We reviewed their method and provided theoretical as well as empirical understanding of the efficacy of the currently used methodology. It was followed up with necessary modifications and suggestions.
 
 - Real Estate Research Initiative (IIMB-RERI), Bengaluru, India: It is an ongoing collaborative venture. We worked on a spatial modelling technique to create a commercial rental index that can be used for understanding the dynamics of rental properties in various cities of India. 
@@ -57,34 +59,41 @@ Currently, the following students are advised by me in different capacities.
 
 - (Thesis advisor of) [Kapil Gupta](https://kapil21gupta.github.io/): Fourth year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods. Expected to graduate by the summer of 2025.
 
-- (Thesis co-advisor of) [Archi Roy](https://www.researchgate.net/profile/Archi-Roy-3): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2024.
+- (Thesis co-advisor of) [Archi Roy](https://sites.google.com/students.iiserpune.ac.in/archiroy/): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2024.
 
 - (Thesis advisor of) Kunal Rai: Third year doctoral student, Indian Institute of Management Bangalore. Mr Rai's tentative thesis revolves around nonparametric methods and physics-informed neural networks for quantile regression problems in time series and spatio-temporal data. Expected to graduate by the summer of 2026.
 
 - (Thesis co-advisor of) Chinmay Divekar: Third year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics.
 
-- (Doctoral committee member of) [Sajad S Santhosh](https://www.iimb.ac.in/node/10690): Fifth year doctoral student, Indian Institute of Management Bangalore. 
+- (Doctoral committee member of) [Sajad S Santhosh](https://www.iimb.ac.in/node/10690): Advanced doctoral student, Indian Institute of Management Bangalore. 
 
 - (Doctoral committee member of) [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Fourth year doctoral student, Indian Institute of Management Bangalore. 
+
+- (Doctoral committee member of) [Sabhya Rai](https://www.linkedin.com/in/sabhyarai/): Third year doctoral student, Indian Institute of Management Bangalore. 
 
 
 Below is a list of students who are currently working on various projets in collaboration with me.
 
 - Subhrajyoty Roy: Currently a doctoral student at Indian Statistical Institute Kolkata.
+- Amrutha Seshagiri: Currently a doctoral student at Indian Institute of Management Bangalore.
+- Shreyash Surendrarao Deshmukh: Currently a pre-doctoral student at Indian Institute of Management Bangalore.
+- Kingsuk Jana: Currently an Academic Associate in Indian Institute of Management Bangalore.
+- Shagun Srivastava: Currently an Academic Associate in Indian Institute of Management Bangalore.
+- Sreeranjini TM: Currently an Academic Associate in Indian Institute of Management Bangalore.
 - Deepam Saha: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - Shubhayan Pan: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - Saikat Sengupta: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - Arunav Bhowmick: Currently M.Stat student at Indian Statistical Institute Kolkata.
 - Srijan Chatterjee: Currently B.Stat student at Indian Statistical Institute Kolkata.
 - Swapnaneel Bhattacharya: Currently B.Stat student at Indian Statistical Institute Kolkata.
-- [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Currently M.S. final year student, Indian Institute of Science Education & Research, Kolkata.
 
 A few other notable research assistants, who contributed substantially to my research projects in the past years, are listed below.
 
 - Anagh Chattopadhyay: Worked during 2021-23, later joined doctoral program at Johns Hopkins University.
 - Arisina Banerjee: Worked during 2021-23, later joined doctoral program at Cornell University.
 - Pranav Krishna: Worked during 2022-23, later joined  M.S. program at École polytechnique fédérale de Lausanne, Switzerland.
-- Jyotishka Ray Choudhury: Worked during 2022-23, while a M.Stat student at Indian Statistical Institute Kolkata.
+- [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Worked during 2022-24, while pursuing MS in Indian Institute of Science Education & Research, Kolkata.
+- Jyotishka Ray Choudhury: Worked during 2022-23, while an M.Stat student at Indian Statistical Institute Kolkata.
 - Manit Paul: Worked during 2021-22, later joined doctoral program at University of Pennsylvania.
 - [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Worked during 2021-22, later joined doctoral program at University of Missouri.
 - [Anirban Nath](http://stat.columbia.edu/department-directory/name/anirban-nath/): Worked during 2021-22, later joined doctoral program at Columbia University.
