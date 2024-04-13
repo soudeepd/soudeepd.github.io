@@ -29,7 +29,7 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 With my expertise and experiences in working with real life datasets, I am interested in providing consulting services to relevant industries. I have been doing this in different capacities for a few organizations, as listed below.
 
-- Smart City Mission, Ministry of Housing & Urban Affairs}, India: As part of the SAAR-Sameeksha series, we are focusing on three smart cities to understand whether the introduction of smart classrooms has improved the quality of education, especially in terms of reducing dropout rates for poor children.
+- Smart City Mission, Ministry of Housing & Urban Affairs, India: As part of the SAAR-Sameeksha series, we are focusing on three smart cities to understand whether the introduction of smart classrooms has improved the quality of education, especially in terms of reducing dropout rates for poor children.
 
 - DBS Bank, Singapore: This work is related to a three-step methodology utilized by the client for understanding the value of data in banking industry. We reviewed their method and provided theoretical as well as empirical understanding of the efficacy of the currently used methodology. It was followed up with necessary modifications and suggestions.
 
