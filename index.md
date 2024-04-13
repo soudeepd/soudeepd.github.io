@@ -23,6 +23,7 @@ keywords: soudeep, deb, time series, spatio-temporal modeling, soccer analytics,
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
 <br> <b> Contact: </b>
+<br> Chair, Decision Sciences Area
 <br> C201, Faculty Block C
 <br> Indian Institute of Management Bangalore
 <br> Bannerghatta Road, Bengaluru, KA 560076, India. 
