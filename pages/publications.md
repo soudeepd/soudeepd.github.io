@@ -25,6 +25,8 @@ Recently, I have published my first book, which is a problem-based book aimed at
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 19th February 2024.
 
+- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. Preprint available on request.
+
 - Gupta, K., Krishnamurthy, V., **Deb, S.** (2024) What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. To appear in IIMB Management Review. [[early view]](https://www.sciencedirect.com/science/article/pii/S0970389624000089) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:zgGtwwe6D38J:scholar.google.com/&output=citation&scisdr=ClHKwvZ6EKDr9p2kCuY:AFWwaeYAAAAAZhqiEuYK2B1S-u1o89NTLjqsClQ&scisig=AFWwaeYAAAAAZhqiEn1oMfqhnQd9ZmYq9xecTKE&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Roy, R., & Das, S. (2024) Forecasting elections from partial information using a Bayesian model for a multinomial sequence of data. To appear in the Journal of Forecasting. [[early view]](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.3107) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:_peFyoBGl3gJ:scholar.google.com/&output=citation&scisdr=ClHKwvZ6EKDr9p2kKz8:AFWwaeYAAAAAZhqiMz_IF0-2Cc06XYqjR2tP160&scisig=AFWwaeYAAAAAZhqiM9LXx1tgoDZYcdsiSmJCO80&scisf=4&ct=citation&cd=-1&hl=en)
@@ -73,8 +75,6 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
-
-- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. Under second revision. Preprint available on request. Poster presentation at the Applied Statistics Conference 2021 (virtual).
 
 - Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under revision. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:w74j9Z2Gc-sJ:scholar.google.com/&output=citation&scisdr=CgX71XiOEKDr8yWPpSQ:AAGBfm0AAAAAY6KJvST_3bUsJd29HhN2kGwID4XA4dFp&scisig=AAGBfm0AAAAAY6KJvTmgec3D7Sf2H6H8RB_rYQ4NoXsT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
