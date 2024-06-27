@@ -41,6 +41,8 @@ With my expertise and experiences in working with real life datasets, I am inter
 
 Details of the research grants I have received so far are listed below:
 
+- Research travel grant from London Mathematical Society, under Scheme 5 'Collaborations with Developing Countries' Grant, for a collaborative project with [[Dr. Rishideep Roy]](https://sites.google.com/site/royrishideep/home) from the University of Essex. The amount is GBP 2200, for a research trip in December 2024.
+
 - Research Seed Grant from IIM Bangalore for the project titled "Nonparametric methods of structural break detection in time series". The amount is INR 300,000 for 18 months (July 2024 to December 2025).
 
 - India-Israel Joint Research Cooperation (IIJRC) Grant, 10th CFP-2023, offered jointly by Department of Science & Technology, India, and Ministry of Innovation, Science & Technology, Israel. This project is in collaboration with Prof. Itai Dattner, from University of Haifa, Israel. The topic of the project is "Hybrid-AI Quantile Regression Combining Nonparametric Statistical Methods and Physics-Informed
@@ -80,21 +82,22 @@ Below is a list of students who are currently working on various projets in coll
 
 - Subhrajyoty Roy: Currently a doctoral student at Indian Statistical Institute Kolkata.
 - Amrutha Seshagiri: Currently a doctoral student at Indian Institute of Management Bangalore.
-- Shreyash Surendrarao Deshmukh: Currently a pre-doctoral student at Indian Institute of Management Bangalore.
+- Shagun Srivastava: Currently a doctoral student in Indian Institute of Management Bangalore.
+- Shreyash Surendrarao Deshmukh: Currently a doctoral student at Indian Institute of Management Kozhikode.
 - Kingsuk Jana: Currently an Academic Associate in Indian Institute of Management Bangalore.
-- Shagun Srivastava: Currently an Academic Associate in Indian Institute of Management Bangalore.
 - Sreeranjini TM: Currently an Academic Associate in Indian Institute of Management Bangalore.
-- Deepam Saha: Currently B.Stat student at Indian Statistical Institute Kolkata.
-- Shubhayan Pan: Currently B.Stat student at Indian Statistical Institute Kolkata.
-- Saikat Sengupta: Currently B.Stat student at Indian Statistical Institute Kolkata.
-- Arunav Bhowmick: Currently M.Stat student at Indian Statistical Institute Kolkata.
-- Srijan Chatterjee: Currently B.Stat student at Indian Statistical Institute Kolkata.
-- Swapnaneel Bhattacharya: Currently B.Stat student at Indian Statistical Institute Kolkata.
+- Deepam Saha: Currently a student at Indian Statistical Institute Kolkata.
+- Shubhayan Pan: Currently a student at Indian Statistical Institute Kolkata.
+- Saikat Sengupta: Currently a student at Indian Statistical Institute Kolkata.
+- Archisman Mukherjee: Currently a student at Indian Statistical Institute Kolkata.
 
 A few other notable research assistants, who contributed substantially to my research projects in the past years, are listed below.
 
 - Anagh Chattopadhyay: Worked during 2021-23, later joined doctoral program at Johns Hopkins University.
 - Arisina Banerjee: Worked during 2021-23, later joined doctoral program at Cornell University.
+- Arunav Bhowmick: Worked during 2023-24, while a student at Indian Statistical Institute Kolkata.
+- Srijan Chatterjee: Worked during 2023-24, while a student at Indian Statistical Institute Kolkata.
+- Swapnaneel Bhattacharya: Worked during 2023-24, while a student at Indian Statistical Institute Kolkata.
 - Pranav Krishna: Worked during 2022-23, later joined  M.S. program at École polytechnique fédérale de Lausanne, Switzerland.
 - [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Worked during 2022-24, while pursuing MS in Indian Institute of Science Education & Research, Kolkata.
 - Jyotishka Ray Choudhury: Worked during 2022-23, while an M.Stat student at Indian Statistical Institute Kolkata.
