@@ -15,7 +15,6 @@ description: Soudeep's talks
 
 ### <a name="upcoming"></a>Upcoming talks 
 
-- **May 2024**, A workshop on Sports Analytics. Conference on Excellence in Research & Education, Indian Institute of Management Indore, India.
 
 - **Jul 2024**, A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. EcoSta Conference 2024, Beijing, China.
 
@@ -24,6 +23,10 @@ description: Soudeep's talks
 - **Dec 2024**, TBA. IISA Conference 2024, Cochin, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **Jun 2024**, A Bayesian method of real-time forecasting in sports. AI Frontiers Series, Commonwealth Bank of Australia.
+
+- **May 2024**, A workshop on Sports Analytics. Conference on Excellence in Research & Education, Indian Institute of Management Indore, India.
 
 - **Mar 2024**, Introduction to Bayesian methods in Econometrics and Statistics. IIMK Skill-Building Series (virtual), Kozhikode, India.
 
