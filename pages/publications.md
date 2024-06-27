@@ -17,7 +17,7 @@ description: Soudeep's publications
 
 ### <a name="book"></a>Books
 
-Recently, I have published my first book, which is a problem-based book aimed at high-school students interested in mathematical topics related to the ISI and CMI entrance tests as well as Mathematics Olympiads. In addition to the textbooks, this would be a helpful resource to understand how to tackle complicated problems from topics such as number theory, combinatorics, algebra, calculus, Euclidean and coordinate geometry, probability and statistics. We provide several problem-solving strategies and pointers to help students become confident in advanced high school mathematics. Following are the details.
+About a year ago, I have published my first book, which is a problem-based book aimed at high-school students interested in mathematical topics related to the ISI and CMI entrance tests as well as Mathematics Olympiads. In addition to the textbooks, this would be a helpful resource to understand how to tackle complicated problems from topics such as number theory, combinatorics, algebra, calculus, Euclidean and coordinate geometry, probability and statistics. We provide several problem-solving strategies and pointers to help students become confident in advanced high school mathematics. Following are the details.
 
 - **Deb, S.**, Dey, D. (2023) Mathematical Techniques for Competitive Examinations. Published by Orient Blackswan Pvt Ltd. ISBN: 9393330107. [[Buy from Amazon]](https://www.amazon.in/Mathematical-Techniques-Competitive-Examinations-Debangan/dp/9393330107/ref=sr_1_1?qid=1674030582&refinements=p_27%3ASoudeep+Deb+Debangan+Dey&s=books&sr=1-1) [[Buy from Flipkart]](https://www.flipkart.com/mathematical-techniques-competitive-examinations/p/itm8009e4d01f123) [[Buy from Publisher]](https://orientblackswan.com/details?id=9789393330109)
 
@@ -25,7 +25,9 @@ Recently, I have published my first book, which is a problem-based book aimed at
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 19th February 2024.
 
-- Chattopadhyay, A., **Deb, S.** A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. Preprint available on request.
+- Chattopadhyay, A., **Deb, S.** (2024) A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. Preprint available on request.
+
+- Lakshmi M.V., **Deb, S.**, Sen, R. (2024) Environmentally Responsible Index Tracking: Maintaining Performance while Reducing Carbon Footprint of the Portfolio. To appear in Statistics and Applications. Preprint available on request.
 
 - Gupta, K., Krishnamurthy, V., **Deb, S.** (2024) What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. To appear in IIMB Management Review. [[early view]](https://www.sciencedirect.com/science/article/pii/S0970389624000089) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:zgGtwwe6D38J:scholar.google.com/&output=citation&scisdr=ClHKwvZ6EKDr9p2kCuY:AFWwaeYAAAAAZhqiEuYK2B1S-u1o89NTLjqsClQ&scisig=AFWwaeYAAAAAZhqiEn1oMfqhnQd9ZmYq9xecTKE&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -75,6 +77,7 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
+- **Deb, S.**, Neves, C., Roy, S. Nonparametric quantile regression for spatio-temporal processes. Under review. [[pre-print]](https://arxiv.org/abs/2405.13783) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:DIoOqfBUYTwJ:scholar.google.com/&output=citation&scisdr=ClHKwvN_EPHmkszArC0:AFWwaeYAAAAAZnzGtC24jGR5qpeDnpZvp1qqHk8&scisig=AFWwaeYAAAAAZnzGtMGayZ_wcZ-WqkXn_3XY9B4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under revision. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:w74j9Z2Gc-sJ:scholar.google.com/&output=citation&scisdr=CgX71XiOEKDr8yWPpSQ:AAGBfm0AAAAAY6KJvST_3bUsJd29HhN2kGwID4XA4dFp&scisig=AAGBfm0AAAAAY6KJvTmgec3D7Sf2H6H8RB_rYQ4NoXsT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
@@ -88,13 +91,11 @@ Following are my academic publications in journals and conference proceedings, a
 
 - Soni, A., **Deb, S.**, Das, D., Zaremba, A. Using t-SNE and KL divergence to identify the effects of structural breaks on Value-at-Risk transmission and information flow among cryptocurrencies. Under review. Preprint available on request.
 
-
 - **Deb, S.** Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:e-vu92gbcTUJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuU6s:AAGBfm0AAAAAYJUrS6u2LbDIDj4aAhIqhD1jBXTj35CK&scisig=AAGBfm0AAAAAYJUrS0zeXLK0cxs8Vy8uXHLP3lbmfhmJ&scisf=4&ct=citation&cd=-1&hl=en)
 
 
 ### <a name="progress"></a>Work in progress
 
-- **Deb, S.**, Neves, C., Roy, S. A nonparametric approach to deal with spatio-temporal quantile regression problems. Manuscript in preparation. Presented in an invited talk at the 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2022), London, UK.
 
 - Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. Presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
