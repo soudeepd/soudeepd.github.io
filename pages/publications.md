@@ -25,7 +25,7 @@ About a year ago, I have published my first book, which is a problem-based book 
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 19th February 2024.
 
-- Chattopadhyay, A., **Deb, S.** (2024) A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. Preprint available on request.
+- Chattopadhyay, A., **Deb, S.** (2024) A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. [[early view]](https://link.springer.com/article/10.1007/s10182-024-00507-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240708&utm_content=10.1007/s10182-024-00507-0)
 
 - Lakshmi M.V., **Deb, S.**, Sen, R. (2024) Environmentally Responsible Index Tracking: Maintaining Performance while Reducing Carbon Footprint of the Portfolio. To appear in Statistics and Applications. Preprint available on request.
 
@@ -33,7 +33,7 @@ Following are my academic publications in journals and conference proceedings, a
 
 - **Deb, S.**, Roy, R., & Das, S. (2024) Forecasting elections from partial information using a Bayesian model for a multinomial sequence of data. To appear in the Journal of Forecasting. [[early view]](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.3107) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:_peFyoBGl3gJ:scholar.google.com/&output=citation&scisdr=ClHKwvZ6EKDr9p2kKz8:AFWwaeYAAAAAZhqiMz_IF0-2Cc06XYqjR2tP160&scisig=AFWwaeYAAAAAZhqiM9LXx1tgoDZYcdsiSmJCO80&scisf=4&ct=citation&cd=-1&hl=en)
 
-- **Deb, S.**, Jana, K. (2024) Nonparametric quantile regression for time series with replicated observations and its application to climate data. To appear in Statistical Science. [[publication]](https://projecteuclid.org/journals/statistical-science/volume-39/issue-3/Nonparametric-Quantile-Regression-for-Time-Series-with-Replicated-Observations-and/10.1214/23-STS918.short) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=CgX71aNeEKDr8HErPnI:AAGBfm0AAAAAYPYtJnL4BATiYZJ3f2uVYM22sIvko1Gs&scisig=AAGBfm0AAAAAYPYtJlEOYxYSpHpvGAXHVNzYSEuUJRag&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.**, Jana, K. (2024) Nonparametric quantile regression for time series with replicated observations and its application to climate data. Statistical Science, 39(3), 428-448. [[publication]](https://projecteuclid.org/journals/statistical-science/volume-39/issue-3/Nonparametric-Quantile-Regression-for-Time-Series-with-Replicated-Observations-and/10.1214/23-STS918.short) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=ClHKwvfDEPHmkj1VWQQ:AFWwaeYAAAAAZo1TQQSy9kJpUThq2VIogL3cg30&scisig=AFWwaeYAAAAAZo1TQdrxv6sIghMZpdVbIF0oNfQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Divekar, C., **Deb, S.**, & Roy, R. (2024) Real-time forecasting within soccer matches through a Bayesian lens. Journal of the Royal Statistical Society Series A: Statistics in Society, 187(2), 513–540. [[publication]](https://doi.org/10.1093/jrsssa/qnad136) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:0JscwLnRe0kJ:scholar.google.com/&output=citation&scisdr=CpsEIpmEEKDr9LBhHR4:AJ9-iYsAAAAAZDdnBR4n5_oFvy-NlHhGc3PGqks&scisig=AJ9-iYsAAAAAZDdnBQS-tROblY7494n6ah_Om3I&scisf=4&ct=citation&cd=-1&hl=en)
 
