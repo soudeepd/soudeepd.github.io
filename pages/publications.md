@@ -23,9 +23,9 @@ About a year ago, I have published my first book, which is a problem-based book 
 
 ### <a name="journal"></a>Journal and conference publications
 
-Following are my academic publications in journals and conference proceedings, along with other published materials, as of 19th February 2024.
+Following are my academic publications in journals and conference proceedings, along with other published materials, as of 28th July 2024.
 
-- Chattopadhyay, A., **Deb, S.** (2024) A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. [[early view]](https://link.springer.com/article/10.1007/s10182-024-00507-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240708&utm_content=10.1007/s10182-024-00507-0)
+- Chattopadhyay, A., **Deb, S.** (2024) A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. [[early view]](https://link.springer.com/article/10.1007/s10182-024-00507-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240708&utm_content=10.1007/s10182-024-00507-0) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:jKhX593CqWcJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXsb7k:AFWwaeYAAAAAZqXqd7mymatHw-jAOsCTf13xpvY&scisig=AFWwaeYAAAAAZqXqd53jcziEgyy344t1yN3kgjs&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Lakshmi M.V., **Deb, S.**, Sen, R. (2024) Environmentally Responsible Index Tracking: Maintaining Performance while Reducing Carbon Footprint of the Portfolio. To appear in Statistics and Applications. Preprint available on request.
 
@@ -77,6 +77,8 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
+- Gupta, K., & Deb, S. A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. Under review. [[pre-print]](https://arxiv.org/abs/2407.15905) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:fWYcoQD40kMJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXtDq0:AFWwaeYAAAAAZqXrFq1DEMrYuApn_3s0bV60Iaw&scisig=AFWwaeYAAAAAZqXrFjFlmvK0RxMqgk3o9aNKjcU&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+
 - **Deb, S.**, Neves, C., Roy, S. Nonparametric quantile regression for spatio-temporal processes. Under review. [[pre-print]](https://arxiv.org/abs/2405.13783) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:DIoOqfBUYTwJ:scholar.google.com/&output=citation&scisdr=ClHKwvN_EPHmkszArC0:AFWwaeYAAAAAZnzGtC24jGR5qpeDnpZvp1qqHk8&scisig=AFWwaeYAAAAAZnzGtMGayZ_wcZ-WqkXn_3XY9B4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under revision. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:w74j9Z2Gc-sJ:scholar.google.com/&output=citation&scisdr=CgX71XiOEKDr8yWPpSQ:AAGBfm0AAAAAY6KJvST_3bUsJd29HhN2kGwID4XA4dFp&scisig=AAGBfm0AAAAAY6KJvTmgec3D7Sf2H6H8RB_rYQ4NoXsT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
@@ -106,6 +108,8 @@ Following are my academic publications in journals and conference proceedings, a
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. Manuscript in preparation.
  
 - **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. Manuscript in preparation.
+
+- Deshmukh, S., **Deb, S.** A survey of statistical and machine learning methods of quantile regression in time series and their suitability in predicting dengue outbreaks. Manuscript in preparation.
 
 
 ### Other published material
