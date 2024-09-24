@@ -15,14 +15,15 @@ description: Soudeep's talks
 
 ### <a name="upcoming"></a>Upcoming talks 
 
+- **Dec 2024**, Analyzing structural breaks in the spatial network of real estate dynamics: A study of UK property transactions. CMStatistics Conference 2024, London, UK.
 
-- **Jul 2024**, A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. EcoSta Conference 2024, Beijing, China.
-
-- **Dec 2024**, TBA. CMStatistics Conference 2024, London, UK.
-
-- **Dec 2024**, TBA. IISA Conference 2024, Cochin, India.
+- **Dec 2024**, Nonparametric Regression of Spatio-temporal Data using Infinite-dimensional Covariates. IISA Conference 2024, Cochin, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **Sep 2024**, Nonparametric method of changepoint detection in time series data. COMPSTAT Conference 2024, Giessen, Germany.
+
+- **Jul 2024**, A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. EcoSta Conference 2024, Beijing, China.
 
 - **Jun 2024**, A Bayesian method of real-time forecasting in sports. AI Frontiers Series, Commonwealth Bank of Australia.
 
