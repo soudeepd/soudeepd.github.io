@@ -83,6 +83,9 @@ Below is a list of students who are currently working on various projets in coll
 - Subhrajyoty Roy: Currently a doctoral student at Indian Statistical Institute Kolkata.
 - Amrutha Seshagiri: Currently a doctoral student at Indian Institute of Management Bangalore.
 - Shagun Srivastava: Currently a doctoral student in Indian Institute of Management Bangalore.
+- Satyaki Basu Sarbadhikary: Currently a research associate in Indian Institute of Management Bangalore.
+- Anitha Pathlavath: Currently a research associate in Indian Institute of Management Bangalore.
+- Meghana Krishna: Currently a research associate in Indian Institute of Management Bangalore.
 - Shreyash Surendrarao Deshmukh: Currently a doctoral student at Indian Institute of Management Kozhikode.
 - Kingsuk Jana: Currently an Academic Associate in Indian Institute of Management Bangalore.
 - Sreeranjini TM: Currently an Academic Associate in Indian Institute of Management Bangalore.
@@ -96,11 +99,8 @@ A few other notable research assistants, who contributed substantially to my res
 - Anagh Chattopadhyay: Worked during 2021-23, later joined doctoral program at Johns Hopkins University.
 - Arisina Banerjee: Worked during 2021-23, later joined doctoral program at Cornell University.
 - Arunav Bhowmick: Worked during 2023-24, while a student at Indian Statistical Institute Kolkata.
-- Srijan Chatterjee: Worked during 2023-24, while a student at Indian Statistical Institute Kolkata.
-- Swapnaneel Bhattacharya: Worked during 2023-24, while a student at Indian Statistical Institute Kolkata.
 - Pranav Krishna: Worked during 2022-23, later joined  M.S. program at École polytechnique fédérale de Lausanne, Switzerland.
 - [Ananyapam De](https://www.linkedin.com/in/ananyapam-de-523757166/?originalSubdomain=in): Worked during 2022-24, while pursuing MS in Indian Institute of Science Education & Research, Kolkata.
-- Jyotishka Ray Choudhury: Worked during 2022-23, while an M.Stat student at Indian Statistical Institute Kolkata.
 - Manit Paul: Worked during 2021-22, later joined doctoral program at University of Pennsylvania.
 - [Souvik Bag](https://www.linkedin.com/in/souvik-bag-68744112a/): Worked during 2021-22, later joined doctoral program at University of Missouri.
 - [Anirban Nath](http://stat.columbia.edu/department-directory/name/anirban-nath/): Worked during 2021-22, later joined doctoral program at Columbia University.
