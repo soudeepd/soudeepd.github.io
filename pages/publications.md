@@ -23,7 +23,7 @@ About a year ago, I have published my first book, which is a problem-based book 
 
 ### <a name="journal"></a>Journal and conference publications
 
-Following are my academic publications in journals and conference proceedings, along with other published materials, as of 28th July 2024.
+Following are my academic publications in journals and conference proceedings, along with other published materials, as of 24th September 2024.
 
 - Chattopadhyay, A., **Deb, S.** (2024) A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. [[early view]](https://link.springer.com/article/10.1007/s10182-024-00507-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240708&utm_content=10.1007/s10182-024-00507-0) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:jKhX593CqWcJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXsb7k:AFWwaeYAAAAAZqXqd7mymatHw-jAOsCTf13xpvY&scisig=AFWwaeYAAAAAZqXqd53jcziEgyy344t1yN3kgjs&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -31,7 +31,7 @@ Following are my academic publications in journals and conference proceedings, a
 
 - Gupta, K., Krishnamurthy, V., **Deb, S.** (2024) What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. To appear in IIMB Management Review. [[early view]](https://www.sciencedirect.com/science/article/pii/S0970389624000089) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:zgGtwwe6D38J:scholar.google.com/&output=citation&scisdr=ClHKwvZ6EKDr9p2kCuY:AFWwaeYAAAAAZhqiEuYK2B1S-u1o89NTLjqsClQ&scisig=AFWwaeYAAAAAZhqiEn1oMfqhnQd9ZmYq9xecTKE&scisf=4&ct=citation&cd=-1&hl=en)
 
-- **Deb, S.**, Roy, R., & Das, S. (2024) Forecasting elections from partial information using a Bayesian model for a multinomial sequence of data. To appear in the Journal of Forecasting. [[early view]](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.3107) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:_peFyoBGl3gJ:scholar.google.com/&output=citation&scisdr=ClHKwvZ6EKDr9p2kKz8:AFWwaeYAAAAAZhqiMz_IF0-2Cc06XYqjR2tP160&scisig=AFWwaeYAAAAAZhqiM9LXx1tgoDZYcdsiSmJCO80&scisf=4&ct=citation&cd=-1&hl=en)
+- **Deb, S.**, Roy, R., & Das, S. (2024) Forecasting elections from partial information using a Bayesian model for a multinomial sequence of data. Journal of Forecasting, 43(6), 1814-1834. [[publication]](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.3107) [[bibtex]](https://zbib.org/57eed40870a143229e0e878cf73476bc)
 
 - **Deb, S.**, Jana, K. (2024) Nonparametric quantile regression for time series with replicated observations and its application to climate data. Statistical Science, 39(3), 428-448. [[publication]](https://projecteuclid.org/journals/statistical-science/volume-39/issue-3/Nonparametric-Quantile-Regression-for-Time-Series-with-Replicated-Observations-and/10.1214/23-STS918.short) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=ClHKwvfDEPHmkj1VWQQ:AFWwaeYAAAAAZo1TQQSy9kJpUThq2VIogL3cg30&scisig=AFWwaeYAAAAAZo1TQdrxv6sIghMZpdVbIF0oNfQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
@@ -44,7 +44,6 @@ Following are my academic publications in journals and conference proceedings, a
 - Roy, A., Soni, A., **Deb, S.** (2023) A wavelet-based methodology to compare the impact of pandemic versus Russia-Ukraine conflict on crude oil sector and its interconnectedness with other energy and non-energy markets. Energy Economics, 124, 106830. [[publication]](https://www.sciencedirect.com/science/article/pii/S0140988323003286) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:753NWsBMqvIJ:scholar.google.com/&output=citation&scisdr=ChUYwneNEKDr9CjKHRM:ABFrs3wAAAAAZK_MBRM1VpGqC_sVFrezYIdTnyI&scisig=ABFrs3wAAAAAZK_MBUgTMQMuy1NsCuWAxrnXtUY&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Karmakar, S. (2023) A novel spatio-temporal clustering algorithm with applications on COVID-19 data from the United States. Computational Statistics & Data Analysis, 188, 107810. [[publication]](https://www.sciencedirect.com/science/article/pii/S0167947323001214) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:XHaGpd8Nx9MJ:scholar.google.com/&output=citation&scisdr=ChUYwneNEKDr9CF-VUE:ABFrs3wAAAAAZKZ4TUFwXmb4Cmk4cr_IGaM9xoA&scisig=ABFrs3wAAAAAZKZ4TUvDcqD_rwfGuXz32QGDXEM&scisf=4&ct=citation&cd=-1&hl=en)
-
 
 - Rawat, S., & **Deb, S.** (2023). A spatio-temporal statistical model to analyze COVID-19 spread in the USA. Journal of Applied Statistics, 50(11-12), 2310-2329. [[publication]](https://www.tandfonline.com/doi/full/10.1080/02664763.2021.1970122) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:vOb8jO0MElYJ:scholar.google.com/&output=citation&scisdr=ClHDGO2NEKDr9YMEBE4:AFWwaeYAAAAAZQQCHE5W0HFG71vv9AnxoX-6mJE&scisig=AFWwaeYAAAAAZQQCHF-xfqSQTVZvjmNakRK3eVc&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
@@ -89,6 +88,8 @@ Following are my academic publications in journals and conference proceedings, a
 
 - Rawat, S., Durrant, A., Simpson, A., Nielson, G., Berrett, C,  **Deb, S.** A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data: An application to COVID-19 data. Under review. [[pre-print]](https://arxiv.org/abs/2305.01906) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:KaPrW-qbUn0J:scholar.google.com/&output=citation&scisdr=Cm08r7FbEKDr9O9SuJ8:AGlGAw8AAAAAZGhUoJ-xBiNl_lkKcas2CgBFnl0&scisig=AGlGAw8AAAAAZGhUoD9RuxGxd_LarLdatAQL9Wo&scisf=4&ct=citation&cd=-1&hl=en) [Paper presented in invited talks in IISA Conference 2022, Bengaluru, India; and in RSS International Conference 2022, Aberdeen, UK.]
 
+- Sen, S., **Deb, S.** tSNE-Spec: A new classification method for multivariate time series data. Under review. Preprint available on request. [Paper presented in invited talks in CMStatistics 2021, London, UK; and in 2021 Australian and New Zealand Statistical Conference (virtually).]
+
 - Rawat, S., **Deb, S.**. Impact of rising temperature on rainfall: A spatio-temporal study from Bangladesh. Under review. Preprint available on request.
 
 - Soni, A., **Deb, S.**, Das, D., Zaremba, A. Using t-SNE and KL divergence to identify the effects of structural breaks on Value-at-Risk transmission and information flow among cryptocurrencies. Under review. Preprint available on request.
@@ -98,8 +99,6 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="progress"></a>Work in progress
 
-
-- Sen, S., **Deb, S.** A new classification method for multivariate time series data. Manuscript in preparation. Presented in an invited talk at the 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2021), London, UK. Earlier presented in 2021 Australian and New Zealand Statistical Conference (virtual).
 
 - Nath, A., **Deb, S.** A bivariate count data model and its application in forecasting match outcomes in soccer. Manuscript in preparation.
  
