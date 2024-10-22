@@ -1,19 +1,45 @@
 ---
 layout: page
-title: Talk
-description: Soudeep's talks
+title: In academia
+description: Soudeep's academic commitments
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#upcoming">Upcoming</a></li> 
+            <li><a href="#editors">Services</a></li> 
+            <li><a href="#upcoming">Upcoming seminars</a></li> 
             <li><a href="#previous">Previous talks</a></li>
         </ul>
     </div>
 </div>
 
-### <a name="upcoming"></a>Upcoming talks 
+### <a name="upcoming"></a>Services
+
+In academia, it is an important commitment to provide professional services. I have recently been inducted into the editorial board of <a href="https://www.nature.com/srep/about/editors#climate-change" target="_blank">Scientific Reports</a>, which is one of the highest-cited journal in the world and is published by the Nature portfolio. I will work as an Associate Editor of the Climate Change division, and am looking forward to the new role.
+
+Additionally, I serve as a reviewer for many journals including the following:
+- Biometrics
+- BMC Public Health
+- Electronic Journal of Statistics
+- IIMB Management Review
+- Indian Journal of Science and Technology
+- Journal of Advances in Management Research
+- Journal of Behavioral and Experimental Finance
+- Journal of Multivariate Analysis
+- Journal of Sports Analytics
+- Journal of the Royal Statistical Society: Series A and Series C
+- Linear Algebra and its Applications
+- Sankhya A and Sankhya B
+- Scientific Reports
+- Statistics and Probability Letters
+
+
+### <a name="upcoming"></a>Upcoming seminars 
+
+It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
+
+- **Dec 2024**, Nonparametric Regression of Spatio-temporal Data using Infinite-dimensional Covariates. University of Essex, Colchester, UK.
 
 - **Dec 2024**, Analyzing structural breaks in the spatial network of real estate dynamics: A study of UK property transactions. CMStatistics Conference 2024, London, UK.
 
