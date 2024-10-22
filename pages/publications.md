@@ -76,13 +76,13 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
-- Gupta, K., & Deb, S. A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. Under review. [[pre-print]](https://arxiv.org/abs/2407.15905) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:fWYcoQD40kMJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXtDq0:AFWwaeYAAAAAZqXrFq1DEMrYuApn_3s0bV60Iaw&scisig=AFWwaeYAAAAAZqXrFjFlmvK0RxMqgk3o9aNKjcU&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+- Gupta, K., & **Deb, S.** A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. Under review. [[pre-print]](https://arxiv.org/abs/2407.15905) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:fWYcoQD40kMJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXtDq0:AFWwaeYAAAAAZqXrFq1DEMrYuApn_3s0bV60Iaw&scisig=AFWwaeYAAAAAZqXrFjFlmvK0RxMqgk3o9aNKjcU&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+
+- Roy, A., Podder, M., **Deb, S.** Nonparametric method of structural break detection in stochastic time series regression model. Under review. [[pre-print]](https://arxiv.org/abs/2410.15713).
 
 - **Deb, S.**, Neves, C., Roy, S. Nonparametric quantile regression for spatio-temporal processes. Under review. [[pre-print]](https://arxiv.org/abs/2405.13783) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:DIoOqfBUYTwJ:scholar.google.com/&output=citation&scisdr=ClHKwvN_EPHmkszArC0:AFWwaeYAAAAAZnzGtC24jGR5qpeDnpZvp1qqHk8&scisig=AFWwaeYAAAAAZnzGtMGayZ_wcZ-WqkXn_3XY9B4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Deshmukh, S., **Deb, S.** A survey of statistical and machine learning methods of quantile regression in time series and their suitability in predicting dengue outbreaks. Under review. Preprint available on request.
-
-- Roy, A., Podder, M., **Deb, S.** Nonparametric method of structural break detection in stochastic time series regression model. Under review. Preprint available on request.
 
 - Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under revision. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:w74j9Z2Gc-sJ:scholar.google.com/&output=citation&scisdr=CgX71XiOEKDr8yWPpSQ:AAGBfm0AAAAAY6KJvST_3bUsJd29HhN2kGwID4XA4dFp&scisig=AAGBfm0AAAAAY6KJvTmgec3D7Sf2H6H8RB_rYQ4NoXsT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
