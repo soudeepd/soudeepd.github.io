@@ -23,7 +23,7 @@ About a year ago, I have published my first book, which is a problem-based book 
 
 ### <a name="journal"></a>Journal and conference publications
 
-Following are my academic publications in journals and conference proceedings, along with other published materials, as of 24th September 2024.
+Following are my academic publications in journals and conference proceedings, along with other published materials, as of 22nd October 2024.
 
 - Chattopadhyay, A., **Deb, S.** (2024) A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. To appear in AStA Advances in Statistical Analysis. [[early view]](https://link.springer.com/article/10.1007/s10182-024-00507-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240708&utm_content=10.1007/s10182-024-00507-0) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:jKhX593CqWcJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXsb7k:AFWwaeYAAAAAZqXqd7mymatHw-jAOsCTf13xpvY&scisig=AFWwaeYAAAAAZqXqd53jcziEgyy344t1yN3kgjs&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -80,6 +80,10 @@ Following are my academic publications in journals and conference proceedings, a
 
 - **Deb, S.**, Neves, C., Roy, S. Nonparametric quantile regression for spatio-temporal processes. Under review. [[pre-print]](https://arxiv.org/abs/2405.13783) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:DIoOqfBUYTwJ:scholar.google.com/&output=citation&scisdr=ClHKwvN_EPHmkszArC0:AFWwaeYAAAAAZnzGtC24jGR5qpeDnpZvp1qqHk8&scisig=AFWwaeYAAAAAZnzGtMGayZ_wcZ-WqkXn_3XY9B4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
+- Deshmukh, S., **Deb, S.** A survey of statistical and machine learning methods of quantile regression in time series and their suitability in predicting dengue outbreaks. Under review. Preprint available on request.
+
+- Roy, A., Podder, M., **Deb, S.** Nonparametric method of structural break detection in stochastic time series regression model. Under review. Preprint available on request.
+
 - Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under revision. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:w74j9Z2Gc-sJ:scholar.google.com/&output=citation&scisdr=CgX71XiOEKDr8yWPpSQ:AAGBfm0AAAAAY6KJvST_3bUsJd29HhN2kGwID4XA4dFp&scisig=AAGBfm0AAAAAY6KJvTmgec3D7Sf2H6H8RB_rYQ4NoXsT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Bag, S., Gupta, K., **Deb, S.** A review and recommendations on variable selection methods in regression models for binary data. Under revision. [[pre-print]](https://arxiv.org/abs/2201.06063) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Dxb_UQ8FxtAJ:scholar.google.com/&output=citation&scisdr=CgX73BJTEKDr8WvB9eM:AAGBfm0AAAAAYezH7eN7gD_WsrLi_ttfnAwU1cPm-XnC&scisig=AAGBfm0AAAAAYezH7eC2C9f24K5kf2esgwJpbwhc7M7y&scisf=4&ct=citation&cd=-1&hl=en)
@@ -99,7 +103,6 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="progress"></a>Work in progress
 
-
 - Nath, A., **Deb, S.** A bivariate count data model and its application in forecasting match outcomes in soccer. Manuscript in preparation.
  
 - Banerjee, A., **Deb, S.** Assessing COVID-19 deaths through a zero-inflated count data model. Manuscript in preparation.
@@ -107,8 +110,6 @@ Following are my academic publications in journals and conference proceedings, a
 - Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. Manuscript in preparation.
  
 - **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. Manuscript in preparation.
-
-- Deshmukh, S., **Deb, S.** A survey of statistical and machine learning methods of quantile regression in time series and their suitability in predicting dengue outbreaks. Manuscript in preparation.
 
 
 ### Other published material
