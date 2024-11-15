@@ -78,7 +78,7 @@ Following are my academic publications in journals and conference proceedings, a
 
 - Gupta, K., & **Deb, S.** A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. Under review. [[pre-print]](https://arxiv.org/abs/2407.15905) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:fWYcoQD40kMJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXtDq0:AFWwaeYAAAAAZqXrFq1DEMrYuApn_3s0bV60Iaw&scisig=AFWwaeYAAAAAZqXrFjFlmvK0RxMqgk3o9aNKjcU&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
-- Roy, A., Podder, M., **Deb, S.** Nonparametric method of structural break detection in stochastic time series regression model. Under review. [[pre-print]](https://arxiv.org/abs/2410.15713).
+- Roy, A., Podder, M., **Deb, S.** Nonparametric method of structural break detection in stochastic time series regression model. Under review. [[pre-print]](https://arxiv.org/abs/2410.15713) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:k9BUur_NIogJ:scholar.google.com/&output=citation&scisdr=ClHKwvZ8EPHmk4dmOG4:AFWwaeYAAAAAZzdgIG4KRGIVkX10O1rjBDSC2rE&scisig=AFWwaeYAAAAAZzdgIELv1ZVDXaiGAN7UX9FBbq4&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Neves, C., Roy, S. Nonparametric quantile regression for spatio-temporal processes. Under review. [[pre-print]](https://arxiv.org/abs/2405.13783) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:DIoOqfBUYTwJ:scholar.google.com/&output=citation&scisdr=ClHKwvN_EPHmkszArC0:AFWwaeYAAAAAZnzGtC24jGR5qpeDnpZvp1qqHk8&scisig=AFWwaeYAAAAAZnzGtMGayZ_wcZ-WqkXn_3XY9B4&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
