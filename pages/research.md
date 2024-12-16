@@ -29,11 +29,11 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 
 With my expertise and experiences in working with real life datasets, I am interested in providing consulting services to relevant industries. I have been doing this in different capacities for a few organizations, as listed below.
 
+- Real Estate Research Initiative (IIMB-RERI), Bengaluru, India: It is an ongoing collaborative venture. In one of our recently concluded projects, we worked on a spatial modelling technique to create a commercial rental index that can be used for understanding the dynamics of rental properties in various cities of India. [[press coverage]](https://indianexpress.com/article/cities/bangalore/whitefield-outer-ring-road-south-bengaluru-office-rental-boom-it-capital-9697831/)
+
 - Smart City Mission, Ministry of Housing & Urban Affairs, India: As part of the SAAR-Sameeksha series, we are focusing on three smart cities to understand whether the introduction of smart classrooms has improved the quality of education, especially in terms of reducing dropout rates for poor children.
 
 - DBS Bank, Singapore: This work is related to a three-step methodology utilized by the client for understanding the value of data in banking industry. We reviewed their method and provided theoretical as well as empirical understanding of the efficacy of the currently used methodology. It was followed up with necessary modifications and suggestions.
-
-- Real Estate Research Initiative (IIMB-RERI), Bengaluru, India: It is an ongoing collaborative venture. We worked on a spatial modelling technique to create a commercial rental index that can be used for understanding the dynamics of rental properties in various cities of India. 
 
 - SportsKPI, Bengaluru, India: Kabaddi is a popular sport in India, with a cash-rich national league system played across various cities. The client deals with multiple aspects of the league for several teams. In this collaborative work, we developed a method for appropriate valuation of a Kabaddi player and how it can be used in building strategies, both during auction stage and the matches.
 
@@ -43,7 +43,7 @@ Details of the research grants I have received so far are listed below:
 
 - Research travel grant from London Mathematical Society, under Scheme 5 'Collaborations with Developing Countries' Grant, for a collaborative project with [[Dr. Rishideep Roy]](https://sites.google.com/site/royrishideep/home) from the University of Essex. The amount is GBP 2200, for a research trip in December 2024.
 
-- Research Seed Grant from IIM Bangalore for the project titled "Nonparametric methods of structural break detection in time series". The amount is INR 300,000 for 18 months (July 2024 to December 2025).
+- Research Seed Grant from IIM Bangalore for the project titled "Nonparametric methods of structural break detection in time series". The amount is INR 500,000 for 18 months (July 2024 to December 2025).
 
 - India-Israel Joint Research Cooperation (IIJRC) Grant, 10th CFP-2023, offered jointly by Department of Science & Technology, India, and Ministry of Innovation, Science & Technology, Israel. This project is in collaboration with Prof. Itai Dattner, from University of Haifa, Israel. The topic of the project is "Hybrid-AI Quantile Regression Combining Nonparametric Statistical Methods and Physics-Informed
 Neural Networks for Analysing Spatio-temporal Climate Data". The amount is approximately INR 1.6 million for two years, starting from 2024.
@@ -65,11 +65,11 @@ Currently, the following students are advised by me in different capacities.
 
 - (Thesis advisor of) [Kapil Gupta](https://kapil21gupta.github.io/): Fourth year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods. Expected to graduate by the summer of 2025.
 
-- (Thesis co-advisor of) [Archi Roy](https://sites.google.com/students.iiserpune.ac.in/archiroy/): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2024.
+- (Thesis co-advisor of) [Archi Roy](https://sites.google.com/students.iiserpune.ac.in/archiroy/): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2025.
 
 - (Thesis advisor of) Kunal Rai: Third year doctoral student, Indian Institute of Management Bangalore. Mr Rai's tentative thesis revolves around nonparametric methods and physics-informed neural networks for quantile regression problems in time series and spatio-temporal data. Expected to graduate by the summer of 2026.
 
-- (Thesis co-advisor of) Chinmay Divekar: Third year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics.
+- (Thesis co-advisor of) Chinmay Divekar: Third year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics. Expected to graduate by the summer of 2026.
 
 - (Doctoral committee member of) [Sajad S Santhosh](https://www.iimb.ac.in/node/10690): Advanced doctoral student, Indian Institute of Management Bangalore. 
 
@@ -87,7 +87,6 @@ Below is a list of students who are currently working on various projets in coll
 - Anitha Pathlavath: Currently a research associate in Indian Institute of Management Bangalore.
 - Meghana Krishna: Currently a research associate in Indian Institute of Management Bangalore.
 - Shreyash Surendrarao Deshmukh: Currently a doctoral student at Indian Institute of Management Kozhikode.
-- Kingsuk Jana: Currently an Academic Associate in Indian Institute of Management Bangalore.
 - Sreeranjini TM: Currently an Academic Associate in Indian Institute of Management Bangalore.
 - Deepam Saha: Currently a student at Indian Statistical Institute Kolkata.
 - Shubhayan Pan: Currently a student at Indian Statistical Institute Kolkata.
