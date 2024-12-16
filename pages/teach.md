@@ -17,6 +17,8 @@ description: Soudeep Deb's teaching
 
 Below is a list of courses I am teaching currently/regularly in the degree-granting programs at my current institute. I also teach a few sessions in the executive education programs. [Feel free to reach out](mailto:soudeep@iimb.ac.in) if you want to know more about those courses.
 
+* Jan 2025 to Mar 2025: PhD Term 3 - Multivariate Statistics. This is a core course for the PhD students in the Decision Sciences area. Good understanding of probability theory, statistical inference, and linear algebra serve as adequate prerequisites to this course. The syllabus of the course includes the study of random vectors and associated probability distributions, inference about multivariate mean and dispersion matrix, multivariate regression models and dimension reduction techniques. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+
 * Jan 2025 to Mar 2025: BBA Term 2 - Advanced Statistics for Business. This course is aimed towards online BBA students and is a core course in their curriculum. The course covers the topics of nonparametric methods in statistics, advanced regression models, statistical quality control etc., and are designed around applications in business, rather than theoretical aspects. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
 * Jun 2024 to Sep 2024: PhD Term 4 - Advanced Statistical Methods and Computing. This is a core course for PhD students in the Decision Sciences area. The course provides a broad and rigorous introduction to Bayesian methods, graph theory, probabilistic reasoning and decision making in uncertain environments. Special emphasis is given on various computing techniques in Bayesian methods and dynamic Bayesian networks. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
@@ -25,7 +27,6 @@ Below is a list of courses I am teaching currently/regularly in the degree-grant
 
 * Jun 2024 to Sep 2024: PGP Term 4 - Sports Analytics. This course is an elective for second year MBA students. The objective of this course is to equip the students with important data analysis and statistical tools that can be used in handling problems related to sports analytics. The curriculum is designed to cater to the likings and interests of different students, through discussions of interesting problems from various sports, in the contexts of analysis of game-play, strategy building, sports management, betting markets and other economic aspects. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
-* Jan 2024 to Mar 2024: PhD Term 3 - Multivariate Statistics. This is a core course for the PhD students in the Decision Sciences area. Good understanding of probability theory, statistical inference, and linear algebra serve as adequate prerequisites to this course. The syllabus of the course includes the study of random vectors and associated probability distributions, inference about multivariate mean and dispersion matrix, multivariate regression models and dimension reduction techniques. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
 Below are courses I have taught earlier in IIM Bangalore.
  
