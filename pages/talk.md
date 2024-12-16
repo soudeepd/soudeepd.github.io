@@ -39,13 +39,13 @@ Additionally, I serve as a reviewer for many journals including the following:
 
 It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
 
-- **Dec 2024**, Nonparametric Regression of Spatio-temporal Data using Infinite-dimensional Covariates. University of Essex, Colchester, UK.
-
-- **Dec 2024**, Analyzing structural breaks in the spatial network of real estate dynamics: A study of UK property transactions. CMStatistics Conference 2024, London, UK.
+- **Dec 2024**, Structural breaks in the spatial network of real estate dynamics: A study of UK property transactions. CMStatistics Conference 2024, London, UK.
 
 - **Dec 2024**, Nonparametric Regression of Spatio-temporal Data using Infinite-dimensional Covariates. IISA Conference 2024, Cochin, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **Dec 2024**, Structural breaks in the spatial network of real estate dynamics: A study of UK property transactions. Essex Data Science Seminar Series, University of Essex, Colchester, UK.
 
 - **Sep 2024**, Nonparametric method of changepoint detection in time series data. COMPSTAT Conference 2024, Giessen, Germany.
 
