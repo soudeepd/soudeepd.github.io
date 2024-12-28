@@ -9,7 +9,7 @@ keywords: soudeep, deb, time series, spatio-temporal modeling, soccer analytics,
   <div class="navbar-inner">
     <div class="nav">
         <li><a href="https://www.researchgate.net/profile/Soudeep_Deb" target="_blank">ResearchGate</a></li>
-        <li><a href="https://scholar.google.com/citations?user=HjWwFs8AAAAJ&hl=en&oi=ao" target="_blank">Scholar</a></li>
+        <li><a href="https://scholar.google.com/citations?hl=en&user=HjWwFs8AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Scholar</a></li>
         <li><a href="https://www.linkedin.com/in/debsoudeep/" target="_blank">LinkedIn</a></li>
         </div>
   </div>
