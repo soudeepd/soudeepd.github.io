@@ -41,6 +41,8 @@ With my expertise and experiences in working with real life datasets, I am inter
 
 Details of the research grants I have received so far are listed below:
 
+- Research Challenge Grant from IIM Bangalore for the project titled "Estimating spatial extremes using EVT-based scaling", in collaboration with [[Dr. Anand Deo]](https://sites.google.com/view/anands-webpage/home). The amount is INR 1.5 million for 18 months (March 2025 to August 2026).
+
 - Research travel grant from London Mathematical Society, under Scheme 5 'Collaborations with Developing Countries' Grant, for a collaborative project with [[Dr. Rishideep Roy]](https://sites.google.com/site/royrishideep/home) from the University of Essex. The amount is GBP 2200, for a research trip in December 2024.
 
 - Research Seed Grant from IIM Bangalore for the project titled "Nonparametric methods of structural break detection in time series". The amount is INR 500,000 for 18 months (July 2024 to December 2025).
