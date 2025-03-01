@@ -16,7 +16,10 @@ description: Soudeep's academic commitments
 
 ### <a name="upcoming"></a>Services
 
-In academia, it is an important commitment to provide professional services. I have recently been inducted into the editorial board of <a href="https://www.nature.com/srep/about/editors#climate-change" target="_blank">Scientific Reports</a>, which is one of the highest-cited journal in the world and is published by the Nature portfolio. I will work as an Associate Editor of the Climate Change division, and am looking forward to the new role.
+In academia, it is an important commitment to provide professional services. I am currently in the editorial boards of the following journals and I work to the best of my abilities to maintain the high standards of these journals. 
+
+- <a href="https://www.nature.com/srep/about/editors#climate-change" target="_blank">Scientific Reports</a>: Published by the Nature portfolio, it is one of the highest-cited journal in the world. I am working as an Associate Editor of their Climate Change division.
+- <a href="https://journals.sagepub.com/home/SAN" target="_blank">Journal of Sports Analytics</a>: One of the pioneering journals in the field of sports analytics. I am working as an Associate Editor for this journal.
 
 Additionally, I serve as a reviewer for many journals including the following:
 - Biometrics
@@ -39,11 +42,15 @@ Additionally, I serve as a reviewer for many journals including the following:
 
 It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
 
+- **May 2025 (tentative)**, Handling macro-scale data and writing statistical papers. Workshop-cum-training session at RV University, Bengaluru, India.
+
+### <a name="previous"></a>Previous talks
+
+- **Feb 2025**, Real-time forecasting in football matches (and in other sports). IIM Ahmedabad R&P Seminar Series, Ahmedabad, India.
+
 - **Dec 2024**, Structural breaks in the spatial network of real estate dynamics: A study of UK property transactions. CMStatistics Conference 2024, London, UK.
 
 - **Dec 2024**, Nonparametric Regression of Spatio-temporal Data using Infinite-dimensional Covariates. IISA Conference 2024, Cochin, India.
-
-### <a name="previous"></a>Previous talks
 
 - **Dec 2024**, Structural breaks in the spatial network of real estate dynamics: A study of UK property transactions. Essex Data Science Seminar Series, University of Essex, Colchester, UK.
 
