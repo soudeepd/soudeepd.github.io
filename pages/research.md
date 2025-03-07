@@ -9,7 +9,7 @@ description: Soudeep's research
         <ul class="nav">
             <li><a href="#consulting">Consulting</a></li>
             <li><a href="#grants">Grants</a></li>
-            <li><a href="#students">Doctoral Students</a></li>
+            <li><a href="#students">Research Group</a></li>
         </ul>
     </div>
 </div>
@@ -45,27 +45,31 @@ Details of the research grants I have received so far are listed below:
 
 - Research travel grant from London Mathematical Society, under Scheme 5 'Collaborations with Developing Countries' Grant, for a collaborative project with [[Dr. Rishideep Roy]](https://sites.google.com/site/royrishideep/home) from the University of Essex. The amount is GBP 2200, for a research trip in December 2024.
 
-- Research Seed Grant from IIM Bangalore for the project titled "Nonparametric methods of structural break detection in time series". The amount is INR 500,000 for 18 months (July 2024 to December 2025).
+- Research Seed Grant from IIM Bangalore for the project titled "Nonparametric methods of structural break detection in time series". The amount is INR 0.5 million for 18 months (July 2024 to December 2025).
 
 - India-Israel Joint Research Cooperation (IIJRC) Grant, 10th CFP-2023, offered jointly by Department of Science & Technology, India, and Ministry of Innovation, Science & Technology, Israel. This project is in collaboration with Prof. Itai Dattner, from University of Haifa, Israel. The topic of the project is "Hybrid-AI Quantile Regression Combining Nonparametric Statistical Methods and Physics-Informed
 Neural Networks for Analysing Spatio-temporal Climate Data". The amount is approximately INR 1.6 million for two years, starting from 2024.
 
-- Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 300,000 for two years (August 2021 to December 2023).
+- Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 0.3 million for two years (August 2021 to December 2023).
   
-- Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
+- Young Faculty Research Grant from IIM Bangalore. The amount is INR 0.9 million for three years (March 2020 to February 2023).
 
 
-### <a name="students"></a>Doctoral Students
+### <a name="students"></a>Research Group
+
+Below is a list of postdoctoral fellows who are currently working in my research group. I am looking for at least one other postdoctoral researcher, with expertise in probability theory, statistics, machine learning and programming skills. <a href="mailto:soudeep@iimb.ac.in" target="_blank">Email me with your CV</a> if you are interested (minimum eligibility criteria is a PhD).
+
+- [Reetha Thomas](https://scholar.google.com/citations?user=TM4LYuAAAAAJ&hl=en): Dr Thomas earned her PhD in Mathematics in 2025 from Indian Institute of Information Technology Kottayam. She has been working with me on projects related to theory and applications of neural networks in time series and spatial datasets.
 
 Following students have successfully completed their PhD under my supervision.
 
-- [Anchal Soni](https://anchal-soni.github.io/Anchal/): Defended in February 2023, from Indian Institute of Management Bangalore. Ms Soni's thesis was on "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Post PhD, she joined WNS Global Services as Senior Consultant, F&A capability.
+- [Anchal Soni](https://anchal-soni.github.io/Anchal/): Defended in February 2023, from Decision Sciences area at Indian Institute of Management Bangalore. Ms Soni's thesis was on "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Post PhD, she joined WNS Global Services as Senior Consultant, F&A capability.
 
-- [Siddharth Rawat](https://rawatsid.github.io/): Defended in May 2023, from Indian Institute of Management Bangalore. Mr Rawat's thesis was titled "Spatio-temporal models in epidemiology and climate change". Post PhD, he joined the Biostatistics & Computational Biology Branch, at NIEHS, NC, USA, as a postdoctoral fellow.
+- [Siddharth Rawat](https://rawatsid.github.io/): Defended in May 2023, from Decision Sciences area at Indian Institute of Management Bangalore. Mr Rawat's thesis was titled "Spatio-temporal models in epidemiology and climate change". Post PhD, he joined the Biostatistics & Computational Biology Branch, at NIEHS, NC, USA, as a postdoctoral fellow.
+
+- [Kapil Gupta](https://kapil21gupta.github.io/): Defended in March 2025, from Decision Sciences area at Indian Institute of Management Bangalore. Mr Gupta's thesis was titled "Analyzing House Price Dynamics Using Novel Spatio-Temporal Methods". He has also worked with me on papers related to sports analytics and variable selection methods. Post PhD, he moved to the National University of Singapore as a Research Associate.
 
 Currently, the following students are advised by me in different capacities.
-
-- (Thesis advisor of) [Kapil Gupta](https://kapil21gupta.github.io/): Fourth year doctoral student, Indian Institute of Management Bangalore. Mr Gupta has been working on his thesis which is focused on analyzing house price dynamics in India. He has also worked with me on papers related to sports analytics and variable selection methods. Expected to graduate by the summer of 2025.
 
 - (Thesis co-advisor of) [Archi Roy](https://sites.google.com/students.iiserpune.ac.in/archiroy/): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2025.
 
@@ -75,20 +79,21 @@ Currently, the following students are advised by me in different capacities.
 
 - (Doctoral committee member of) [Sajad S Santhosh](https://www.iimb.ac.in/node/10690): Advanced doctoral student, Indian Institute of Management Bangalore. 
 
-- (Doctoral committee member of) [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Fourth year doctoral student, Indian Institute of Management Bangalore. 
-
 - (Doctoral committee member of) [Sabhya Rai](https://www.linkedin.com/in/sabhyarai/): Third year doctoral student, Indian Institute of Management Bangalore. 
 
+I have been part of the dissertation advisory committee of the following students as well.
+
+- [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Defended in March 2025, from the Finance & Accounting area at Indian Institute of Management Bangalore. 
 
 Below is a list of students who are currently working on various projets in collaboration with me.
 
 - Subhrajyoty Roy: Currently a doctoral student at Indian Statistical Institute Kolkata.
 - Amrutha Seshagiri: Currently a doctoral student at Indian Institute of Management Bangalore.
 - Shagun Srivastava: Currently a doctoral student in Indian Institute of Management Bangalore.
+- Lizan Meryl Pereira: Currently a doctoral student in Indian Institute of Management Bangalore.
 - Satyaki Basu Sarbadhikary: Currently a research associate in Indian Institute of Management Bangalore.
 - Anitha Pathlavath: Currently a research associate in Indian Institute of Management Bangalore.
 - Meghana Krishna: Currently a research associate in Indian Institute of Management Bangalore.
-- Shreyash Surendrarao Deshmukh: Currently a doctoral student at Indian Institute of Management Kozhikode.
 - Sreeranjini TM: Currently an Academic Associate in Indian Institute of Management Bangalore.
 - Deepam Saha: Currently a student at Indian Statistical Institute Kolkata.
 - Shubhayan Pan: Currently a student at Indian Statistical Institute Kolkata.
@@ -97,6 +102,7 @@ Below is a list of students who are currently working on various projets in coll
 
 A few other notable research assistants, who contributed substantially to my research projects in the past years, are listed below.
 
+- Shreyash Surendrarao Deshmukh: Worked during 2023-24, later joined doctoral program at Indian Institute of Management Kozhikode.
 - Anagh Chattopadhyay: Worked during 2021-23, later joined doctoral program at Johns Hopkins University.
 - Arisina Banerjee: Worked during 2021-23, later joined doctoral program at Cornell University.
 - Arunav Bhowmick: Worked during 2023-24, while a student at Indian Statistical Institute Kolkata.
