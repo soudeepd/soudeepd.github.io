@@ -25,6 +25,8 @@ In 2023, I published my first book, which is a problem-based book aimed at high-
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 22nd October 2024.
 
+- Sen, S., **Deb, S.** (2025) tSNE-Spec: A new classification method for multivariate time series data. To appear in Journal of Multivariate Analysis.
+
 - Deshmukh, S. S., **Deb, S.** (2025). A survey of statistical and machine learning methods of quantile regression in time series and their suitability in predicting dengue outbreaks. To appear in Japanese Journal of Statistics and Data Science. [[early view]](https://link.springer.com/article/10.1007/s42081-025-00297-y) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:9NbifDhyxe0J:scholar.google.com/&output=citation&scisdr=ClHEvVAyEPHmk3GRT4U:AFWwaeYAAAAAZ8GXV4UpZlix3olAyjv25ssvkSQ&scisig=AFWwaeYAAAAAZ8GXVxGRszOxgAK654WHCSqgaVE&scisf=4&ct=citation&cd=-1&hl=en)
   
 - **Deb, S.**, Jana, K. (2024) Nonparametric quantile regression for time series with replicated observations and its application to climate data. Statistical Science, 39(3), 428-448. [[publication]](https://projecteuclid.org/journals/statistical-science/volume-39/issue-3/Nonparametric-Quantile-Regression-for-Time-Series-with-Replicated-Observations-and/10.1214/23-STS918.short) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Af2EGIIxO5oJ:scholar.google.com/&output=citation&scisdr=ClHKwvfDEPHmkj1VWQQ:AFWwaeYAAAAAZo1TQQSy9kJpUThq2VIogL3cg30&scisig=AFWwaeYAAAAAZo1TQdrxv6sIghMZpdVbIF0oNfQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
@@ -93,8 +95,6 @@ Following are my academic publications in journals and conference proceedings, a
 - **Deb, S.**, Das, S. Optimal selection of the starting lineup for a football team. Under review. [[pre-print]](https://arxiv.org/abs/2303.12385) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dyWYcNXtZVMJ:scholar.google.com/&output=citation&scisdr=CpsEIpmEEKDr9LBgnWY:AJ9-iYsAAAAAZDdmhWabYobyqBcqFAlqwe5QBo8&scisig=AJ9-iYsAAAAAZDdmhRWH3ymc5kvb_OB2D1TnDVo&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Rawat, S., Durrant, A., Simpson, A., Nielson, G., Berrett, C,  **Deb, S.** A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data: An application to COVID-19 data. Under resubmission. [[pre-print]](https://arxiv.org/abs/2305.01906) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:KaPrW-qbUn0J:scholar.google.com/&output=citation&scisdr=Cm08r7FbEKDr9O9SuJ8:AGlGAw8AAAAAZGhUoJ-xBiNl_lkKcas2CgBFnl0&scisig=AGlGAw8AAAAAZGhUoD9RuxGxd_LarLdatAQL9Wo&scisf=4&ct=citation&cd=-1&hl=en) [Paper presented in invited talks in IISA Conference 2022, Bengaluru, India; and in RSS International Conference 2022, Aberdeen, UK.]
-
-- Sen, S., **Deb, S.** tSNE-Spec: A new classification method for multivariate time series data. Under review. Preprint available on request. [Paper presented in invited talks in CMStatistics 2021, London, UK; and in 2021 Australian and New Zealand Statistical Conference (virtually).]
 
 - Rawat, S., **Deb, S.**. Impact of rising temperature on rainfall: A spatio-temporal study from Bangladesh. Under review. Preprint available on request.
 
