@@ -20,6 +20,7 @@ In academia, it is an important commitment to provide professional services. I a
 
 - <a href="https://www.nature.com/srep/about/editors#climate-change" target="_blank">Scientific Reports</a>: Published by the Nature portfolio, it is one of the highest-cited journal in the world. I am working as an Associate Editor of their Climate Change division.
 - <a href="https://journals.sagepub.com/home/SAN" target="_blank">Journal of Sports Analytics</a>: One of the pioneering journals in the field of sports analytics. I am working as an Associate Editor for this journal.
+- <a href="https://link.springer.com/journal/13571" target="_blank">Sankhya B</a> - The Indian Journal of Statistics: It is a quarterly journal from the Indian Statistical Institute, focusing on Applied and Interdisciplinary Statistics including Data Science. I am working as an Associate Editor for this journal.
 
 Additionally, I serve as a reviewer for many journals including the following:
 - Biometrics
@@ -31,6 +32,7 @@ Additionally, I serve as a reviewer for many journals including the following:
 - Journal of Behavioral and Experimental Finance
 - Journal of Multivariate Analysis
 - Journal of Sports Analytics
+- Journal of the American Statistical Association
 - Journal of the Royal Statistical Society: Series A and Series C
 - Linear Algebra and its Applications
 - Sankhya A and Sankhya B
