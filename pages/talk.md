@@ -42,9 +42,13 @@ Additionally, I serve as a reviewer for many journals including the following:
 
 It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
 
-- **May 2025 (tentative)**, Handling macro-scale data and writing statistical papers. Workshop-cum-training session at RV University, Bengaluru, India.
+- **Dec 2025**, Bridging Search Behaviour and Market Dynamics: A Hybrid Model for High-frequency Financial Data. CFE-CMStatistics Conference 2025, London, UK.
+
+- **Dec 2025**, Some Deep Learning Models for Analyzing Financial Data. StatFin Conference 2025, Chennai, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **May 2025**, Data Handling, Visualisation, and Storytelling in Academic Research. Workshop-cum-training session at RV University, Bengaluru, India.
 
 - **Feb 2025**, Real-time forecasting in football matches (and in other sports). IIM Ahmedabad R&P Seminar Series, Ahmedabad, India.
 
