@@ -61,44 +61,43 @@ Neural Networks for Analysing Spatio-temporal Climate Data". The amount is appro
 
 Below is a list of postdoctoral fellows who are currently working in my research group. I may have a position for another postdoctoral researcher, with expertise in probability theory, statistics, machine learning and programming skills. <a href="mailto:soudeep@iimb.ac.in" target="_blank">Email me with your CV</a> if you are interested (minimum eligibility criteria is a PhD).
 
-- [Reetha Thomas](https://scholar.google.com/citations?user=TM4LYuAAAAAJ&hl=en): Dr Thomas earned her PhD in Mathematics in 2025 from Indian Institute of Information Technology Kottayam, India. She has been working with me on projects related to theory and applications of neural networks in time series and spatial datasets.
+Dr Thomas earned her PhD in Mathematics in 2025 from Indian Institute of Information Technology Kottayam, India. She has been working with me on projects related to theory and applications of neural networks in time series and spatial datasets.
 
 - [Madhab Barman](https://scholar.google.co.in/citations?user=fmGBcOcAAAAJ&hl=en&oi=ao): Dr Barman earned his PhD in 2025 from the Department of Mathematics, IIITDM Kancheepuram, Chennai, India. He has been working with me and Prof Anand Deo on projects related to extreme value theory and applications in climate studies.
 
-Following students have successfully completed their PhD under my supervision.
+Following students have successfully completed their PhD under my supervision or co-supervision.
 
 - [Anchal Soni](https://anchal-soni.github.io/Anchal/): Defended in February 2023, from Decision Sciences area at Indian Institute of Management Bangalore. Ms Soni's thesis was on "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Post PhD, she joined WNS Global Services as Senior Consultant, F&A capability.
 
 - [Siddharth Rawat](https://rawatsid.github.io/): Defended in May 2023, from Decision Sciences area at Indian Institute of Management Bangalore. Mr Rawat's thesis was titled "Spatio-temporal models in epidemiology and climate change". Post PhD, he joined the Biostatistics & Computational Biology Branch, at NIEHS, NC, USA, as a postdoctoral fellow.
 
-- [Kapil Gupta](https://kapil21gupta.github.io/): Defended in March 2025, from Decision Sciences area at Indian Institute of Management Bangalore. Mr Gupta's thesis was titled "Analyzing House Price Dynamics Using Novel Spatio-Temporal Methods". He has also worked with me on papers related to sports analytics and variable selection methods. Post PhD, he moved to the National University of Singapore as a Research Associate.
+- [Kapil Gupta](https://kapil21gupta.github.io/): Defended in March 2025, from Decision Sciences area at Indian Institute of Management Bangalore. Mr Gupta's thesis was titled "Analyzing House Price Dynamics Using Novel Spatio-Temporal Methods". He has also worked with me on papers related to sports analytics and variable selection methods. Post PhD, he moved to the National University of Singapore as a Research Associate and then to Indian Institute of Management Kozhikode as an Assistant Professor.
+
+- [Archi Roy](https://sites.google.com/students.iiserpune.ac.in/archiroy/): Defended in August 2025, from the Department of Mathematics, Indian Institute of Science Education and Research Pune. Ms Roy was jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and her thesis was titled "Nonparametric methods for short and long-range dependent time series: Applications in financial and biomedical datasets". Post PhD, she joined Indian Institute of Management Kozhikode as an Assistant Professor.
 
 Currently, the following students are advised by me in different capacities.
 
-- (Thesis co-advisor of) [Archi Roy](https://sites.google.com/students.iiserpune.ac.in/archiroy/): Fourth year student in an integrated MS-PhD program, Indian Institute of Science Education and Research Pune. Ms Roy is jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and is working on novel methodologies to understand the dynamics of financial markets. Expected to graduate by the summer of 2025.
+- (PhD Thesis advisor of) Kunal Rai: Fifth year doctoral student, Indian Institute of Management Bangalore. Mr Rai's thesis revolves around nonparametric methods and physics-informed neural networks for quantile regression problems in time series and spatio-temporal data. Expected to graduate by the summer of 2026.
 
-- (Thesis advisor of) Kunal Rai: Third year doctoral student, Indian Institute of Management Bangalore. Mr Rai's tentative thesis revolves around nonparametric methods and physics-informed neural networks for quantile regression problems in time series and spatio-temporal data. Expected to graduate by the summer of 2026.
+- (PhD Thesis co-advisor of) Chinmay Divekar: Fifth year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics. Expected to graduate by the summer of 2026.
 
-- (Thesis co-advisor of) Chinmay Divekar: Third year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics. Expected to graduate by the summer of 2026.
-
-- (Doctoral committee member of) [Sajad S Santhosh](https://www.iimb.ac.in/node/10690): Advanced doctoral student, Indian Institute of Management Bangalore. 
+- (Master's Thesis advisor of) Snehil Maurya: Final year master's student in Indian Institute of Science Education & Research Mohali. I am advising Ms Snehil on her master's thesis, which is on a method of portfolio optimization in an environmentally conscious manner.
 
 - (Doctoral committee member of) [Sabhya Rai](https://www.linkedin.com/in/sabhyarai/): Third year doctoral student, Indian Institute of Management Bangalore. 
 
 I have been part of the dissertation advisory committee of the following students as well.
 
-- [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Defended in March 2025, from the Finance & Accounting area at Indian Institute of Management Bangalore. 
+- [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Defended in March 2025, from the Finance & Accounting area at Indian Institute of Management Bangalore.
 
-Below is a list of students who are currently working on various projects in collaboration with me.
+- [Sajad S Santhosh](https://www.linkedin.com/in/sajadsanthosh1991/): Defended in July 2025, from the Centre of Public Policy at Indian Institute of Management Bangalore. 
 
-- Subhrajyoty Roy: Currently a doctoral student at Indian Statistical Institute Kolkata.
+Below is a list of people who are currently working on various projects in collaboration with me.
+
+- Subhrajyoty Roy: Currently a postdoctoral fellow at Washington University St Louis.
 - Amrutha Seshagiri: Currently a doctoral student at Indian Institute of Management Bangalore.
 - Shagun Srivastava: Currently a doctoral student in Indian Institute of Management Bangalore.
 - Lizan Meryl Pereira: Currently a doctoral student in Indian Institute of Management Bangalore.
-- Satyaki Basu Sarbadhikary: Currently a research associate in Indian Institute of Management Bangalore.
-- Anitha Pathlavath: Currently a research associate in Indian Institute of Management Bangalore.
-- Meghana Krishna: Currently a research associate in Indian Institute of Management Bangalore.
-- Sreeranjini TM: Currently an Academic Associate in Indian Institute of Management Bangalore.
+- Anitha Pathlavath: Currently an academic associate in Indian Institute of Management Bangalore.
 - Deepam Saha: Currently a student at Indian Statistical Institute Kolkata.
 - Shubhayan Pan: Currently a student at Indian Statistical Institute Kolkata.
 - Saikat Sengupta: Currently a student at Indian Statistical Institute Kolkata.
@@ -106,6 +105,10 @@ Below is a list of students who are currently working on various projects in col
 
 A few other notable research assistants, who contributed substantially to my research projects in the past years, are listed below.
 
+- [Reetha Thomas](https://scholar.google.com/citations?user=TM4LYuAAAAAJ&hl=en): Worked as a postdoctoral fellow during 2024-25, later joined IIIT Kottayam as an Assistant Professor.
+- Satyaki Basu Sarbadhikary: Worked during 2024-25, later joined doctoral program at National University of Singapore.
+- Meghana Krishna: Worked during 2024-25 as a research assistant.
+- Sreeranjini TM: Worked during 2023-25, later joined doctoral program at Indian Institute of Technology Bombay.
 - Shreyash Surendrarao Deshmukh: Worked during 2023-24, later joined doctoral program at Indian Institute of Management Kozhikode.
 - Anagh Chattopadhyay: Worked during 2021-23, later joined doctoral program at Johns Hopkins University.
 - Arisina Banerjee: Worked during 2021-23, later joined doctoral program at Cornell University.
