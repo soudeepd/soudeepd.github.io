@@ -19,7 +19,7 @@ description: Soudeep's research
 Primarily, I work on different aspects of time series and spatial data. Often, the theory and methods I work on are inspired from real life problems from different disciplines, ranging from climate to public health to finance to social sciences. Following are broadly the topics I have been working on.
 
 - Spatio-temporal modeling 
-- Quantile regression in time series and spatial data
+- Quantile regression and extreme value in time series and spatial data
 - Categorical and discrete time series data
 - Clustering and classification methods
 - Bayesian implementation of time series methods
@@ -43,9 +43,9 @@ With my expertise and experiences in working with real life datasets, I am inter
 
 Details of the research grants I have received so far are listed below:
 
-- Research Challenge Grant from IIM Bangalore for the project titled "Estimating spatial extremes using EVT-based scaling", in collaboration with [[Dr. Anand Deo]](https://sites.google.com/view/anands-webpage/home). The amount is INR 1.5 million for 18 months (March 2025 to August 2026).
+- Research Challenge Grant from IIM Bangalore for the project titled "Estimating spatial extremes using EVT-based scaling", in collaboration with [Dr. Anand Deo](https://sites.google.com/view/anands-webpage/home). The amount is INR 1.5 million for 18 months (March 2025 to August 2026).
 
-- Research travel grant from London Mathematical Society, under Scheme 5 'Collaborations with Developing Countries' Grant, for a collaborative project with [[Dr. Rishideep Roy]](https://sites.google.com/site/royrishideep/home) from the University of Essex. The amount is GBP 2200, for a research trip in December 2024.
+- Research travel grant from London Mathematical Society, under Scheme 5 'Collaborations with Developing Countries' Grant, for a collaborative project with [Dr. Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex. The amount is GBP 2200, for a research trip in December 2024.
 
 - Research Seed Grant from IIM Bangalore for the project titled "Nonparametric methods of structural break detection in time series". The amount is INR 0.5 million for 18 months (July 2024 to December 2025).
 
@@ -61,35 +61,34 @@ Neural Networks for Analysing Spatio-temporal Climate Data". The amount is appro
 
 Below is a list of postdoctoral fellows who are currently working in my research group. I may have a position for another postdoctoral researcher, with expertise in probability theory, statistics, machine learning and programming skills. <a href="mailto:soudeep@iimb.ac.in" target="_blank">Email me with your CV</a> if you are interested (minimum eligibility criteria is a PhD).
 
-Dr Thomas earned her PhD in Mathematics in 2025 from Indian Institute of Information Technology Kottayam, India. She has been working with me on projects related to theory and applications of neural networks in time series and spatial datasets.
-
 - [Madhab Barman](https://scholar.google.co.in/citations?user=fmGBcOcAAAAJ&hl=en&oi=ao): Dr Barman earned his PhD in 2025 from the Department of Mathematics, IIITDM Kancheepuram, Chennai, India. He has been working with me and Prof Anand Deo on projects related to extreme value theory and applications in climate studies.
 
 Following students have successfully completed their PhD under my supervision or co-supervision.
 
-- [Anchal Soni](https://anchal-soni.github.io/Anchal/): Defended in February 2023, from Decision Sciences area at Indian Institute of Management Bangalore. Ms Soni's thesis was on "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Post PhD, she joined WNS Global Services as Senior Consultant, F&A capability.
-
-- [Siddharth Rawat](https://rawatsid.github.io/): Defended in May 2023, from Decision Sciences area at Indian Institute of Management Bangalore. Mr Rawat's thesis was titled "Spatio-temporal models in epidemiology and climate change". Post PhD, he joined the Biostatistics & Computational Biology Branch, at NIEHS, NC, USA, as a postdoctoral fellow.
+- [Archi Roy](https://sites.google.com/students.iiserpune.ac.in/archiroy/): Defended in August 2025, from the Department of Mathematics, Indian Institute of Science Education and Research Pune. Ms Roy was jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and her thesis was titled "Nonparametric methods for short and long-range dependent time series: Applications in financial and biomedical datasets". Post PhD, she joined Indian Institute of Management Kozhikode as an Assistant Professor.
 
 - [Kapil Gupta](https://kapil21gupta.github.io/): Defended in March 2025, from Decision Sciences area at Indian Institute of Management Bangalore. Mr Gupta's thesis was titled "Analyzing House Price Dynamics Using Novel Spatio-Temporal Methods". He has also worked with me on papers related to sports analytics and variable selection methods. Post PhD, he moved to the National University of Singapore as a Research Associate and then to Indian Institute of Management Kozhikode as an Assistant Professor.
 
-- [Archi Roy](https://sites.google.com/students.iiserpune.ac.in/archiroy/): Defended in August 2025, from the Department of Mathematics, Indian Institute of Science Education and Research Pune. Ms Roy was jointly advised by me and [Dr Moumanti Podder](https://scholar.google.com/citations?user=z7wxJS4AAAAJ&hl=en); and her thesis was titled "Nonparametric methods for short and long-range dependent time series: Applications in financial and biomedical datasets". Post PhD, she joined Indian Institute of Management Kozhikode as an Assistant Professor.
+- [Siddharth Rawat](https://rawatsid.github.io/): Defended in May 2023, from Decision Sciences area at Indian Institute of Management Bangalore. Mr Rawat's thesis was titled "Spatio-temporal models in epidemiology and climate change". Post PhD, he joined the Biostatistics & Computational Biology Branch, at NIEHS, NC, USA, as a postdoctoral fellow.
+
+- [Anchal Soni](https://anchal-soni.github.io/Anchal/): Defended in February 2023, from Decision Sciences area at Indian Institute of Management Bangalore. Ms Soni's thesis was on "Methods of analyzing structural breaks in multivariate time series: Applications to financial data". Post PhD, she joined WNS Global Services as Senior Consultant, F&A capability.
+
 
 Currently, the following students are advised by me in different capacities.
 
-- (PhD Thesis advisor of) Kunal Rai: Fifth year doctoral student, Indian Institute of Management Bangalore. Mr Rai's thesis revolves around nonparametric methods and physics-informed neural networks for quantile regression problems in time series and spatio-temporal data. Expected to graduate by the summer of 2026.
+- (PhD thesis advisor of) Kunal Rai: Fifth year doctoral student, Indian Institute of Management Bangalore. Mr Rai's thesis revolves around nonparametric methods and physics-informed neural networks for quantile regression problems in time series and spatio-temporal data. Expected to graduate by the summer of 2026.
 
-- (PhD Thesis co-advisor of) Chinmay Divekar: Fifth year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics. Expected to graduate by the summer of 2026.
+- (PhD thesis co-advisor of) Chinmay Divekar: Fifth year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics. Expected to graduate by the summer of 2026.
 
-- (Master's Thesis advisor of) Snehil Maurya: Final year master's student in Indian Institute of Science Education & Research Mohali. I am advising Ms Snehil on her master's thesis, which is on a method of portfolio optimization in an environmentally conscious manner.
+- (Master's thesis advisor of) Snehil Maurya: Final year master's student in Indian Institute of Science Education & Research Mohali. I am advising Ms Snehil on her master's thesis, which is on a method of portfolio optimization in an environmentally conscious manner.
 
 - (Doctoral committee member of) [Sabhya Rai](https://www.linkedin.com/in/sabhyarai/): Third year doctoral student, Indian Institute of Management Bangalore. 
 
 I have been part of the dissertation advisory committee of the following students as well.
 
-- [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Defended in March 2025, from the Finance & Accounting area at Indian Institute of Management Bangalore.
-
 - [Sajad S Santhosh](https://www.linkedin.com/in/sajadsanthosh1991/): Defended in July 2025, from the Centre of Public Policy at Indian Institute of Management Bangalore. 
+
+- [Mareeswaran M](https://www.linkedin.com/in/mareeswaran-m-671090b7/): Defended in March 2025, from the Finance & Accounting area at Indian Institute of Management Bangalore.
 
 Below is a list of people who are currently working on various projects in collaboration with me.
 
