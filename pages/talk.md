@@ -18,11 +18,12 @@ description: Soudeep's academic commitments
 
 In academia, it is an important commitment to provide professional services. I am currently in the editorial boards of the following journals and I work to the best of my abilities to maintain the high standards of these journals. 
 
-- <a href="https://www.nature.com/srep/about/editors#climate-change" target="_blank">Scientific Reports</a>: Published by the Nature portfolio, it is one of the highest-cited journal in the world. I am working as an Associate Editor of their Climate Change division.
+- <a href="https://www.nature.com/srep/about/editors#climate-change" target="_blank">Nature Scientific Reports</a>: Published by the Nature portfolio, it is one of the highest-cited journal in the world. I am working as an Associate Editor of their Climate Change division.
 - <a href="https://journals.sagepub.com/home/SAN" target="_blank">Journal of Sports Analytics</a>: One of the pioneering journals in the field of sports analytics. I am working as an Associate Editor for this journal.
 - <a href="https://link.springer.com/journal/13571" target="_blank">Sankhya B</a>: The Indian Journal of Statistics: It is a quarterly journal from the Indian Statistical Institute, focusing on Applied and Interdisciplinary Statistics including Data Science. I am working as an Associate Editor for this journal.
 
 Additionally, I serve as a reviewer for many journals including the following:
+- Annals of Applied Statistics
 - Biometrics
 - BMC Public Health
 - Electronic Journal of Statistics
@@ -35,8 +36,8 @@ Additionally, I serve as a reviewer for many journals including the following:
 - Journal of the American Statistical Association
 - Journal of the Royal Statistical Society: Series A and Series C
 - Linear Algebra and its Applications
+- Nature Scientific Reports
 - Sankhya A and Sankhya B
-- Scientific Reports
 - Statistics and Probability Letters
 
 
@@ -44,13 +45,15 @@ Additionally, I serve as a reviewer for many journals including the following:
 
 It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
 
-- **Sep 2025**, Real-time forecasting in football matches (and in other sports). IISA Webinar Series, virtual talk.
-
 - **Dec 2025**, Bridging Search Behaviour and Market Dynamics: A Hybrid Model for High-frequency Financial Data. CFE-CMStatistics Conference 2025, London, UK.
 
 - **Dec 2025**, Some Deep Learning Methods for Analyzing Financial Data. StatFin Conference 2025, Chennai, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **Sep 2025**, Real-time forecasting in football matches (and in other sports). IISA Webinar Series, virtual talk.
+
+- **Sep 2025**, Statistics and AI in business. Special seminar, Eastern Institute for Integrated Learning in Management (EIILM), Jalpaiguri Campus.
 
 - **May 2025**, Data Handling, Visualisation, and Storytelling in Academic Research. Workshop-cum-training session at RV University, Bengaluru, India.
 
