@@ -10,7 +10,7 @@ description: Soudeep's publications
             <li><a href="#book">Books</a></li>
             <li><a href="#journal">Publications</a></li>
             <li><a href="#submitted">Submitted</a></li>
-            <li><a href="#progress">In progress</a></li>
+            <li><a href="#others">Others</a></li>
         </ul>
     </div>
 </div>
@@ -30,6 +30,10 @@ In 2023, I published my first book, which is a problem-based book aimed at high-
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 22nd October 2024.
 
 - Sen, S., **Deb, S.** (2025) tSNE-Spec: A new classification method for multivariate time series data. To appear in Journal of Multivariate Analysis.
+
+- Gupta, K., **Deb, S.** A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. To appear in Annals of Operations Research. [[pre-print]](https://arxiv.org/abs/2407.15905) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:fWYcoQD40kMJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXtDq0:AFWwaeYAAAAAZqXrFq1DEMrYuApn_3s0bV60Iaw&scisig=AFWwaeYAAAAAZqXrFjFlmvK0RxMqgk3o9aNKjcU&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+
+- **Deb, S.**, Das, S. Optimal selection of the starting lineup for a football team. To appear in IIMB Management Review. [[pre-print]](https://arxiv.org/abs/2303.12385) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dyWYcNXtZVMJ:scholar.google.com/&output=citation&scisdr=CpsEIpmEEKDr9LBgnWY:AJ9-iYsAAAAAZDdmhWabYobyqBcqFAlqwe5QBo8&scisig=AJ9-iYsAAAAAZDdmhRWH3ymc5kvb_OB2D1TnDVo&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Deshmukh, S. S., **Deb, S.** (2025). A survey of statistical and machine learning methods of quantile regression in time series and their suitability in predicting dengue outbreaks. To appear in Japanese Journal of Statistics and Data Science. [[early view]](https://link.springer.com/article/10.1007/s42081-025-00297-y) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:9NbifDhyxe0J:scholar.google.com/&output=citation&scisdr=ClHEvVAyEPHmk3GRT4U:AFWwaeYAAAAAZ8GXV4UpZlix3olAyjv25ssvkSQ&scisig=AFWwaeYAAAAAZ8GXVxGRszOxgAK654WHCSqgaVE&scisf=4&ct=citation&cd=-1&hl=en)
   
@@ -86,7 +90,6 @@ Following are my academic publications in journals and conference proceedings, a
 
 - Panja, M., Chakraborty, T., Biswas, A., **Deb, S.** E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting. Under revision.[[pre-print]](https://arxiv.org/abs/2411.12258) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZbjC_F2pd14J:scholar.google.com/&output=citation&scisdr=ClHKwvNDEPHmk_HskBo:AFWwaeYAAAAAZ0HqiBquOxDgHB6chNxuqxEP6IQ&scisig=AFWwaeYAAAAAZ0HqiBj-58c6MNPaMI73p1Hj2II&scisf=4&ct=citation&cd=-1&hl=en)
   
-- Gupta, K., **Deb, S.** A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. Under revision. [[pre-print]](https://arxiv.org/abs/2407.15905) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:fWYcoQD40kMJ:scholar.google.com/&output=citation&scisdr=ClHKwvHoEPHmkhXtDq0:AFWwaeYAAAAAZqXrFq1DEMrYuApn_3s0bV60Iaw&scisig=AFWwaeYAAAAAZqXrFjFlmvK0RxMqgk3o9aNKjcU&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Roy, A., Podder, M., **Deb, S.** Nonparametric method of structural break detection in stochastic time series regression model. Under review. [[pre-print]](https://arxiv.org/abs/2410.15713) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:k9BUur_NIogJ:scholar.google.com/&output=citation&scisdr=ClHKwvZ8EPHmk4dmOG4:AFWwaeYAAAAAZzdgIG4KRGIVkX10O1rjBDSC2rE&scisig=AFWwaeYAAAAAZzdgIELv1ZVDXaiGAN7UX9FBbq4&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -95,8 +98,6 @@ Following are my academic publications in journals and conference proceedings, a
 - Paul, M., Roy, R., **Deb, S.**  Effect of influence in voter models and its application in detecting significant interference in political elections. Under resubmission. [[pre-print]](https://arxiv.org/pdf/2210.07744.pdf) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:w74j9Z2Gc-sJ:scholar.google.com/&output=citation&scisdr=CgX71XiOEKDr8yWPpSQ:AAGBfm0AAAAAY6KJvST_3bUsJd29HhN2kGwID4XA4dFp&scisig=AAGBfm0AAAAAY6KJvTmgec3D7Sf2H6H8RB_rYQ4NoXsT&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 - Bag, S., Gupta, K., **Deb, S.** A review and recommendations on variable selection methods in regression models for binary data. Under resubmission. [[pre-print]](https://arxiv.org/abs/2201.06063) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:Dxb_UQ8FxtAJ:scholar.google.com/&output=citation&scisdr=CgX73BJTEKDr8WvB9eM:AAGBfm0AAAAAYezH7eN7gD_WsrLi_ttfnAwU1cPm-XnC&scisig=AAGBfm0AAAAAYezH7eC2C9f24K5kf2esgwJpbwhc7M7y&scisf=4&ct=citation&cd=-1&hl=en)
-
-- **Deb, S.**, Das, S. Optimal selection of the starting lineup for a football team. Under revision. [[pre-print]](https://arxiv.org/abs/2303.12385) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:dyWYcNXtZVMJ:scholar.google.com/&output=citation&scisdr=CpsEIpmEEKDr9LBgnWY:AJ9-iYsAAAAAZDdmhWabYobyqBcqFAlqwe5QBo8&scisig=AJ9-iYsAAAAAZDdmhRWH3ymc5kvb_OB2D1TnDVo&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Rawat, S., Durrant, A., Simpson, A., Nielson, G., Berrett, C,  **Deb, S.** A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data: An application to COVID-19 data. Under resubmission. [[pre-print]](https://arxiv.org/abs/2305.01906) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:KaPrW-qbUn0J:scholar.google.com/&output=citation&scisdr=Cm08r7FbEKDr9O9SuJ8:AGlGAw8AAAAAZGhUoJ-xBiNl_lkKcas2CgBFnl0&scisig=AGlGAw8AAAAAZGhUoD9RuxGxd_LarLdatAQL9Wo&scisf=4&ct=citation&cd=-1&hl=en) [Paper presented in invited talks in IISA Conference 2022, Bengaluru, India; and in RSS International Conference 2022, Aberdeen, UK.]
 
@@ -107,18 +108,7 @@ Following are my academic publications in journals and conference proceedings, a
 - **Deb, S.** Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:e-vu92gbcTUJ:scholar.google.com/&output=citation&scisdr=CgX71deeEPj742YuU6s:AAGBfm0AAAAAYJUrS6u2LbDIDj4aAhIqhD1jBXTj35CK&scisig=AAGBfm0AAAAAYJUrS0zeXLK0cxs8Vy8uXHLP3lbmfhmJ&scisf=4&ct=citation&cd=-1&hl=en)
 
 
-### <a name="progress"></a>Work in progress
-
-- Nath, A., **Deb, S.** A bivariate count data model and its application in forecasting match outcomes in soccer. Manuscript in preparation.
- 
-- Banerjee, A., **Deb, S.** Assessing COVID-19 deaths through a zero-inflated count data model. Manuscript in preparation.
-
-- Karmakar, S., **Deb, S.** Testing separability in the covariance structure of spatio-temporal data. Manuscript in preparation.
- 
-- **Deb, S.**, Wu, W. B. Clustering of Time Series Data using Spectral Density Estimates. Manuscript in preparation.
-
-
-### Other published material
+### <a name="others"></a>Other published material
 
 - **Deb, S.** (2018). Irregular Spaced Data, Spatio-temporal Modeling and Clustering of Time Series. The University of Chicago. [[PhD thesis]](https://knowledge.uchicago.edu/record/422?ln=en) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:nk9w1E8xs3gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMrtDzrwmJxk-Wxhs6jl3eaQvxHu4ayD&scisf=4&ct=citation&cd=-1&hl=en)
 
