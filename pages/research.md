@@ -31,7 +31,9 @@ With my expertise and experiences in working with real life datasets, I am inter
 
 - National Foundation for Corporate Governance (NFCG), c/o Confederation of Indian Industry (CII): We are collaborating on a joint analysis of the feedback survey and concurrent evaluation of the pilot project of the Prime Minister Internship Scheme in India.
 
-- Real Estate Research Initiative (IIMB-RERI), Bengaluru, India: It is an ongoing collaborative venture. In one of our recently concluded projects, we worked on a spatial modelling technique to create a commercial rental index that can be used for understanding the dynamics of rental properties in various cities of India. [[Press coverage]](https://indianexpress.com/article/cities/bangalore/whitefield-outer-ring-road-south-bengaluru-office-rental-boom-it-capital-9697831/)
+- GDPS Innovations, Bengaluru, India: This is a sports tech start-up dealing with various interesting AI/ML projects to improve the understanding of sports training and performance, primarily in cricket. In this ongoing collaborative work, we are working together on multiple research papers and case studies.
+
+- Real Estate Research Initiative (IIMB-RERI), Bengaluru, India: It is an ongoing collaborative venture. In one of our recently concluded projects, we worked on a spatial modelling technique to create a commercial rental index that can be used for understanding the dynamics of rental properties in various cities of India. [[Working paper]](https://www.iimb.ac.in/sites/default/files/2025-11/WP%20No.%20727.pdf) [[Press coverage]](https://indianexpress.com/article/cities/bangalore/whitefield-outer-ring-road-south-bengaluru-office-rental-boom-it-capital-9697831/)
 
 - Smart City Mission, Ministry of Housing & Urban Affairs, India: As part of the SAAR-Sameeksha series, we are focusing on three smart cities to understand whether the introduction of smart classrooms has improved the quality of education, especially in terms of reducing dropout rates for poor children. [[Project report]](https://www.iimb.ac.in/sites/default/files/2024-12/RT12_Smart%20Education_IIM%20Bangalore_13_Prof%20Deb.pdf) [[Press coverage]](https://indianexpress.com/article/india/jump-in-school-enrolment-increased-sense-of-safety-in-smart-cities-iim-b-studies-show-9746350/)
 
@@ -59,7 +61,7 @@ Neural Networks for Analysing Spatio-temporal Climate Data". The amount is appro
 
 ### <a name="students"></a>Research Group
 
-Below is a list of postdoctoral fellows who are currently working in my research group. I may have a position for another postdoctoral researcher, with expertise in probability theory, statistics, machine learning and programming skills. <a href="mailto:soudeep@iimb.ac.in" target="_blank">Email me with your CV</a> if you are interested (minimum eligibility criteria is a PhD).
+Below is a list of postdoctoral fellows who are currently working in my research group. I have a position for another postdoctoral researcher, with expertise in probability theory, statistics, machine learning and programming skills. <a href="mailto:soudeep@iimb.ac.in" target="_blank">Email me with your CV</a> if you are interested (minimum eligibility criteria is a PhD).
 
 - [Madhab Barman](https://scholar.google.co.in/citations?user=fmGBcOcAAAAJ&hl=en&oi=ao): Dr Barman earned his PhD in 2025 from the Department of Mathematics, IIITDM Kancheepuram, Chennai, India. He has been working with me and Prof Anand Deo on projects related to extreme value theory and applications in climate studies.
 
@@ -80,9 +82,11 @@ Currently, the following students are advised by me in different capacities.
 
 - (PhD thesis co-advisor of) Chinmay Divekar: Fifth year doctoral student, Indian Institute of Management Bangalore. Jointly with [Dr Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex, I am advising Mr Divekar on his thesis, that is focused on a combination of interesting methodological and theoretical problems related to sports analytics. Expected to graduate by the summer of 2026.
 
+- (PhD thesis advisor of) Amrutha Seshagiri: Third year doctoral student, Indian Institute of Management Bangalore. Ms Seshagiri's thesis is focused on developing appropriate econometric and statistical techniques for analytics problems related to the tourism industry. Expected to graduate by the summer of 2028.
+
 - (Master's thesis advisor of) Snehil Maurya: Final year master's student in Indian Institute of Science Education & Research Mohali. I am advising Ms Snehil on her master's thesis, which is on a method of portfolio optimization in an environmentally conscious manner.
 
-- (Doctoral committee member of) [Sabhya Rai](https://www.linkedin.com/in/sabhyarai/): Third year doctoral student, Indian Institute of Management Bangalore. 
+- (Doctoral committee member of) [Sabhya Rai](https://www.linkedin.com/in/sabhyarai/): Fifth year doctoral student from the Economics area, Indian Institute of Management Bangalore. 
 
 I have been part of the dissertation advisory committee of the following students as well.
 
@@ -93,7 +97,6 @@ I have been part of the dissertation advisory committee of the following student
 Below is a list of people who are currently working on various projects in collaboration with me.
 
 - Subhrajyoty Roy: Currently a postdoctoral fellow at Washington University St Louis.
-- Amrutha Seshagiri: Currently a doctoral student at Indian Institute of Management Bangalore.
 - Shagun Srivastava: Currently a doctoral student in Indian Institute of Management Bangalore.
 - Lizan Meryl Pereira: Currently a doctoral student in Indian Institute of Management Bangalore.
 - Anitha Pathlavath: Currently an academic associate in Indian Institute of Management Bangalore.
