@@ -29,6 +29,8 @@ In 2023, I published my first book, which is a problem-based book aimed at high-
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 22nd October 2024.
 
+- Basu Sarbadhikary, S., Roy, A., **Deb, S.** (2025). A data-driven approach to spatial zoning and anomaly detection in the dynamic real estate network. Environment and Planning B: Urban Analytics and City Science, 23998083251411954. [[early view]](https://doi.org/10.1177/23998083251411954) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:pgwcF-bBAK8J:scholar.google.com/&output=citation&scisdr=CrweoHHrEO_F3-K0vcc:ALhkC2QAAAAAaVSypcf-bKR7ODEQCUsvShhCjKY&scisig=ALhkC2QAAAAAaVSypUa0JZZIPYcdGtYJhtv_mrA&scisf=4&ct=citation&cd=-1&hl=en)
+
 - Sen, S., **Deb, S.** (2025) tSNE-Spec: A new classification method for multivariate time series data. Journal of Multivariate Analysis, 105537. [[early view]](https://doi.org/10.1016/j.jmva.2025.105537) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ro48tO5iHDQJ:scholar.google.com/&output=citation&scisdr=ChXRFSJLEO_F36teO0o:ABGrvjIAAAAAaR1YI0pKk1Lp4rIDQkFAWSiCDSA&scisig=ABGrvjIAAAAAaR1YI4NksyLcmYYAKEpU0PvxuIw&scisf=4&ct=citation&cd=-1&hl=en)
 
 - Gupta, K., **Deb, S.** (2025). A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London. Annals of Operations Research, 1-42. [[early view]](https://link.springer.com/article/10.1007/s10479-025-06889-x) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:fWYcoQD40kMJ:scholar.google.com/&output=citation&scisdr=ChXRFSJLEO_F36tRoPU:ABGrvjIAAAAAaR1XuPU0ZjSS1PkpEh7tdCD2UFU&scisig=ABGrvjIAAAAAaR1XuBKrCzlHW5A--sU9wy7F2VI&scisf=4&ct=citation&cd=-1&hl=en)
