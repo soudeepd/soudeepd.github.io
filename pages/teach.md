@@ -17,7 +17,7 @@ description: Soudeep Deb's teaching
 
 Below is a list of courses I am teaching currently/regularly in the degree-granting programs at my current institute. I also teach a few sessions in the executive education programs. [Feel free to reach out](mailto:soudeep@iimb.ac.in) if you want to know more about those courses.
 
-* **(Upcoming) Dec 2025-Mar 2026, PhD level: Nonparametric Statistics : Theory and Applications.** This is a core course for the PhD students in the Decision Sciences area. This course builds on foundational knowledge in probability and statistics. The course covers order statistics, nonparametric estimation and testing, resampling methods, kernel techniques, with brief introduction to splines, wavelets and copulas. Emphasis is placed on both theoretical understanding and practical application. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
+* **(Ongoing) Dec 2025-Mar 2026, PhD level: Nonparametric Statistics : Theory and Applications.** This is a core course for the PhD students in the Decision Sciences area. This course builds on foundational knowledge in probability and statistics. The course covers order statistics, nonparametric estimation and testing, resampling methods, kernel techniques, with brief introduction to splines, wavelets and copulas. Emphasis is placed on both theoretical understanding and practical application. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
 * **Dec-Mar, since 2021-22, PhD level: Multivariate Statistics.** This is a core course for the PhD students in the Decision Sciences area. Good understanding of probability theory, statistical inference, and linear algebra serve as adequate prerequisites to this course. The syllabus of the course includes the study of random vectors and associated probability distributions, inference about multivariate mean and dispersion matrix, multivariate regression models, factor models, and some machine learning techniques. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
@@ -28,7 +28,7 @@ Below is a list of courses I am teaching currently/regularly in the degree-grant
 * **Dec-Mar, since 2024-25, BBA level: Advanced Statistics for Business.** This course is aimed towards online BBA students and is a core course in their curriculum. The course covers the topics of nonparametric methods in statistics, advanced regression models, statistical quality control etc., and are designed around applications in business, rather than theoretical aspects. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
 
-Below are courses I have taught earlier in IIM Bangalore.
+Below are some other courses I have taught earlier in IIM Bangalore.
 
 * **Jun-Sep, 2024, PhD level: Advanced Statistical Methods and Computing.** This is a core course for PhD students in the Decision Sciences area. The course provides a broad and rigorous introduction to Bayesian methods, graph theory, probabilistic reasoning and decision making in uncertain environments. Special emphasis is given on various computing techniques in Bayesian methods and dynamic Bayesian networks. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
