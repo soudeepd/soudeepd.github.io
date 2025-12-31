@@ -47,7 +47,7 @@ Details of the research grants I have received so far are listed below:
 
 - Research Challenge Grant from IIM Bangalore for the project titled "Estimating spatial extremes using EVT-based scaling", in collaboration with [Dr. Anand Deo](https://sites.google.com/view/anands-webpage/home). The amount is INR 1.5 million for 18 months (March 2025 to August 2026).
 
-- Research travel grant from London Mathematical Society, under Scheme 5 'Collaborations with Developing Countries' Grant, for a collaborative project with [Dr. Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex. The amount is GBP 2200, for a research trip in December 2024.
+- Research Travel Grant from London Mathematical Society, under Scheme 5 'Collaborations with Developing Countries' Grant, for a collaborative project with [Dr. Rishideep Roy](https://sites.google.com/site/royrishideep/home) from the University of Essex. The amount is GBP 2200, for a research trip in December 2024.
 
 - Research Seed Grant from IIM Bangalore for the project titled "Nonparametric methods of structural break detection in time series". The amount is INR 0.5 million for 18 months (July 2024 to December 2025).
 
@@ -88,6 +88,10 @@ Currently, the following students are advised by me in different capacities.
 
 - (Doctoral committee member of) [Sabhya Rai](https://www.linkedin.com/in/sabhyarai/): Fifth year doctoral student from the Economics area, Indian Institute of Management Bangalore. 
 
+- (Doctoral committee member of) [Mantu Prasad Gupta](https://www.linkedin.com/in/mantu-prasad-gupta-a47bb3178/): Third year doctoral student from the Decision Sciences area, Indian Institute of Management Bangalore. 
+
+- (Doctoral committee member of) [Tejaswi Kalaga](https://www.linkedin.com/in/tejaswikalaga/): Third year doctoral student from the Marketing area, Indian Institute of Management Bangalore. 
+
 I have been part of the dissertation advisory committee of the following students as well.
 
 - [Sajad S Santhosh](https://www.linkedin.com/in/sajadsanthosh1991/): Defended in July 2025, from the Centre of Public Policy at Indian Institute of Management Bangalore. 
@@ -99,6 +103,7 @@ Below is a list of people who are currently working on various projects in colla
 - Subhrajyoty Roy: Currently a postdoctoral fellow at Washington University St Louis.
 - Shagun Srivastava: Currently a doctoral student in Indian Institute of Management Bangalore.
 - Lizan Meryl Pereira: Currently a doctoral student in Indian Institute of Management Bangalore.
+- Shobhit Gupta: Currently a doctoral student in Indian Institute of Management Bangalore.
 - Anitha Pathlavath: Currently an academic associate in Indian Institute of Management Bangalore.
 - Deepam Saha: Currently a student at Indian Statistical Institute Kolkata.
 - Shubhayan Pan: Currently a student at Indian Statistical Institute Kolkata.
