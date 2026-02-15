@@ -18,6 +18,7 @@ description: Soudeep's academic commitments
 
 In academia, it is an important commitment to provide professional services. I am currently in the editorial boards of the following journals and I work to the best of my abilities to maintain the high standards of these journals. 
 
+- <a href="https://link.springer.com/journal/12889" target="_blank">BMC Public Health</a>: I am working as an Associate Editor for this journal, whichh is one of the leading outlets for research in public health.
 - <a href="https://www.nature.com/srep/about/editors#climate-change" target="_blank">Nature Scientific Reports</a>: Published by the Nature portfolio, it is one of the highest-cited journal in the world. I am working as an Associate Editor of their Climate Change division.
 - <a href="https://journals.sagepub.com/home/SAN" target="_blank">Journal of Sports Analytics</a>: One of the pioneering journals in the field of sports analytics. I am working as an Associate Editor for this journal.
 - <a href="https://link.springer.com/journal/13571" target="_blank">Sankhya B</a>: The Indian Journal of Statistics: It is a quarterly journal from the Indian Statistical Institute, focusing on Applied and Interdisciplinary Statistics including Data Science. I am working as an Associate Editor for this journal.
@@ -46,6 +47,8 @@ Additionally, I serve as a reviewer for many journals including the following (i
 It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
 
 - **May 2026**, Topic to be confirmed. Keynote talk, AUEB Sports Analytics Workshop & Conference 2026 (SAW 2026), Athens, Greece.
+
+- **June 2026**, Topic to be confirmed. Invited talk, IMS Asia Pacific Rim Meeting 2026 (IMS-APRM), Hong Kong.
 
 ### <a name="previous"></a>Previous talks
 
