@@ -29,7 +29,7 @@ In 2023, I published my first book, which is a problem-based book aimed at high-
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 22nd October 2024.
 
-- Panja, M., Chakraborty, T., Biswas, A., **Deb, S.** (2026). E-STGCN: Extreme spatiotemporal graph convolutional networks for air quality forecasting. Journal of the Royal Statistical Society Series A: Statistics in Society, qnag010. [[publication]](https://doi.org/10.1093/jrsssa/qnag010) 
+- Panja, M., Chakraborty, T., Biswas, A., **Deb, S.** (2026). E-STGCN: Extreme spatiotemporal graph convolutional networks for air quality forecasting. Journal of the Royal Statistical Society Series A: Statistics in Society, qnag010. [[publication]](https://doi.org/10.1093/jrsssa/qnag010) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZbjC_F2pd14J:scholar.google.com/&output=citation&scisdr=Cl8z6T5PELuYknBj_Dc:AFtJQiwAAAAAabtl5Dewopb8D2lIDHiZcHPEY5w&scisig=AFtJQiwAAAAAabtl5HDakI4El0dPM5bTMhyuYSY&scisf=4&ct=citation&cd=-1&hl=en)
 
 - **Deb, S.**, Das, S. (2026) Optimal selection of the starting lineup for a football team. IIMB Management Review, 100642. [[publication]](https://doi.org/10.1016/j.iimb.2026.100642) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:MhEUB4OmI_EJ:scholar.google.com/&output=citation&scisdr=Cl86MyeNELuYklqXUck:AFtJQiwAAAAAaZGRSclz6f4g2K2hBOVrfpNJMS4&scisig=AFtJQiwAAAAAaZGRSWRN9F65JUMPzS5HXKBoAlk&scisf=4&ct=citation&cd=-1&hl=en)
 
@@ -92,8 +92,7 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
-- Panja, M., Chakraborty, T., Biswas, A., **Deb, S.** E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting. Under revision.[[pre-print]](https://arxiv.org/abs/2411.12258) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZbjC_F2pd14J:scholar.google.com/&output=citation&scisdr=ClHKwvNDEPHmk_HskBo:AFWwaeYAAAAAZ0HqiBquOxDgHB6chNxuqxEP6IQ&scisig=AFWwaeYAAAAAZ0HqiBj-58c6MNPaMI73p1Hj2II&scisf=4&ct=citation&cd=-1&hl=en)
-  
+- Rai, K., Roy, A., Dattner, I., **Deb, S.** A nonparametric approach to understand multivariate quantile dynamics in financial time series. Under review.[[pre-print]](https://arxiv.org/abs/2603.16400) 
 
 - Roy, A., Podder, M., **Deb, S.** Nonparametric method of structural break detection in stochastic time series regression model. Under review. [[pre-print]](https://arxiv.org/abs/2410.15713) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:k9BUur_NIogJ:scholar.google.com/&output=citation&scisdr=ClHKwvZ8EPHmk4dmOG4:AFWwaeYAAAAAZzdgIG4KRGIVkX10O1rjBDSC2rE&scisig=AFWwaeYAAAAAZzdgIELv1ZVDXaiGAN7UX9FBbq4&scisf=4&ct=citation&cd=-1&hl=en)
 
