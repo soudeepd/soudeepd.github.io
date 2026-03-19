@@ -23,12 +23,12 @@ Below is a list of courses I am teaching currently/regularly in the degree-grant
 
 * **Jun-Sep, since 2020-21, MBA level: Decision Sciences 1.** This course is aimed towards MBA students and is a core course in their curriculum. The course is oriented towards application rather than theoretical aspects. It is designed to enable students to conduct data analytics through statistical methods and make data driven inference as well as to help them develop understanding of the methodology, the assumptions made in the process, so as to be able to tweak them, depending on ground realities. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
-* **Jun-Sep, since 2023-24, MBA level: Sports Analytics.** This course is an elective for second year MBA students. The objective of this course is to equip the students with important data analysis and statistical tools that can be used in handling problems related to sports analytics. The curriculum is designed to cater to the likings and interests of different students, through discussions of interesting problems from various sports, in the contexts of analysis of game-play, strategy building, sports management, betting markets and other economic aspects. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
-
 * **Dec-Mar, since 2024-25, BBA level: Advanced Statistics for Business.** This course is aimed towards online BBA students and is a core course in their curriculum. The course covers the topics of nonparametric methods in statistics, advanced regression models, statistical quality control etc., and are designed around applications in business, rather than theoretical aspects. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
 
 Below are some other courses I have taught earlier in IIM Bangalore.
+
+* **Jun-Sep, during 2022-25, MBA level: Sports Analytics.** This course is an elective for second year MBA students. The objective of this course is to equip the students with important data analysis and statistical tools that can be used in handling problems related to sports analytics. The curriculum is designed to cater to the likings and interests of different students, through discussions of interesting problems from various sports, in the contexts of analysis of game-play, strategy building, sports management, betting markets and other economic aspects. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
 * **Jun-Sep, 2024, PhD level: Advanced Statistical Methods and Computing.** This is a core course for PhD students in the Decision Sciences area. The course provides a broad and rigorous introduction to Bayesian methods, graph theory, probabilistic reasoning and decision making in uncertain environments. Special emphasis is given on various computing techniques in Bayesian methods and dynamic Bayesian networks. [Send an email](mailto:soudeep@iimb.ac.in) if you want more information.
 
