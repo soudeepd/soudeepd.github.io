@@ -31,7 +31,7 @@ Following are my academic publications in journals and conference proceedings, a
 
 - **Deb, S.** (2026) Skill or chance? A Bayesian analysis of dependence and heterogeneity in penalty shootouts in football. Journal of Sports Analytics (forthcoming). [[GitHub]](https://github.com/soudeepd/shootout-analysis)
 
-- Panja, M., Chakraborty, T., Biswas, A., **Deb, S.** (2026). E-STGCN: Extreme spatiotemporal graph convolutional networks for air quality forecasting. Journal of the Royal Statistical Society Series A: Statistics in Society, qnag010. [[publication]](https://doi.org/10.1093/jrsssa/qnag010) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:ZbjC_F2pd14J:scholar.google.com/&output=citation&scisdr=Cl8z6T5PELuYknBj_Dc:AFtJQiwAAAAAabtl5Dewopb8D2lIDHiZcHPEY5w&scisig=AFtJQiwAAAAAabtl5HDakI4El0dPM5bTMhyuYSY&scisf=4&ct=citation&cd=-1&hl=en)
+- Panja, M., Chakraborty, T., Biswas, A., **Deb, S.** (2026). E-STGCN: Extreme spatiotemporal graph convolutional networks for air quality forecasting. Journal of the Royal Statistical Society Series A: Statistics in Society, qnag010. [[publication]](https://doi.org/10.1093/jrsssa/qnag010) <a href="/assets/bibtex/panja2026estgcn.bib" target="_blank">[bibtex]</a>
 
 - **Deb, S.**, Das, S. (2026) Optimal selection of the starting lineup for a football team. IIMB Management Review, 100642. [[publication]](https://doi.org/10.1016/j.iimb.2026.100642) [[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:MhEUB4OmI_EJ:scholar.google.com/&output=citation&scisdr=Cl86MyeNELuYklqXUck:AFtJQiwAAAAAaZGRSclz6f4g2K2hBOVrfpNJMS4&scisig=AFtJQiwAAAAAaZGRSWRN9F65JUMPzS5HXKBoAlk&scisf=4&ct=citation&cd=-1&hl=en)
 
