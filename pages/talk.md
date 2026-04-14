@@ -48,7 +48,7 @@ It is a pleasure to talk about my research or to deliver short workshop in diffe
 
 - **May 2026**, Optimizing Football Squad Selection: A Multi-Objective Approach to Transfer Strategy under Budget Constraints. Keynote talk, AUEB Sports Analytics Workshop & Conference 2026 (SAW 2026), Athens, Greece.
 
-- **June 2026**, Topic to be confirmed. Invited talk, IMS Asia Pacific Rim Meeting 2026 (IMS-APRM), Hong Kong.
+- **June 2026**, Nonparametric regression of spatio-temporal data using infinite-dimensional covariates. Invited talk, IMS Asia Pacific Rim Meeting 2026 (IMS-APRM), Hong Kong.
 
 - **Dec 2026**, Topic to be confirmed. Invited talk, IISA 2026 Conference, Varanasi, India.
 
