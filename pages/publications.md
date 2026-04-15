@@ -45,6 +45,8 @@ Following are my academic publications in journals and conference proceedings, a
 
 - Deshmukh, S. S., **Deb, S.** (2025). A survey of statistical and machine learning methods of quantile regression in time series and their suitability in predicting dengue outbreaks. Japanese Journal of Statistics and Data Science, 8(1), 641-689. [[publication]](https://link.springer.com/article/10.1007/s42081-025-00297-y) <a href="/assets/bibtex/deshmukh2025survey.bib" target="_blank">[bibtex]</a>
 
+- Gupta, K., Krishnamurthy, V., **Deb, S.** (2025) What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. IIMB Management Review, 37(1), 100519. [[publication]](https://www.sciencedirect.com/science/article/pii/S0970389624000089) <a href="/assets/bibtex/gupta2025elements.bib" target="_blank">[bibtex]</a>
+
 - **Deb, S.**, Jana, K. (2024) Nonparametric quantile regression for time series with replicated observations and its application to climate data. Statistical Science, 39(3), 428-448. [[publication]](https://projecteuclid.org/journals/statistical-science/volume-39/issue-3/Nonparametric-Quantile-Regression-for-Time-Series-with-Replicated-Observations-and/10.1214/23-STS918.short) <a href="/assets/bibtex/deb2024nonparametric.bib" target="_blank">[bibtex]</a>
 
 - Divekar, C., **Deb, S.**, & Roy, R. (2024) Real-time forecasting within soccer matches through a Bayesian lens. Journal of the Royal Statistical Society Series A: Statistics in Society, 187(2), 513–540. [[publication]](https://doi.org/10.1093/jrsssa/qnad136) <a href="/assets/bibtex/divekar2024real.bib" target="_blank">[bibtex]</a>
@@ -52,8 +54,6 @@ Following are my academic publications in journals and conference proceedings, a
 - **Deb, S.**, Roy, R., & Das, S. (2024) Forecasting elections from partial information using a Bayesian model for a multinomial sequence of data. Journal of Forecasting, 43(6), 1814-1834. [[publication]](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.3107) <a href="/assets/bibtex/deb2024forecasting.bib" target="_blank">[bibtex]</a>
 
 - Chattopadhyay, A., **Deb, S.** (2024) A spatio-temporal model for binary data and its application in analyzing the direction of COVID-19 spread. AStA Advances in Statistical Analysis, 108(4), 823-851. [[publication]](https://link.springer.com/article/10.1007/s10182-024-00507-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240708&utm_content=10.1007/s10182-024-00507-0) <a href="/assets/bibtex/chattopadhyay2024spatio.bib" target="_blank">[bibtex]</a>
-
-- Gupta, K., Krishnamurthy, V., **Deb, S.** (2024) What elements of the opening set influence the outcome of a tennis match? An in-depth analysis of Wimbledon data. IIMB Management Review, 37(1), 100519. [[publication]](https://www.sciencedirect.com/science/article/pii/S0970389624000089) <a href="/assets/bibtex/gupta2025elements.bib" target="_blank">[bibtex]</a>
 
 - Mareeswaran, M., Sen, S., & **Deb, S.** (2024). New methods of structural break detection and an ensemble approach to analyse exchange rate volatility of Indian rupee during coronavirus pandemic. Journal of the Royal Statistical Society Series A: Statistics in Society, 187(1), 39-61. [[publication]](https://academic.oup.com/jrsssa/article-abstract/187/1/39/7197368) <a href="/assets/bibtex/mareeswaran2024new.bib" target="_blank">[bibtex]</a>
 
