@@ -18,7 +18,7 @@ keywords: soudeep, deb, time series, spatio-temporal modeling, soccer analytics,
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="soudeep-pic3.png" width="270" height="270" alt="" />
+    <img id="frontphoto" src="soudeep-pic3.jpg" width="270" height="270" alt="" />
 </td>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <td class="left">
