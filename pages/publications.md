@@ -29,7 +29,7 @@ In 2023, I published my first book, which is a problem-based book aimed at high-
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 14th April 2026.
 
-- **Deb, S.** (2026) Skill or chance? A Bayesian analysis of dependence and heterogeneity in penalty shootouts in football. Journal of Sports Analytics (forthcoming). [[GitHub]](https://github.com/soudeepd/shootout-analysis)
+- **Deb, S.** (2026) Skill or chance? A Bayesian analysis of dependence and heterogeneity in penalty shootouts in football. Journal of Sports Analytics (forthcoming). [[publication]](https://journals.sagepub.com/doi/10.1177/22150218261444633) [[GitHub]](https://github.com/soudeepd/shootout-analysis) <a href="/assets/bibtex/deb2026skill.bib" target="_blank">[bibtex]</a>
 
 - Panja, M., Chakraborty, T., Biswas, A., **Deb, S.** (2026). E-STGCN: Extreme spatiotemporal graph convolutional networks for air quality forecasting. Journal of the Royal Statistical Society Series A: Statistics in Society, qnag010. [[publication]](https://doi.org/10.1093/jrsssa/qnag010) <a href="/assets/bibtex/panja2026estgcn.bib" target="_blank">[bibtex]</a>
 
