@@ -93,6 +93,10 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
+- Banerjee, S., **Deb, S.** (2026).  Projection Diagnostics for Directional Asymmetry and Tail-Ratio Departure in Multivariate Data. [[pre-print]](https://arxiv.org/abs/2606.03670) <a href="/assets/bibtex/banerjee2026projection.bib" target="_blank">[bibtex]</a>
+
+- Basu, T., **Deb, S.**, Roy, R. (2026). Optimising football transfer strategy under budget constraints: A weighted multi-criteria approach. [[pre-print]](https://arxiv.org/abs/2605.13926) <a href="/assets/bibtex/basu2026optimising.bib" target="_blank">[bibtex]</a>
+
 - Roy, S., **Deb, S.**, Karmakar, S., Roy, R. Nonparametric regression of spatio-temporal data using infinite-dimensional covariates. [[pre-print]](https://arxiv.org/abs/2604.01593) <a href="/assets/bibtex/roy2026nonparametric.bib" target="_blank">[bibtex]</a>
 
 - Rai, K., Anand, A., **Deb, S.** Multiperiod volatility forecasting with optimization-based model selection: Evidence from NIFTY-50 Banks. Under review. [[pre-print]](https://dx.doi.org/10.2139/ssrn.6513699) <a href="/assets/bibtex/rai2026multi.bib" target="_blank">[bibtex]</a>

@@ -46,25 +46,27 @@ Additionally, I serve as a reviewer for many journals including the following (i
 
 It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
 
-- **May 2026**, Optimizing Football Squad Selection: A Multi-Objective Approach to Transfer Strategy under Budget Constraints. Keynote talk, AUEB Sports Analytics Workshop & Conference 2026 (SAW 2026), Athens, Greece.
-
 - **June 2026**, Nonparametric regression of spatio-temporal data using infinite-dimensional covariates. Invited talk, IMS Asia Pacific Rim Meeting 2026 (IMS-APRM), Hong Kong.
 
-- **Dec 2026**, Topic to be confirmed. Invited talk, IISA 2026 Conference, Varanasi, India.
+- **Dec 2026**, A data-driven approach to spatial zoning in dynamic real estate markets. Invited talk, IISA 2026 Conference, Varanasi, India.
 
 ### <a name="previous"></a>Previous talks
 
-- **Dec 2025**, Some Nonparametric Methods for Analyzing Financial Data. StatFin Conference 2025, Chennai, India.
+- **May 2026**, Optimizing Football Squad Selection: A Multi-Objective Approach to Transfer Strategy under Budget Constraints. Keynote talk, AUEB Sports Analytics Workshop & Conference 2026 (SAW 2026), Athens, Greece. <a href="/assets/slides/AUEB_talk.pdf" target="_blank">[slides]</a>
 
-- **Dec 2025**, Bridging Search Behaviour and Market Dynamics: A Hybrid Model for High-frequency Financial Data. CFE-CMStatistics Conference 2025, London, UK.
+- **Mar 2026**, Analytics and scope in the sports industry. MTRP Camp for seniors at Indian Statistical Institute Kolkata, virtual talk. <a href="/assets/slides/ISI_MTRP_talk.pdf" target="_blank">[slides]</a>
 
-- **Dec 2025**, Real-time forecasting in football and cricket. Seminar series at University of Liverpool Management School, Liverpool, UK.
+- **Dec 2025**, Some Nonparametric Methods for Analyzing Financial Data. StatFin Conference 2025, Chennai, India. <a href="/assets/slides/StatFin_talk.pdf" target="_blank">[slides]</a>
 
-- **Dec 2025**, Real-time forecasting in football matches (and in other sports). Statistics seminar at Newcastle University, Newcastle, UK.
+- **Dec 2025**, Bridging Search Behaviour and Market Dynamics: A Hybrid Model for High-frequency Financial Data. CFE-CMStatistics Conference 2025, London, UK. <a href="/assets/slides/CMStat_talk.pdf" target="_blank">[slides]</a>
+
+- **Dec 2025**, Real-time forecasting in football and cricket. Seminar series at University of Liverpool Management School, Liverpool, UK. <a href="/assets/slides/Liverpool_talk.pdf" target="_blank">[slides]</a>
+
+- **Dec 2025**, Real-time forecasting in football matches (and in other sports). Statistics seminar at Newcastle University, Newcastle, UK. <a href="/assets/slides/Newcastle_talk.pdf" target="_blank">[slides]</a>
 
 - **Sep 2025**, Real-time forecasting in football matches (and in other sports). IISA Webinar Series, virtual talk.
 
-- **Sep 2025**, Statistics and AI in business. Special seminar, Eastern Institute for Integrated Learning in Management (EIILM), Jalpaiguri Campus.
+- **Sep 2025**, Statistics and AI in business. Special seminar, Eastern Institute for Integrated Learning in Management (EIILM), Jalpaiguri Campus, India.
 
 - **May 2025**, Data Handling, Visualisation, and Storytelling in Academic Research. Workshop-cum-training session at RV University, Bengaluru, India.
 
