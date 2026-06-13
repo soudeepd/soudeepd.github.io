@@ -46,11 +46,11 @@ Additionally, I serve as a reviewer for many journals including the following (i
 
 It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
 
-- **June 2026**, Nonparametric regression of spatio-temporal data using infinite-dimensional covariates. Invited talk, IMS Asia Pacific Rim Meeting 2026 (IMS-APRM), Hong Kong.
-
 - **Dec 2026**, A data-driven approach to spatial zoning in dynamic real estate markets. Invited talk, IISA 2026 Conference, Varanasi, India.
 
 ### <a name="previous"></a>Previous talks
+
+- **June 2026**, Nonparametric regression of spatio-temporal data using infinite-dimensional covariates. Invited talk, IMS Asia Pacific Rim Meeting 2026 (IMS-APRM), Hong Kong. <a href="/assets/slides/IMS_talk.pdf" target="_blank">[slides]</a>
 
 - **May 2026**, Optimizing Football Squad Selection: A Multi-Objective Approach to Transfer Strategy under Budget Constraints. Keynote talk, AUEB Sports Analytics Workshop & Conference 2026 (SAW 2026), Athens, Greece. <a href="/assets/slides/AUEB_talk.pdf" target="_blank">[slides]</a>
 
