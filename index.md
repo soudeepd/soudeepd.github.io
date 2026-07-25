@@ -35,7 +35,7 @@ keywords: soudeep, deb, time series, spatio-temporal modeling, soccer analytics,
 
 <div style="margin: 1.2rem 0; padding: 1rem 1.2rem; border: 1px solid #dbeafe; background: #f8fbff; border-radius: 10px;">
   <strong>Research team:</strong>
-  To see more details about my research team, current members, alumni, publications, and activities, please visit
+  To see more details about my research team, please visit the website of
   <a href="https://signal-lab-by-deb.in" target="_blank" rel="noopener">The SIGNAL Group</a>.
 </div>
 
