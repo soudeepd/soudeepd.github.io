@@ -59,6 +59,15 @@ Neural Networks for Analysing Spatio-temporal Climate Data". The amount is appro
 - Young Faculty Research Grant from IIM Bangalore. The amount is INR 0.9 million for three years (March 2020 to February 2023).
 
 
+
+<div style="margin: 1.2rem 0; padding: 1rem 1.2rem; border: 1px solid #dbeafe; background: #f8fbff; border-radius: 10px;">
+  <strong>Research Group:</strong>
+  To see more details about my research team, please visit the website of
+  <a href="https://signal-lab-by-deb.in" target="_blank" rel="noopener">The SIGNAL Group</a>.
+</div>
+
+
+<!--
 ### <a name="students"></a>Research Group
 
 Below is a list of postdoctoral fellows who are currently working in my research group. I have a position for another postdoctoral researcher, with expertise in probability theory, statistics, machine learning and programming skills. <a href="mailto:soudeep@iimb.ac.in" target="_blank">Email me with your CV</a> if you are interested (minimum eligibility criteria is a PhD).
@@ -128,3 +137,4 @@ A few other notable research assistants, who contributed substantially to my res
 - [Shubhajit Sen](https://statistics.sciences.ncsu.edu/people/ssen8/): Worked during 2020-21, later joined doctoral program at North Carolina State University.
 - [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): Worked during 2020-22, later joined McKinsey & Co as Business Analyst. 
 - [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): Worked during 2020-22, later joined Google as Software Engineer.
+-->
