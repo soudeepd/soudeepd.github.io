@@ -27,7 +27,7 @@ In 2023, I published my first book, which is a problem-based book aimed at high-
 
 ### <a name="journal"></a>Journal and conference publications
 
-Following are my academic publications in journals and conference proceedings, along with other published materials, as of 14th April 2026.
+Following are my academic publications in journals and conference proceedings, along with other published materials, as of 28th August 2026.
 
 - **Deb, S.** (2026). Skill or chance? A Bayesian analysis of dependence and heterogeneity in penalty shootouts in football. Journal of Sports Analytics, 12. [[publication]](https://journals.sagepub.com/doi/10.1177/22150218261444633) [[GitHub]](https://github.com/soudeepd/shootout-analysis) <a href="/assets/bibtex/deb2026skill.bib" target="_blank">[bibtex]</a>
 
@@ -113,9 +113,9 @@ Following are my academic publications in journals and conference proceedings, a
 
 - Rawat, S., Durrant, A., Simpson, A., Nielson, G., Berrett, C,  **Deb, S.** A Bayesian approach to identify changepoints in spatio-temporal ordered categorical data: An application to COVID-19 data. Under resubmission. [[pre-print]](https://arxiv.org/abs/2305.01906) <a href="/assets/bibtex/rawat2023bayesian.bib" target="_blank">[bibtex]</a> 
 
-- Rawat, S., **Deb, S.**. Impact of rising temperature on rainfall: A spatio-temporal study from Bangladesh. Under review. Preprint available on request.
+- Rawat, S., **Deb, S.**. Impact of rising temperature on rainfall: A spatio-temporal study from Bangladesh. Under major revision. Preprint available on request.
 
-- Soni, A., **Deb, S.**, Das, D., Zaremba, A. Using t-SNE and KL divergence to identify the effects of structural breaks on Value-at-Risk transmission and information flow among cryptocurrencies. Under review. Preprint available on request.
+- Soni, A., **Deb, S.**, Das, D. Regime-Dependent Value-at-Risk and Risk Spillovers in Multivariate Cryptocurrency Markets. Under major revision. Preprint available on request.
 
 - **Deb, S.** Analyzing count data using a time series model with an exponentially decaying covariance structure. Under review. [[pre-print]](https://arxiv.org/abs/2004.03130) <a href="/assets/bibtex/deb2020analyzing.bib" target="_blank">[bibtex]</a>
 
