@@ -48,6 +48,8 @@ It is a pleasure to talk about my research or to deliver short workshop in diffe
 
 - **Dec 2026**, A data-driven approach to spatial zoning in dynamic real estate markets. Invited talk, IISA 2026 Conference, Varanasi, India.
 
+- **Jan 2027**, TBD. Invited talk, International Conference on Data Management, Analytics & Innovation 2027, Bengaluru, India.
+
 ### <a name="previous"></a>Previous talks
 
 - **June 2026**, Optimizing football squad selection: A multi-objective approach to transfer strategy under budget constraints. DS Area Brown Bag Series, Indian Institute of Management Bangalore, India. <a href="/assets/slides/IIMB_Brownbag_talk.pdf" target="_blank">[slides]</a>
