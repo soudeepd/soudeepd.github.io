@@ -46,9 +46,13 @@ Additionally, I serve as a reviewer for many journals including the following (i
 
 It is a pleasure to talk about my research or to deliver short workshop in different places. Please feel free to <a href="mailto:soudeep@iimb.ac.in" target="_blank">email me</a> if you want to interact with me through such seminars/workshops. Below is a list of my upcoming talks. 
 
+- **Dec 2026**, Forecasting football league standings: A dynamic framework for sports business decisions. Keynote talk, MathSport Asia 2026 Conference, Kozhikode, India.
+
 - **Dec 2026**, A data-driven approach to spatial zoning in dynamic real estate markets. Invited talk, IISA 2026 Conference, Varanasi, India.
 
 - **Jan 2027**, TBD. Invited talk, International Conference on Data Management, Analytics & Innovation 2027, Bengaluru, India.
+
+- **Mar 2027**, TBD. Invited talk, International Conference on Quant, Risk and Data (QRD 2027), Mumbai, India.
 
 ### <a name="previous"></a>Previous talks
 
