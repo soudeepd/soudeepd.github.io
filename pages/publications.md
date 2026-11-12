@@ -29,7 +29,7 @@ In 2023, I published my first book, which is a problem-based book aimed at high-
 
 Following are my academic publications in journals and conference proceedings, along with other published materials, as of 28th August 2026.
 
-- Soni, A., **Deb, S.**, Das, D. (2026) Regime-Dependent Value-at-Risk and Risk Spillovers in Multivariate Cryptocurrency Markets. To appear at Applied Stochastic Models In Business And Industry.
+- Soni, A., **Deb, S.**, Das, D. (2026) Regime-Dependent Value-at-Risk and Risk Spillovers in Multivariate Cryptocurrency Markets. Applied Stochastic Models In Business And Industry, 42(6), e70140. [[publication]](https://onlinelibrary.wiley.com/doi/10.1002/asmb.70140) <a href="/assets/bibtex/soni2026regime.bib" target="_blank">[bibtex]</a>
 
 - **Deb, S.** (2026). Skill or chance? A Bayesian analysis of dependence and heterogeneity in penalty shootouts in football. Journal of Sports Analytics, 12. [[publication]](https://journals.sagepub.com/doi/10.1177/22150218261444633) [[GitHub]](https://github.com/soudeepd/shootout-analysis) <a href="/assets/bibtex/deb2026skill.bib" target="_blank">[bibtex]</a>
 
